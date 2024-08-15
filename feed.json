@@ -1,0 +1,235 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "日記",
+	"icon": "https://micro.blog/tai2/avatar.jpg",
+	"home_page_url": "https://tweets.tai2.net/",
+	"feed_url": "https://tweets.tai2.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tai2.micro.blog/2024/08/15/httpscabalchatexperimental-pp-communitychat.html",
+				
+				"content_html": "<p><a href=\"https://cabal.chat/\">cabal.chat</a>\nexperimental p2p community\nchat platform</p>\n",
+				"content_text": "[cabal.chat](https://cabal.chat/)\r\nexperimental p2p community\r\nchat platform\n",
+				"date_published": "2024-08-15T11:07:36+09:00",
+				"url": "https://tweets.tai2.net/2024/08/15/httpscabalchatexperimental-pp-communitychat.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
+				
+				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-13T13:04:49+09:00",
+				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/12/macaronihttpsmacaronijp.html",
+				
+				"content_html": "<p>中華炒めはこれで完璧！野菜・肉・海鮮の具材別レシピ27選 - macaroni\n<a href=\"https://macaro-ni.jp/77854\">macaro-ni.jp/77854</a></p>\n",
+				"content_text": "中華炒めはこれで完璧！野菜・肉・海鮮の具材別レシピ27選 - macaroni\n[macaro-ni.jp/77854](https://macaro-ni.jp/77854)\n",
+				"date_published": "2024-08-12T20:59:27+09:00",
+				"url": "https://tweets.tai2.net/2024/08/12/macaronihttpsmacaronijp.html",
+				"tags": ["Recipe"]
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/12/205129.html",
+				
+				"content_html": "<p>13香粉を使った炒め物を極めたい</p>\n",
+				"content_text": "13香粉を使った炒め物を極めたい\n",
+				"date_published": "2024-08-12T20:51:29+09:00",
+				"url": "https://tweets.tai2.net/2024/08/12/205129.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/12/httpsfrontendsocial.html",
+				
+				"content_html": "<p><a href=\"https://front-end.social/\">front-end.social</a> は多少人が居そうなのかな</p>\n",
+				"content_text": "[front-end.social](https://front-end.social/) は多少人が居そうなのかな\n",
+				"date_published": "2024-08-12T17:54:02+09:00",
+				"url": "https://tweets.tai2.net/2024/08/12/httpsfrontendsocial.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/11/100327.html",
+				
+				"content_html": "<p>言われてもないのに空気読んで、極端に見える最適行動取れないやつは、最強にはなれないんだよな</p>\n",
+				"content_text": "言われてもないのに空気読んで、極端に見える最適行動取れないやつは、最強にはなれないんだよな\n",
+				"date_published": "2024-08-11T10:03:27+09:00",
+				"url": "https://tweets.tai2.net/2024/08/11/100327.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/the-art-of.html",
+				
+				"content_html": "<p>The Art of Agile Development: No Bugs\n<a href=\"https://www.jamesshore.com/v2/books/aoad1/no_bugs\">www.jamesshore.com/v2/books/&hellip;</a></p>\n<p>バグをゼロに保つべきというジェームス・ショアの主張</p>\n",
+				"content_text": "The Art of Agile Development: No Bugs\n[www.jamesshore.com/v2/books/...](https://www.jamesshore.com/v2/books/aoad1/no_bugs)\n\nバグをゼロに保つべきというジェームス・ショアの主張\n",
+				"date_published": "2024-08-10T20:59:11+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/the-art-of.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/122040.html",
+				
+				"content_html": "<p>結局のところ、「正しいエンジニアリングをする」が大事なことなんだよなー。やっぱりスキルとか知識は必要。いいプログラマーを雇うことが大事。</p>\n",
+				"content_text": "結局のところ、「正しいエンジニアリングをする」が大事なことなんだよなー。やっぱりスキルとか知識は必要。いいプログラマーを雇うことが大事。\n",
+				"date_published": "2024-08-10T12:20:40+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/122040.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/121007.html",
+				
+				"content_html": "<p>その代表例として型チェックに代表される静的解析があるけど、他にも設計やプロセスレベルでバグが減ることを促すための取り組みというのはあると思う。</p>\n",
+				"content_text": "その代表例として型チェックに代表される静的解析があるけど、他にも設計やプロセスレベルでバグが減ることを促すための取り組みというのはあると思う。\n",
+				"date_published": "2024-08-10T12:10:07+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/121007.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/120745.html",
+				
+				"content_html": "<p>さっき書いたようなことを元にして、プログラミングにおいて１番の解決法はコードを書かないことだと言われるように、「最高のテストはテストしないことだ」という記事を書けそうな気がする。テスト＝コストという観点から、テストせずに品質を高めるための方法論という切り口。</p>\n",
+				"content_text": "さっき書いたようなことを元にして、プログラミングにおいて１番の解決法はコードを書かないことだと言われるように、「最高のテストはテストしないことだ」という記事を書けそうな気がする。テスト＝コストという観点から、テストせずに品質を高めるための方法論という切り口。\n",
+				"date_published": "2024-08-10T12:07:45+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/120745.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/115921.html",
+				"title": "バグは求められているから、存在する",
+				"content_html": "<p>テストやリリースについての本を読むと、アプリケーションの堅牢性をいかに高めるかということについて書かれてる。もちろんそれらのアレコレを実行すれば堅牢性が高まることは間違い無いんだけど、実行すればそれなりの時間がかかる。一つの機能をリリースするまでのコストが2、3倍になってもおかしくない。</p>\n<p>アプリケーションにそこまでの堅牢性って必要ではない気がする。もちろん分野によるんだろうけど。堅牢性はそこまで高くないけど、だいたいの場合ちゃんと動いて、ほとんどのニーズをカバーできる、というのが実際に求められていることな気がする。</p>\n<p>堅牢性高く作ったところで、使われなかったら意味がないし、なにか想定がずれててニーズとフィットしない可能性だってある。堅牢性を突き詰めるための手法みたいな話を読むと、現実と乖離しすぎてて、違和感しかないんだよなー。</p>\n<p>極端な話、もしも品質とコストが比例するならば、高い品質というのはビジネスとしては求められてないし、言い換えれば、(小さな)バグというのは求められているのだと言えなくもないかもしれない。</p>\n",
+				"content_text": "テストやリリースについての本を読むと、アプリケーションの堅牢性をいかに高めるかということについて書かれてる。もちろんそれらのアレコレを実行すれば堅牢性が高まることは間違い無いんだけど、実行すればそれなりの時間がかかる。一つの機能をリリースするまでのコストが2、3倍になってもおかしくない。\n\nアプリケーションにそこまでの堅牢性って必要ではない気がする。もちろん分野によるんだろうけど。堅牢性はそこまで高くないけど、だいたいの場合ちゃんと動いて、ほとんどのニーズをカバーできる、というのが実際に求められていることな気がする。\n\n堅牢性高く作ったところで、使われなかったら意味がないし、なにか想定がずれててニーズとフィットしない可能性だってある。堅牢性を突き詰めるための手法みたいな話を読むと、現実と乖離しすぎてて、違和感しかないんだよなー。\n\n極端な話、もしも品質とコストが比例するならば、高い品質というのはビジネスとしては求められてないし、言い換えれば、(小さな)バグというのは求められているのだと言えなくもないかもしれない。\n",
+				"date_published": "2024-08-10T11:59:21+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/115921.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/10/105430.html",
+				
+				"content_html": "<p>暗殺教室って作品があらすじ聞いた感じ好みっぽいから、漫画かアニメ見てみようかな</p>\n",
+				"content_text": "暗殺教室って作品があらすじ聞いた感じ好みっぽいから、漫画かアニメ見てみようかな\n",
+				"date_published": "2024-08-10T10:54:30+09:00",
+				"url": "https://tweets.tai2.net/2024/08/10/105430.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/react-native.html",
+				
+				"content_html": "<p>作りたいアプリのネタが二つある:</p>\n<ul>\n<li>モバイルネイティブアプリ(規模小)</li>\n<li>ウェブアプリ(規模中)</li>\n</ul>\n<p>とりあえずネイティブアプリかな。React Native覚えよ。</p>\n",
+				"content_text": "作りたいアプリのネタが二つある:\n\n- モバイルネイティブアプリ(規模小)\n- ウェブアプリ(規模中)\n\nとりあえずネイティブアプリかな。React Native覚えよ。\n",
+				"date_published": "2024-08-09T18:24:10+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/react-native.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/143057.html",
+				
+				"content_html": "<p>ツイッター以外で、技術者の雑多なコミュニティーっぽく機能してるところってなると、どこがあるんだろう</p>\n",
+				"content_text": "ツイッター以外で、技術者の雑多なコミュニティーっぽく機能してるところってなると、どこがあるんだろう\n",
+				"date_published": "2024-08-09T14:30:57+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/143057.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
+				
+				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-09T10:45:18+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/github-httpsgithubcomtaitweetstainet.html",
+				
+				"content_html": "<p>GitHubにアーカイブしてくれる機能便利だなー。週1でやってくれるらしい。</p>\n<p><a href=\"https://github.com/tai2/tweets.tai2.net\">github.com/tai2/twee&hellip;</a></p>\n<p>ちゃんと動くかな。</p>\n",
+				"content_text": "GitHubにアーカイブしてくれる機能便利だなー。週1でやってくれるらしい。\r\n\r\n[github.com/tai2/twee...](https://github.com/tai2/tweets.tai2.net)\r\n\r\nちゃんと動くかな。\n",
+				"date_published": "2024-08-09T08:50:23+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/github-httpsgithubcomtaitweetstainet.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/test-test.html",
+				
+				"content_html": "<p>test test</p>\n",
+				"content_text": "test test\n",
+				"date_published": "2024-08-09T08:49:07+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/test-test.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/test.html",
+				
+				"content_html": "<p>test</p>\n",
+				"content_text": "test\n",
+				"date_published": "2024-08-09T08:47:33+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/test.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/httpswwwtokyonpcojparticle-pfas.html",
+				
+				"content_html": "<p><a href=\"https://www.tokyo-np.co.jp/article/344389\">www.tokyo-np.co.jp/article/3&hellip;</a></p>\n<p>ぼくの住んでる地域はPFAS汚染という水の問題があって、念のため飲み水はすべて買ってる。お金がかかるのもあれだけど、大量のペットボトル捨てるのがめんどくさい。</p>\n<p>一番深刻な立川ではないものの、隣接地域ではある。実際のとこどのくらい深刻なのか、市でちゃんと調査して声明出して欲しいよなー。</p>\n",
+				"content_text": "[www.tokyo-np.co.jp/article/3...](https://www.tokyo-np.co.jp/article/344389)\n\nぼくの住んでる地域はPFAS汚染という水の問題があって、念のため飲み水はすべて買ってる。お金がかかるのもあれだけど、大量のペットボトル捨てるのがめんどくさい。\n\n一番深刻な立川ではないものの、隣接地域ではある。実際のとこどのくらい深刻なのか、市でちゃんと調査して声明出して欲しいよなー。\n",
+				"date_published": "2024-08-09T08:29:35+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/httpswwwtokyonpcojparticle-pfas.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/09/082037.html",
+				
+				"content_html": "<p>あ、直った。ドメインの設定がうまくいってなかったっぽい。</p>\n",
+				"content_text": "あ、直った。ドメインの設定がうまくいってなかったっぽい。\n",
+				"date_published": "2024-08-09T08:20:37+09:00",
+				"url": "https://tweets.tai2.net/2024/08/09/082037.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/httpstweetstainet-httpstaimicroblog.html",
+				
+				"content_html": "<p><a href=\"https://tweets.tai2.net/\">tweets.tai2.net</a> と <a href=\"https://tai2.micro.blog/\">tai2.micro.blog</a> で表示される情報がちがうなー。独自ドメインのほうは情報が更新されない&hellip;うーん。</p>\n",
+				"content_text": "[tweets.tai2.net](https://tweets.tai2.net/) と [tai2.micro.blog](https://tai2.micro.blog/) で表示される情報がちがうなー。独自ドメインのほうは情報が更新されない...うーん。\n",
+				"date_published": "2024-08-08T23:18:09+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/httpstweetstainet-httpstaimicroblog.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-08T21:37:24+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
+				
+				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-08T21:14:08+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/activitypub.html",
+				
+				"content_html": "<p>ActivityPubの仕組みがよくわかってないんだけど、タイムラインはどのタイミングで更新されるんだろう。</p>\n",
+				"content_text": "ActivityPubの仕組みがよくわかってないんだけど、タイムラインはどのタイミングで更新されるんだろう。\n",
+				"date_published": "2024-08-08T20:55:35+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/activitypub.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/203030.html",
+				
+				"content_html": "<p>正直、技術情報はぜんぶツイッターに頼ってたので、他の手段をなにか探さないとなーという気はしなくもない(そもそもまともにツイッターを見なくなっていたので、最近は技術情報自体がほぼアップデートできてない)。</p>\n",
+				"content_text": "正直、技術情報はぜんぶツイッターに頼ってたので、他の手段をなにか探さないとなーという気はしなくもない(そもそもまともにツイッターを見なくなっていたので、最近は技術情報自体がほぼアップデートできてない)。\n",
+				"date_published": "2024-08-08T20:30:30+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/203030.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/from-x-to.html",
+				"title": "From X to Fediverse",
+				"content_html": "<p>前々からやろうと思ってたFediverseへの引越しを実行した。やろうと思ったきっかけは、イーロンがツイッターを変えたから。決心したのは、もうだいぶ前なので記憶もおぼろげだけど、Xに移行するにあたって、同名のアカウント使ってたユーザーのIDを強制的に変えさせた件で、最悪だと思ったから。</p>\n<p><a href=\"https://www.techno-edge.net/article/2023/07/27/1654.html\">www.techno-edge.net/article/2&hellip;</a></p>\n<p>代替として、microblog.pubっていうのが小さくてすっきりしてて良さそうだったので自分でサーバー立てようと思ってたんだけど、なんかそういうしてるうちに、いざ引っ越そうかと思ったら、microblog.pubのデモサーバーにアクセスできなくなってた。開発も止まってそうな感じ。</p>\n<p><a href=\"https://github.com/tsileo/microblog.pub\">github.com/tsileo/mi&hellip;</a></p>\n<p>シンプルなコードっぽいから自分でメンテする覚悟で使おうかとも思ったけど、めんどくさいので誰かがホストしてくれてるサーバーを探すことにした。なんかMastdonやらMisskeyやらいろいろあるけど、なるべく見た目が質素なやつがいい。てきとうに一覧眺めてたら、micro.blogっていうのがあったのでそれにしてみた。少額を払ってウェブサービスを使うという概念が好きなので、お金払えるのもいい。月5ドル。あと人気のツイートが上がってくる仕組みがないのもいいなと思った(RTとかないし、フォロワー数とかも見れない)。</p>\n<p>正直そのうちサービス自体なくなるんじゃないかという不安はだいぶあるけど、エクスポート機能が充実してそうなので、サ終したらしたでなんとかなると思う。</p>\n",
+				"content_text": "前々からやろうと思ってたFediverseへの引越しを実行した。やろうと思ったきっかけは、イーロンがツイッターを変えたから。決心したのは、もうだいぶ前なので記憶もおぼろげだけど、Xに移行するにあたって、同名のアカウント使ってたユーザーのIDを強制的に変えさせた件で、最悪だと思ったから。\r\n\r\n[www.techno-edge.net/article/2...](https://www.techno-edge.net/article/2023/07/27/1654.html)\r\n\r\n代替として、microblog.pubっていうのが小さくてすっきりしてて良さそうだったので自分でサーバー立てようと思ってたんだけど、なんかそういうしてるうちに、いざ引っ越そうかと思ったら、microblog.pubのデモサーバーにアクセスできなくなってた。開発も止まってそうな感じ。\r\n\r\n[github.com/tsileo/mi...](https://github.com/tsileo/microblog.pub)\r\n\r\nシンプルなコードっぽいから自分でメンテする覚悟で使おうかとも思ったけど、めんどくさいので誰かがホストしてくれてるサーバーを探すことにした。なんかMastdonやらMisskeyやらいろいろあるけど、なるべく見た目が質素なやつがいい。てきとうに一覧眺めてたら、micro.blogっていうのがあったのでそれにしてみた。少額を払ってウェブサービスを使うという概念が好きなので、お金払えるのもいい。月5ドル。あと人気のツイートが上がってくる仕組みがないのもいいなと思った(RTとかないし、フォロワー数とかも見れない)。\r\n\r\n正直そのうちサービス自体なくなるんじゃないかという不安はだいぶあるけど、エクスポート機能が充実してそうなので、サ終したらしたでなんとかなると思う。\r\n\r\n\r\n",
+				"date_published": "2024-08-08T20:26:17+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/from-x-to.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/httpsxcomtai.html",
+				
+				"content_html": "<p>引越し元 <a href=\"https://x.com/__tai2__\"><strong>tai2</strong></a></p>\n",
+				"content_text": "引越し元 [__tai2__](https://x.com/__tai2__)\n",
+				"date_published": "2024-08-08T19:34:53+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/httpsxcomtai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/08/094410.html",
+				
+				"content_html": "<p>テスト</p>\n",
+				"content_text": "テスト\n",
+				"date_published": "2024-08-08T18:44:10+09:00",
+				"url": "https://tweets.tai2.net/2024/08/08/094410.html"
+			}
+	]
+}
