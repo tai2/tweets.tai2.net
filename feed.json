@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/08/30/151441.html",
+				
+				"content_html": "<p>AWS Well-Architected – 安全で効率的なクラウドアプリケーション <a href=\"https://aws.amazon.com/jp/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&amp;wa-lens-whitepapers.sort-order=desc&amp;wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&amp;wa-guidance-whitepapers.sort-order=desc\">aws.amazon.com/jp/archit&hellip;</a></p>\n<p>へー。どうでもいいけどアマゾンの書く文章って読みづらいし、読んでもおもしろくないんだよな。なんでなんだろ。文化なのかな。</p>\n",
+				"content_text": "AWS Well-Architected – 安全で効率的なクラウドアプリケーション [aws.amazon.com/jp/archit...](https://aws.amazon.com/jp/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)\r\n\r\nへー。どうでもいいけどアマゾンの書く文章って読みづらいし、読んでもおもしろくないんだよな。なんでなんだろ。文化なのかな。\n",
+				"date_published": "2024-08-30T15:14:41+09:00",
+				"url": "https://tweets.tai2.net/2024/08/30/151441.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/29/is-cold-meat.html",
+				
+				"content_html": "<p>辞書に載ってた例文。</p>\n<p>Is cold meat and salad OK for lunch?</p>\n<p>これareじゃないのがすごく不思議に感じたんだけど、ひとつのものという認識だから、isということだよな。</p>\n",
+				"content_text": "辞書に載ってた例文。\n\nIs cold meat and salad OK for lunch?\n\nこれareじゃないのがすごく不思議に感じたんだけど、ひとつのものという認識だから、isということだよな。\n",
+				"date_published": "2024-08-29T21:37:05+09:00",
+				"url": "https://tweets.tai2.net/2024/08/29/is-cold-meat.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/28/204014.html",
+				
+				"content_html": "<p>止まらないおいしさ！タレが決め手の「ホイコーロー」\n<a href=\"https://macaro-ni.jp/47844\">macaro-ni.jp/47844</a></p>\n",
+				"content_text": "止まらないおいしさ！タレが決め手の「ホイコーロー」\n[macaro-ni.jp/47844](https://macaro-ni.jp/47844)\n",
+				"date_published": "2024-08-28T20:40:14+09:00",
+				"url": "https://tweets.tai2.net/2024/08/28/204014.html",
+				"tags": ["Recipe"]
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/28/httpssrecipeblogjpprofilerecipe.html",
+				
+				"content_html": "<p>ゴマ油が香る、豚バラ大根の中華炒め\n<a href=\"https://s.recipe-blog.jp/profile/84102/recipe/1278502\">s.recipe-blog.jp/profile/8&hellip;</a></p>\n",
+				"content_text": "ゴマ油が香る、豚バラ大根の中華炒め\n[s.recipe-blog.jp/profile/8...](https://s.recipe-blog.jp/profile/84102/recipe/1278502)\n",
+				"date_published": "2024-08-28T20:39:44+09:00",
+				"url": "https://tweets.tai2.net/2024/08/28/httpssrecipeblogjpprofilerecipe.html",
+				"tags": ["Recipe"]
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/28/httpsmacaronijp.html",
+				
+				"content_html": "<p>ウマさ完熟！アスパラと牛肉トマトのオイスターソース炒め\n<a href=\"https://macaro-ni.jp/43597\">macaro-ni.jp/43597</a></p>\n",
+				"content_text": "ウマさ完熟！アスパラと牛肉トマトのオイスターソース炒め\n[macaro-ni.jp/43597](https://macaro-ni.jp/43597)\n\n",
+				"date_published": "2024-08-28T20:38:48+09:00",
+				"url": "https://tweets.tai2.net/2024/08/28/httpsmacaronijp.html",
+				"tags": ["Recipe"]
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
+				
+				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-26T13:35:32+09:00",
+				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/08/25/using-open-source.html",
+				
+				"content_html": "<p>Using Open Source Static Libraries in Xcode 4 <a href=\"https://blog.carbonfive.com/using-open-source-static-libraries-in-xcode-4/\">blog.carbonfive.com/using-ope&hellip;</a></p>\n",
+				"content_text": "Using Open Source Static Libraries in Xcode 4 [blog.carbonfive.com/using-ope...](https://blog.carbonfive.com/using-open-source-static-libraries-in-xcode-4/)\n",
+				"date_published": "2024-08-25T15:46:26+09:00",
+				"url": "https://tweets.tai2.net/2024/08/25/using-open-source.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/08/25/state-of-react.html",
 				
 				"content_html": "<p>State of React Native 2018 · React Native <a href=\"https://reactnative.dev/blog/2018/06/14/state-of-react-native-2018\">reactnative.dev/blog/2018&hellip;</a></p>\n",
@@ -42,7 +101,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -76,7 +135,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -140,7 +199,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -285,7 +344,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -390,7 +449,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -446,7 +505,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -454,7 +513,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
