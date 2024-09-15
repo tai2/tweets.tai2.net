@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/09/15/ltui-httpsusitejpalertboxfittslaw.html",
+				
+				"content_html": "<p>フィッツの法則でなんかLTできるかなと思ったけど、それほどおもしろくは発展させられなさそうだなあ。なんかUIデザインについて深い洞察とか応用のアイデアが、得られそうで得られない。おもしろいはおもしろいんだけど&hellip;。</p>\n<p>円形に配置するメニューとかも面白いけど、あんまり採用されないよなー。なんでだろ&hellip;。</p>\n<p><a href=\"https://u-site.jp/alertbox/fitts-law\">u-site.jp/alertbox/&hellip;</a></p>\n",
+				"content_text": "フィッツの法則でなんかLTできるかなと思ったけど、それほどおもしろくは発展させられなさそうだなあ。なんかUIデザインについて深い洞察とか応用のアイデアが、得られそうで得られない。おもしろいはおもしろいんだけど...。\n\n円形に配置するメニューとかも面白いけど、あんまり採用されないよなー。なんでだろ...。\n\n[u-site.jp/alertbox/...](https://u-site.jp/alertbox/fitts-law)\n",
+				"date_published": "2024-09-15T20:27:09+09:00",
+				"url": "https://tweets.tai2.net/2024/09/15/ltui-httpsusitejpalertboxfittslaw.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/15/r-thertheir.html",
+				
+				"content_html": "<p>ファントムRって呼ばれ得るような現象ってないですか? Theを聴いたときに、ないはずのRを見出してしまって、Theirと聴き間違えてしまう現象…。</p>\n",
+				"content_text": "ファントムRって呼ばれ得るような現象ってないですか? Theを聴いたときに、ないはずのRを見出してしまって、Theirと聴き間違えてしまう現象…。\n",
+				"date_published": "2024-09-15T11:39:38+09:00",
+				"url": "https://tweets.tai2.net/2024/09/15/r-thertheir.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/14/tdd-prfaqworking-backwards.html",
+				
+				"content_html": "<p>○○するより先に××からはじめるといいよシリーズ:</p>\n<ul>\n<li>実装より先にテスト書くといいよ (TDD)</li>\n<li>プロジェクトの最初にPRとFAQを考えるといいよ(working backwards)</li>\n<li>貼る画像選ぶより前にキャプションを考えるといいよ(<a href=\"https://developers.google.com/tech-writing/two/illustrations\">Google Technical Writing</a>)</li>\n</ul>\n",
+				"content_text": "○○するより先に××からはじめるといいよシリーズ:\r\n\r\n* 実装より先にテスト書くといいよ (TDD)\r\n* プロジェクトの最初にPRとFAQを考えるといいよ(working backwards)\r\n* 貼る画像選ぶより前にキャプションを考えるといいよ([Google Technical Writing](\r\nhttps://developers.google.com/tech-writing/two/illustrations))\r\n",
+				"date_published": "2024-09-14T21:13:15+09:00",
+				"url": "https://tweets.tai2.net/2024/09/14/tdd-prfaqworking-backwards.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/14/when-graphics-improve.html",
+				
+				"content_html": "<p>When graphics improve liking but not learning from online lessons - ScienceDirect <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0747563212000921\">www.sciencedirect.com/science/a&hellip;</a></p>\n",
+				"content_text": "When graphics improve liking but not learning from online lessons - ScienceDirect [www.sciencedirect.com/science/a...](https://www.sciencedirect.com/science/article/abs/pii/S0747563212000921)\n",
+				"date_published": "2024-09-14T13:36:43+09:00",
+				"url": "https://tweets.tai2.net/2024/09/14/when-graphics-improve.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/14/organizing-large-documents.html",
+				
+				"content_html": "<p>Organizing large documents  |  Technical Writing  |  Google for Developers <a href=\"https://developers.google.com/tech-writing/two/large-docs\">developers.google.com/tech-writ&hellip;</a></p>\n<blockquote>\n<p>Choose a heading that describes the task your reader is working on. Avoid headings that rely on unfamiliar terminology or tools.</p>\n</blockquote>\n<p>これはたしかにそうかもなー。おれも説明したい対象の名刺を見出しする癖あるかも。違うやりかたもあるということで、引き出しに入れておくと良さそう。</p>\n",
+				"content_text": "Organizing large documents  |  Technical Writing  |  Google for Developers [developers.google.com/tech-writ...](https://developers.google.com/tech-writing/two/large-docs)\r\n\r\n>Choose a heading that describes the task your reader is working on. Avoid headings that rely on unfamiliar terminology or tools.\r\n\r\nこれはたしかにそうかもなー。おれも説明したい対象の名刺を見出しする癖あるかも。違うやりかたもあるということで、引き出しに入れておくと良さそう。\r\n",
+				"date_published": "2024-09-14T13:06:24+09:00",
+				"url": "https://tweets.tai2.net/2024/09/14/organizing-large-documents.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/14/why-not-comments.html",
+				
+				"content_html": "<p>Why Not Comments • Buttondown <a href=\"https://buttondown.com/hillelwayne/archive/why-not-comments/\">buttondown.com/hillelway&hellip;</a></p>\n",
+				"content_text": "Why Not Comments • Buttondown [buttondown.com/hillelway...](https://buttondown.com/hillelwayne/archive/why-not-comments/)\n",
+				"date_published": "2024-09-14T11:12:10+09:00",
+				"url": "https://tweets.tai2.net/2024/09/14/why-not-comments.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/13/httpswwwniueduwritingtutorialpunctuationcolonshtml.html",
+				
+				"content_html": "<p>コロンの用法ってこんなにたくさんあるのか…\n<a href=\"https://www.niu.edu/writingtutorial/punctuation/colon.shtml\">www.niu.edu/writingtu&hellip;</a></p>\n",
+				"content_text": "コロンの用法ってこんなにたくさんあるのか…\r\n[www.niu.edu/writingtu...](https://www.niu.edu/writingtutorial/punctuation/colon.shtml)\r\n",
+				"date_published": "2024-09-13T22:04:01+09:00",
+				"url": "https://tweets.tai2.net/2024/09/13/httpswwwniueduwritingtutorialpunctuationcolonshtml.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -181,7 +237,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -229,7 +285,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -263,7 +319,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -303,7 +359,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -327,7 +383,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -472,7 +528,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -577,7 +633,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -633,7 +689,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -641,7 +697,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
