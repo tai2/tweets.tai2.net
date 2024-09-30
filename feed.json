@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/09/30/propsreadonlydeepreadonlydeep-immutableelm.html",
+				
+				"content_html": "<p>理想的には、すべてのpropsがReadonlydeepであるべきだと思うんだけど、ぶっちゃけそこかしこにReadonlyDeepつけるのはわずらわしいし、意図せず書き換えてしまう事故を防げるメリットよりも、めんどくささのデメリットが上回るので、やらないほうがいいと思う。</p>\n<p>その点なんも意識しなくてもデフォルトimmutableで簡潔に書けるElmはすばらしい。</p>\n",
+				"content_text": "理想的には、すべてのpropsがReadonlydeepであるべきだと思うんだけど、ぶっちゃけそこかしこにReadonlyDeepつけるのはわずらわしいし、意図せず書き換えてしまう事故を防げるメリットよりも、めんどくささのデメリットが上回るので、やらないほうがいいと思う。\r\n\r\nその点なんも意識しなくてもデフォルトimmutableで簡潔に書けるElmはすばらしい。\n",
+				"date_published": "2024-09-30T11:24:22+09:00",
+				"url": "https://tweets.tai2.net/2024/09/30/propsreadonlydeepreadonlydeep-immutableelm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/19/tuckmans-stages-of.html",
+				
+				"content_html": "<p>Tuckman&rsquo;s stages of group development - Wikipedia <a href=\"https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development\">https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development</a></p>\n",
+				"content_text": "Tuckman's stages of group development - Wikipedia https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development\n",
+				"date_published": "2024-09-19T13:25:03+09:00",
+				"url": "https://tweets.tai2.net/2024/09/19/tuckmans-stages-of.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/19/splitwisesuperdiff-a-more.html",
+				
+				"content_html": "<p>splitwise/super_diff: A more helpful way to view differences between complex data structures in RSpec. <a href=\"https://github.com/splitwise/super_diff\">https://github.com/splitwise/super_diff</a></p>\n<p>これは使うべき</p>\n",
+				"content_text": "splitwise/super_diff: A more helpful way to view differences between complex data structures in RSpec. https://github.com/splitwise/super_diff\r\n\r\nこれは使うべき\n",
+				"date_published": "2024-09-19T08:45:03+09:00",
+				"url": "https://tweets.tai2.net/2024/09/19/splitwisesuperdiff-a-more.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/18/schemascheme.html",
+				
+				"content_html": "<p>まーじで永遠にschemaとschemeの区別ができない…</p>\n",
+				"content_text": "まーじで永遠にschemaとschemeの区別ができない…\n",
+				"date_published": "2024-09-18T19:31:03+09:00",
+				"url": "https://tweets.tai2.net/2024/09/18/schemascheme.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/18/lt-puma.html",
+				
+				"content_html": "<p>次のLT pumaとリクエスト処理時間の話でいいや</p>\n",
+				"content_text": "次のLT pumaとリクエスト処理時間の話でいいや\n",
+				"date_published": "2024-09-18T05:51:02+09:00",
+				"url": "https://tweets.tai2.net/2024/09/18/lt-puma.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/16/expo.html",
+				
+				"content_html": "<p>Expoでかい&hellip;歯応えがある</p>\n",
+				"content_text": "Expoでかい...歯応えがある\n",
+				"date_published": "2024-09-16T18:41:35+09:00",
+				"url": "https://tweets.tai2.net/2024/09/16/expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/09/16/announcing-react-native.html",
+				
+				"content_html": "<p>Announcing React Native 0.63 with LogBox\n<a href=\"https://reactnative.dev/blog/2020/07/06/version-0.63\">reactnative.dev/blog/2020&hellip;</a></p>\n",
+				"content_text": "Announcing React Native 0.63 with LogBox\n[reactnative.dev/blog/2020...](https://reactnative.dev/blog/2020/07/06/version-0.63)\n",
+				"date_published": "2024-09-16T18:15:07+09:00",
+				"url": "https://tweets.tai2.net/2024/09/16/announcing-react-native.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/09/15/ltui-httpsusitejpalertboxfittslaw.html",
 				
 				"content_html": "<p>フィッツの法則でなんかLTできるかなと思ったけど、それほどおもしろくは発展させられなさそうだなあ。なんかUIデザインについて深い洞察とか応用のアイデアが、得られそうで得られない。おもしろいはおもしろいんだけど&hellip;。</p>\n<p>円形に配置するメニューとかも面白いけど、あんまり採用されないよなー。なんでだろ&hellip;。</p>\n<p><a href=\"https://u-site.jp/alertbox/fitts-law\">u-site.jp/alertbox/&hellip;</a></p>\n",
