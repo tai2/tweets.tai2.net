@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/10/05/yoga-httpswwwyogalayoutdev.html",
+				
+				"content_html": "<p>Yoga よが〜\n<a href=\"https://www.yogalayout.dev/\">www.yogalayout.dev</a></p>\n",
+				"content_text": "Yoga よが〜\n[www.yogalayout.dev](https://www.yogalayout.dev/)\n",
+				"date_published": "2024-10-05T13:45:14+09:00",
+				"url": "https://tweets.tai2.net/2024/10/05/yoga-httpswwwyogalayoutdev.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/09/30/propsreadonlydeepreadonlydeep-immutableelm.html",
 				
 				"content_html": "<p>理想的には、すべてのpropsがReadonlydeepであるべきだと思うんだけど、ぶっちゃけそこかしこにReadonlyDeepつけるのはわずらわしいし、意図せず書き換えてしまう事故を防げるメリットよりも、めんどくささのデメリットが上回るので、やらないほうがいいと思う。</p>\n<p>その点なんも意識しなくてもデフォルトimmutableで簡潔に書けるElmはすばらしい。</p>\n",
