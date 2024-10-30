@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/10/30/mastering-code-simplicity.html",
+				
+				"content_html": "<p>Mastering Code Simplicity: Why Deep Functions Like JSON.parse() Make Programming Easier | Mycolaos <a href=\"https://mycolaos.com/blog/mastering-code-simplicity-deep-functions-json-parse\">mycolaos.com/blog/mast&hellip;</a></p>\n",
+				"content_text": "Mastering Code Simplicity: Why Deep Functions Like JSON.parse() Make Programming Easier | Mycolaos [mycolaos.com/blog/mast...](https://mycolaos.com/blog/mastering-code-simplicity-deep-functions-json-parse)\n",
+				"date_published": "2024-10-30T20:11:32+09:00",
+				"url": "https://tweets.tai2.net/2024/10/30/mastering-code-simplicity.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/27/215937.html",
+				"title": "小さいウェブアプリ作るのなにがいいんだろ",
+				"content_html": "<p>趣味で小さいウェブアプリを作りたくて、アプリからの収入とかも期待できないので、ランニングコストはなるべく安く済ませたいんだけど、インフラどれ使うのがいいのかよくわからない。</p>\n<ul>\n<li>収入の期待できない趣味なので、毎月$50かかるとかはキツい(年2万円くらいならまあいいかもしれない)</li>\n<li>アクティブユーザーはせいぜい100〜1000人くらい</li>\n<li>音声ファイルを扱うので、オブジェクトストレージはすこしかさむかもしれない</li>\n</ul>\n<p>思いつく選択肢:</p>\n<ul>\n<li>VPS(lightsailとか、さくらとか)。めちゃくちゃ安い。けどマネージドサービス使えないからめんどくさい</li>\n<li>PaaS(VerselとかHerokuとか)。作りやすい。値段もそんなに高くはなさそう。一番妥当っぽい。</li>\n<li>サーバレス(FirebaseとかAmplifyとか)。なんか簡単に作れるらしい。クライアントサイドの開発だけで完結するのはいい。値段感がよくわからない。あとめちゃくちゃロックインされそう。</li>\n</ul>\n<p>いまのとこVerselなのかなーという気はしている。</p>\n",
+				"content_text": "趣味で小さいウェブアプリを作りたくて、アプリからの収入とかも期待できないので、ランニングコストはなるべく安く済ませたいんだけど、インフラどれ使うのがいいのかよくわからない。\n\n* 収入の期待できない趣味なので、毎月$50かかるとかはキツい(年2万円くらいならまあいいかもしれない)\n* アクティブユーザーはせいぜい100〜1000人くらい\n* 音声ファイルを扱うので、オブジェクトストレージはすこしかさむかもしれない\n\n思いつく選択肢:\n\n* VPS(lightsailとか、さくらとか)。めちゃくちゃ安い。けどマネージドサービス使えないからめんどくさい\n* PaaS(VerselとかHerokuとか)。作りやすい。値段もそんなに高くはなさそう。一番妥当っぽい。\n* サーバレス(FirebaseとかAmplifyとか)。なんか簡単に作れるらしい。クライアントサイドの開発だけで完結するのはいい。値段感がよくわからない。あとめちゃくちゃロックインされそう。\n\nいまのとこVerselなのかなーという気はしている。\n",
+				"date_published": "2024-10-27T21:59:37+09:00",
+				"url": "https://tweets.tai2.net/2024/10/27/215937.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/27/httpslucidedev-beautiful-consistent.html",
+				
+				"content_html": "<p><a href=\"https://lucide.dev/\">lucide.dev</a></p>\n<p>Beautiful &amp; consistent icons</p>\n<p>なんかおしゃれっぽいやつ</p>\n",
+				"content_text": "[lucide.dev](https://lucide.dev/)\n\nBeautiful & consistent icons\n\nなんかおしゃれっぽいやつ\n",
+				"date_published": "2024-10-27T20:25:53+09:00",
+				"url": "https://tweets.tai2.net/2024/10/27/httpslucidedev-beautiful-consistent.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/26/expo-prebuild.html",
+				
+				"content_html": "<p>expo prebuildめちゃくちゃクールだなあ</p>\n",
+				"content_text": "expo prebuildめちゃくちゃクールだなあ\n",
+				"date_published": "2024-10-26T15:16:40+09:00",
+				"url": "https://tweets.tai2.net/2024/10/26/expo-prebuild.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/10/24/introducing-computer-use.html",
 				
 				"content_html": "<p>Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku \\ Anthropic <a href=\"https://www.anthropic.com/news/3-5-models-and-computer-use\">www.anthropic.com/news/3-5-&hellip;</a></p>\n",
