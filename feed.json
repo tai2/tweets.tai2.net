@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/11/05/target-groups-for.html",
+				
+				"content_html": "<p>Target groups for your Application Load Balancers - Elastic Load Balancing <a href=\"https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html#target-group-routing-configuration\">docs.aws.amazon.com/elasticlo&hellip;</a></p>\n",
+				"content_text": "Target groups for your Application Load Balancers - Elastic Load Balancing [docs.aws.amazon.com/elasticlo...](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html#target-group-routing-configuration)\n",
+				"date_published": "2024-11-05T19:48:30+09:00",
+				"url": "https://tweets.tai2.net/2024/11/05/target-groups-for.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/01/react.html",
+				
+				"content_html": "<p>体感、Reactのメモ化まわりの挙動をちゃんと理解してる人はまじで少ない。とくにバックエンドエンジニアとなると、ほぼいない。</p>\n",
+				"content_text": "体感、Reactのメモ化まわりの挙動をちゃんと理解してる人はまじで少ない。とくにバックエンドエンジニアとなると、ほぼいない。\n",
+				"date_published": "2024-11-01T15:03:10+09:00",
+				"url": "https://tweets.tai2.net/2024/11/01/react.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/31/expo-go.html",
+				
+				"content_html": "<p>Expo Go日本のコミュニティで「ぺ」って呼ばれてそう</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-31T20:48:55+09:00",
+				"url": "https://tweets.tai2.net/2024/10/31/expo-go.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/31/expo.html",
+				
+				"content_html": "<p>Expoまーじ便利</p>\n",
+				"content_text": "Expoまーじ便利\n",
+				"date_published": "2024-10-31T20:47:44+09:00",
+				"url": "https://tweets.tai2.net/2024/10/31/expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/31/120632.html",
+				
+				"content_html": "<p>おれは毎日死を繰り返してる、と考えると、わりとしっくりくるかもしれない。それにつけても生命ってふしぎー、意識って不思議ー。</p>\n",
+				"content_text": "おれは毎日死を繰り返してる、と考えると、わりとしっくりくるかもしれない。それにつけても生命ってふしぎー、意識って不思議ー。\n",
+				"date_published": "2024-10-31T12:06:32+09:00",
+				"url": "https://tweets.tai2.net/2024/10/31/120632.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/31/ee-sompo-digital.html",
+				
+				"content_html": "<p>E2Eテスト自動化ツールの選定を行いました（だいぶ前ですが） - SOMPO Digital Lab 開発チームブログ <a href=\"https://tech.sompo.io/entry/2024/10/30/171007\">tech.sompo.io/entry/202&hellip;</a></p>\n",
+				"content_text": "E2Eテスト自動化ツールの選定を行いました（だいぶ前ですが） - SOMPO Digital Lab 開発チームブログ [tech.sompo.io/entry/202...](https://tech.sompo.io/entry/2024/10/30/171007)\n",
+				"date_published": "2024-10-31T10:03:36+09:00",
+				"url": "https://tweets.tai2.net/2024/10/31/ee-sompo-digital.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/10/30/isp-column-october.html",
+				
+				"content_html": "<p>ISP Column - October 2024 <a href=\"https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html\">www.potaroo.net/ispcol/20&hellip;</a></p>\n",
+				"content_text": "ISP Column - October 2024 [www.potaroo.net/ispcol/20...](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)\n",
+				"date_published": "2024-10-30T20:13:50+09:00",
+				"url": "https://tweets.tai2.net/2024/10/30/isp-column-october.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/10/30/mastering-code-simplicity.html",
 				
 				"content_html": "<p>Mastering Code Simplicity: Why Deep Functions Like JSON.parse() Make Programming Easier | Mycolaos <a href=\"https://mycolaos.com/blog/mastering-code-simplicity-deep-functions-json-parse\">mycolaos.com/blog/mast&hellip;</a></p>\n",
