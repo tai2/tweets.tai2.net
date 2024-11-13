@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/11/13/104059.html",
+				
+				"content_html": "<p>E2Eテストにおける要素選択のベストプラクティス ｜Autify（オーティファイ）ブログ <a href=\"https://blog.autify.jp/article/best-practices-for-element-locating-in-e2e-testing\">blog.autify.jp/article/b&hellip;</a></p>\n",
+				"content_text": "E2Eテストにおける要素選択のベストプラクティス ｜Autify（オーティファイ）ブログ [blog.autify.jp/article/b...](https://blog.autify.jp/article/best-practices-for-element-locating-in-e2e-testing)\n",
+				"date_published": "2024-11-13T10:40:59+09:00",
+				"url": "https://tweets.tai2.net/2024/11/13/104059.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/10/120637.html",
+				
+				"content_html": "<p>世の中には、まずいラーメンでも、限られた状況の中でやるだけやったんだからいいかと言って客に出すラーメン屋と、まずいものを出すくらいならやらないほうがましだと言って、美味いラーメンを出す職人がいる。もちろん前者が客を感動させることはない。</p>\n<p>そして、美味いラーメンは、個人の才能と血の滲む努力によってのみ成立するのであって、まずいラーメン屋が徒党を組んでも達成できない。</p>\n",
+				"content_text": "世の中には、まずいラーメンでも、限られた状況の中でやるだけやったんだからいいかと言って客に出すラーメン屋と、まずいものを出すくらいならやらないほうがましだと言って、美味いラーメンを出す職人がいる。もちろん前者が客を感動させることはない。\n\nそして、美味いラーメンは、個人の才能と血の滲む努力によってのみ成立するのであって、まずいラーメン屋が徒党を組んでも達成できない。\n",
+				"date_published": "2024-11-10T12:06:37+09:00",
+				"url": "https://tweets.tai2.net/2024/11/10/120637.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/09/react-native-expo.html",
+				
+				"content_html": "<p>React Native + Expo 完全理解</p>\n",
+				"content_text": "React Native + Expo 完全理解\n",
+				"date_published": "2024-11-09T11:20:47+09:00",
+				"url": "https://tweets.tai2.net/2024/11/09/react-native-expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/07/expo.html",
+				
+				"content_html": "<p>Expoのエコシステムまじでハチャメチャにすごい力技すぎるすごい</p>\n",
+				"content_text": "Expoのエコシステムまじでハチャメチャにすごい力技すぎるすごい\n",
+				"date_published": "2024-11-07T20:08:15+09:00",
+				"url": "https://tweets.tai2.net/2024/11/07/expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/07/ota-updates.html",
+				
+				"content_html": "<p>まあ、ひとたびテスト端末へのインストールが済めば、あとはOTA updatesでだいたいカバーできるから、まあいいのか</p>\n",
+				"content_text": "まあ、ひとたびテスト端末へのインストールが済めば、あとはOTA updatesでだいたいカバーできるから、まあいいのか\n",
+				"date_published": "2024-11-07T19:26:11+09:00",
+				"url": "https://tweets.tai2.net/2024/11/07/ota-updates.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/07/185900.html",
+				
+				"content_html": "<p>アプリ名がダメだっただけで10分間のプロセスやりなおしは、チュートリアル中にはキツいよー</p>\n",
+				"content_text": "アプリ名がダメだっただけで10分間のプロセスやりなおしは、チュートリアル中にはキツいよー\r\n",
+				"date_published": "2024-11-07T18:59:00+09:00",
+				"url": "https://tweets.tai2.net/2024/11/07/185900.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/07/easci.html",
+				
+				"content_html": "<p>EAS便利なのはそうだけど、毎回CIでビルドからやりなおしなので、試行錯誤にはまったく向かないな(アプリ名がかぶってるとか、長すぎるとかの理由でストア提出蹴られて、ぐぬぬ)</p>\n",
+				"content_text": "EAS便利なのはそうだけど、毎回CIでビルドからやりなおしなので、試行錯誤にはまったく向かないな(アプリ名がかぶってるとか、長すぎるとかの理由でストア提出蹴られて、ぐぬぬ)\n",
+				"date_published": "2024-11-07T18:54:31+09:00",
+				"url": "https://tweets.tai2.net/2024/11/07/easci.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/06/role-aria-waiaria.html",
+				
+				"content_html": "<p>role 属性とは、aria-* 属性とは、WAI-ARIA とは、いったい何なのか、いつ使うべきなのか #HTML - Qiita <a href=\"https://qiita.com/ymrl/items/6c9c059208ea11e6d7bc\">qiita.com/ymrl/item&hellip;</a></p>\n",
+				"content_text": "role 属性とは、aria-* 属性とは、WAI-ARIA とは、いったい何なのか、いつ使うべきなのか #HTML - Qiita [qiita.com/ymrl/item...](https://qiita.com/ymrl/items/6c9c059208ea11e6d7bc)\n",
+				"date_published": "2024-11-06T13:26:05+09:00",
+				"url": "https://tweets.tai2.net/2024/11/06/role-aria-waiaria.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/05/using-a-reverse.html",
+				
+				"content_html": "<p>Using a reverse proxy - Keycloak <a href=\"https://www.keycloak.org/server/reverseproxy\">www.keycloak.org/server/re&hellip;</a></p>\n",
+				"content_text": "Using a reverse proxy - Keycloak [www.keycloak.org/server/re...](https://www.keycloak.org/server/reverseproxy)\n",
+				"date_published": "2024-11-05T21:54:34+09:00",
+				"url": "https://tweets.tai2.net/2024/11/05/using-a-reverse.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/05/how-we-migrated.html",
+				
+				"content_html": "<p>How we migrated Dropbox from Nginx to Envoy - Dropbox <a href=\"https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy\">dropbox.tech/infrastru&hellip;</a></p>\n",
+				"content_text": "How we migrated Dropbox from Nginx to Envoy - Dropbox [dropbox.tech/infrastru...](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)\n",
+				"date_published": "2024-11-05T21:47:21+09:00",
+				"url": "https://tweets.tai2.net/2024/11/05/how-we-migrated.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/05/rfc-http-strict.html",
+				
+				"content_html": "<p>RFC 6797: HTTP Strict Transport Security (HSTS) <a href=\"https://www.rfc-editor.org/rfc/rfc6797.html#section-8.2\">www.rfc-editor.org/rfc/rfc67&hellip;</a></p>\n",
+				"content_text": "RFC 6797: HTTP Strict Transport Security (HSTS) [www.rfc-editor.org/rfc/rfc67...](https://www.rfc-editor.org/rfc/rfc6797.html#section-8.2)\n",
+				"date_published": "2024-11-05T20:49:53+09:00",
+				"url": "https://tweets.tai2.net/2024/11/05/rfc-http-strict.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/11/05/how-to-configure.html",
+				
+				"content_html": "<p>How to configure HSTS on www and other subdomains - Daniel Morell <a href=\"https://www.danielmorell.com/blog/how-to-configure-hsts-on-www-and-other-subdomains\">www.danielmorell.com/blog/how-&hellip;</a></p>\n",
+				"content_text": "How to configure HSTS on www and other subdomains - Daniel Morell [www.danielmorell.com/blog/how-...](https://www.danielmorell.com/blog/how-to-configure-hsts-on-www-and-other-subdomains)\n",
+				"date_published": "2024-11-05T20:49:31+09:00",
+				"url": "https://tweets.tai2.net/2024/11/05/how-to-configure.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/11/05/target-groups-for.html",
 				
 				"content_html": "<p>Target groups for your Application Load Balancers - Elastic Load Balancing <a href=\"https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html#target-group-routing-configuration\">docs.aws.amazon.com/elasticlo&hellip;</a></p>\n",
@@ -394,7 +490,7 @@
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://tweets.tai2.net/uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
+				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-10T15:11:02+09:00",
 				"url": "https://tweets.tai2.net/2024/09/10/151102.html"
 			},
@@ -565,7 +661,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -613,7 +709,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -647,7 +743,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -687,7 +783,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -711,7 +807,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -856,7 +952,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -961,7 +1057,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -1017,7 +1113,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -1025,7 +1121,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
