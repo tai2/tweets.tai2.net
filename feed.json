@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2024/12/25/205529.html",
+				
+				"content_html": "<p>config-plugins/packages/detox at main · expo/config-plugins · GitHub <a href=\"https://github.com/expo/config-plugins/tree/main/packages/detox\">github.com/expo/conf&hellip;</a></p>\n<p>E2Eテストはdetoxでやろうかなと思ってる。MaestroはまあAutifyと似たようなもんで予想はどんなもんなのかもだいたい検討がつくし、よくわからない仕組みで実行されるdetoxに触れたほうが経験値稼げそうなので。</p>\n",
+				"content_text": "config-plugins/packages/detox at main · expo/config-plugins · GitHub [github.com/expo/conf...](https://github.com/expo/config-plugins/tree/main/packages/detox)\r\n\r\nE2Eテストはdetoxでやろうかなと思ってる。MaestroはまあAutifyと似たようなもんで予想はどんなもんなのかもだいたい検討がつくし、よくわからない仕組みで実行されるdetoxに触れたほうが経験値稼げそうなので。\n",
+				"date_published": "2024-12-25T20:55:29+09:00",
+				"url": "https://tweets.tai2.net/2024/12/25/205529.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/12/17/mixi.html",
 				
 				"content_html": "<p>mixi2? うーん、行かないかな。</p>\n",
@@ -154,7 +162,7 @@
 				"id": "http://tai2.micro.blog/2024/10/31/expo-go.html",
 				
 				"content_html": "<p>Expo Go日本のコミュニティで「ぺ」って呼ばれてそう</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"https://tweets.tai2.net/uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-31T20:48:55+09:00",
 				"url": "https://tweets.tai2.net/2024/10/31/expo-go.html"
 			},
@@ -522,7 +530,7 @@
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
+				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://tweets.tai2.net/uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-10T15:11:02+09:00",
 				"url": "https://tweets.tai2.net/2024/09/10/151102.html"
 			},
@@ -693,7 +701,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -741,7 +749,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -775,7 +783,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -815,7 +823,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -839,7 +847,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -984,7 +992,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -1089,7 +1097,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -1145,7 +1153,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -1153,7 +1161,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
