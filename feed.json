@@ -7,6 +7,110 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/01/05/212644.html",
+				
+				"content_html": "<p>プログラマーとして、インターネット上にコミュニティーがなくなってしまったな。もはや会社だけだ。難民。</p>\n",
+				"content_text": "プログラマーとして、インターネット上にコミュニティーがなくなってしまったな。もはや会社だけだ。難民。\n",
+				"date_published": "2025-01-05T21:26:44+09:00",
+				"url": "https://tweets.tai2.net/2025/01/05/212644.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/28/detoxdetoxblack-boxwhite-boxgrey-box-testingdetox.html",
+				
+				"content_html": "<p>Detox試してみようかなーと思ったけど、やっぱこれはないなー。さすがに筋が悪い。Detoxはblack boxとwhite boxの中間のgrey box testingを標榜していて、そのコンセプト自体は非常に興味深いものなんだけど、そこから導かれる帰結として、侵襲的なテストフレームワークになってしまってるっぽい。しかも設定がけっこうめんどくさい。正直Detoxのための設定コードをリポジトリに入れたくない。</p>\n<p>てことで、ふつうにExpo公認のE2EテストツールとしてサポートされてるMaestroを使います…</p>\n",
+				"content_text": "Detox試してみようかなーと思ったけど、やっぱこれはないなー。さすがに筋が悪い。Detoxはblack boxとwhite boxの中間のgrey box testingを標榜していて、そのコンセプト自体は非常に興味深いものなんだけど、そこから導かれる帰結として、侵襲的なテストフレームワークになってしまってるっぽい。しかも設定がけっこうめんどくさい。正直Detoxのための設定コードをリポジトリに入れたくない。\n\nてことで、ふつうにExpo公認のE2EテストツールとしてサポートされてるMaestroを使います…\n",
+				"date_published": "2024-12-28T11:41:19+09:00",
+				"url": "https://tweets.tai2.net/2024/12/28/detoxdetoxblack-boxwhite-boxgrey-box-testingdetox.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/28/105105.html",
+				
+				"content_html": "<p>Expo CLI - Expo Documentation <a href=\"https://docs.expo.dev/more/expo-cli/\">docs.expo.dev/more/expo&hellip;</a></p>\n<p>本質</p>\n",
+				"content_text": "Expo CLI - Expo Documentation [docs.expo.dev/more/expo...](https://docs.expo.dev/more/expo-cli/)\r\n\r\n本質\n",
+				"date_published": "2024-12-28T10:51:05+09:00",
+				"url": "https://tweets.tai2.net/2024/12/28/105105.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/27/create-and-share-internal-distribution.html",
+				
+				"content_html": "<p>Create and share internal distribution build - Expo Documentation <a href=\"https://docs.expo.dev/tutorial/eas/internal-distribution-builds/#internal-distribution-build\">docs.expo.dev/tutorial/&hellip;</a></p>\n<p>Internal distribution - Expo Documentation <a href=\"https://docs.expo.dev/build/internal-distribution/\">docs.expo.dev/build/int&hellip;</a></p>\n<p>デバイス用のビルド作る方法</p>\n",
+				"content_text": "Create and share internal distribution build - Expo Documentation [docs.expo.dev/tutorial/...](https://docs.expo.dev/tutorial/eas/internal-distribution-builds/#internal-distribution-build)\n\nInternal distribution - Expo Documentation [docs.expo.dev/build/int...](https://docs.expo.dev/build/internal-distribution/)\n\nデバイス用のビルド作る方法\n",
+				"date_published": "2024-12-27T10:06:35+09:00",
+				"url": "https://tweets.tai2.net/2024/12/27/create-and-share-internal-distribution.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/27/exporeact-native.html",
+				
+				"content_html": "<p>Expo/React Nativeのドキュメントは膨大な上に散らかってるから、どっかにメモしとかないと迷子になる</p>\n",
+				"content_text": "Expo/React Nativeのドキュメントは膨大な上に散らかってるから、どっかにメモしとかないと迷子になる\n",
+				"date_published": "2024-12-27T09:46:12+09:00",
+				"url": "https://tweets.tai2.net/2024/12/27/exporeact-native.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/27/build-apks-for-android-emulators.html",
+				
+				"content_html": "<p>Build APKs for Android Emulators and devices - Expo Documentation <a href=\"https://docs.expo.dev/build-reference/apk/\">docs.expo.dev/build-ref&hellip;</a></p>\n<p>Android用のビルド作る方法</p>\n",
+				"content_text": "Build APKs for Android Emulators and devices - Expo Documentation [docs.expo.dev/build-ref...](https://docs.expo.dev/build-reference/apk/)\r\n\r\nAndroid用のビルド作る方法\n",
+				"date_published": "2024-12-27T09:44:45+09:00",
+				"url": "https://tweets.tai2.net/2024/12/27/build-apks-for-android-emulators.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/27/build-for-ios-simulators-expo.html",
+				
+				"content_html": "<p>Build for iOS Simulators - Expo Documentation <a href=\"https://docs.expo.dev/build-reference/simulators/\">docs.expo.dev/build-ref&hellip;</a></p>\n<p>Simulator向けビルド作って走らせるやりかた</p>\n",
+				"content_text": "Build for iOS Simulators - Expo Documentation [docs.expo.dev/build-ref...](https://docs.expo.dev/build-reference/simulators/)\r\n\r\nSimulator向けビルド作って走らせるやりかた\n",
+				"date_published": "2024-12-27T09:22:38+09:00",
+				"url": "https://tweets.tai2.net/2024/12/27/build-for-ios-simulators-expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/26/environment-variables-in-expo-expo.html",
+				
+				"content_html": "<p>Environment variables in Expo - Expo Documentation <a href=\"https://docs.expo.dev/guides/environment-variables/\">https://docs.expo.dev/guides/environment-variables/</a></p>\n<p><code>EXPO_PUBLIC_</code> で環境変数使える</p>\n",
+				"content_text": "Environment variables in Expo - Expo Documentation https://docs.expo.dev/guides/environment-variables/\r\n\r\n`EXPO_PUBLIC_` で環境変数使える\n",
+				"date_published": "2024-12-26T11:23:33+09:00",
+				"url": "https://tweets.tai2.net/2024/12/26/environment-variables-in-expo-expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/26/nix.html",
+				
+				"content_html": "<p>あ、そうだ年末年始Nixためしてみよ</p>\n",
+				"content_text": "あ、そうだ年末年始Nixためしてみよ\r\n",
+				"date_published": "2024-12-26T11:22:20+09:00",
+				"url": "https://tweets.tai2.net/2024/12/26/nix.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/26/unit-testingintegration-testing.html",
+				
+				"content_html": "<p>unit testingとintegration testingという区別をすることは、どの程度有益なんだろうね。区別することで得られるメリットって何なんだろ。実行頻度をこのカテゴリーで分けるとかはできるのかもしれない。ユニットテストはファイル保存で自動的に走るけど、インテグレーションは手動、とか(個人的にはやらんけど)。</p>\n",
+				"content_text": "unit testingとintegration testingという区別をすることは、どの程度有益なんだろうね。区別することで得られるメリットって何なんだろ。実行頻度をこのカテゴリーで分けるとかはできるのかもしれない。ユニットテストはファイル保存で自動的に走るけど、インテグレーションは手動、とか(個人的にはやらんけど)。\n",
+				"date_published": "2024-12-26T10:41:26+09:00",
+				"url": "https://tweets.tai2.net/2024/12/26/unit-testingintegration-testing.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/26/tests-can-also-serve-as.html",
+				
+				"content_html": "<blockquote>\n<p>Tests can also serve as documentation for new people joining your team.</p>\n</blockquote>\n<p>これに関しては相当懐疑的だなあ。そんなにすばらしく可読性の高いテストコードを書いてる現場を見たことがない。</p>\n",
+				"content_text": ">Tests can also serve as documentation for new people joining your team. \r\n\r\nこれに関しては相当懐疑的だなあ。そんなにすばらしく可読性の高いテストコードを書いてる現場を見たことがない。\n",
+				"date_published": "2024-12-26T10:12:48+09:00",
+				"url": "https://tweets.tai2.net/2024/12/26/tests-can-also-serve-as.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/25/225708.html",
+				
+				"content_html": "<p>Run E2E tests on EAS Build - Expo Documentation <a href=\"https://docs.expo.dev/archive/e2e-tests/\">docs.expo.dev/archive/e&hellip;</a></p>\n<p>セットアップがあまりにも複雑(洗練されてなさ)すぎるのでやめようかなって気になってきた…</p>\n",
+				"content_text": "Run E2E tests on EAS Build - Expo Documentation [docs.expo.dev/archive/e...](https://docs.expo.dev/archive/e2e-tests/)\r\n\r\nセットアップがあまりにも複雑(洗練されてなさ)すぎるのでやめようかなって気になってきた…\n",
+				"date_published": "2024-12-25T22:57:08+09:00",
+				"url": "https://tweets.tai2.net/2024/12/25/225708.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2024/12/25/run-ee-tests-on-eas.html",
+				
+				"content_html": "<p>Run E2E tests on EAS Build - Expo Documentation <a href=\"https://docs.expo.dev/archive/e2e-tests/\">docs.expo.dev/archive/e&hellip;</a></p>\n<p>これ見ながらやればDetoxのセットアップはできそう</p>\n",
+				"content_text": "Run E2E tests on EAS Build - Expo Documentation [docs.expo.dev/archive/e...](https://docs.expo.dev/archive/e2e-tests/)\r\n\r\nこれ見ながらやればDetoxのセットアップはできそう\n",
+				"date_published": "2024-12-25T21:00:36+09:00",
+				"url": "https://tweets.tai2.net/2024/12/25/run-ee-tests-on-eas.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2024/12/25/205529.html",
 				
 				"content_html": "<p>config-plugins/packages/detox at main · expo/config-plugins · GitHub <a href=\"https://github.com/expo/config-plugins/tree/main/packages/detox\">github.com/expo/conf&hellip;</a></p>\n<p>E2Eテストはdetoxでやろうかなと思ってる。MaestroはまあAutifyと似たようなもんで予想はどんなもんなのかもだいたい検討がつくし、よくわからない仕組みで実行されるdetoxに触れたほうが経験値稼げそうなので。</p>\n",
