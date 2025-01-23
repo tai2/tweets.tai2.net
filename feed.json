@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/01/24/is-the-year-of-graphql.html",
+				
+				"content_html": "<p>2025 is the year of GraphQL error handling! <a href=\"https://mbonnin.net/2025-01-13_graphql-errors/\">mbonnin.net/2025-01-1&hellip;</a></p>\n",
+				"content_text": "2025 is the year of GraphQL error handling! [mbonnin.net/2025-01-1...](https://mbonnin.net/2025-01-13_graphql-errors/)\n",
+				"date_published": "2025-01-24T08:31:45+09:00",
+				"url": "https://tweets.tai2.net/2025/01/24/is-the-year-of-graphql.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/01/17/215815.html",
+				
+				"content_html": "<p><a href=\"https://blog.tai2.net/utility-first-css.html\">blog.tai2.net/utility-f&hellip;</a></p>\n<p>この記事書いたとき、メディアクエリー等の問題が解決されるならstyle直接でいいって書いたけど、よく考えたら、Reactの場合パフォーマンスの問題もあった。オブジェクトリテラル渡しちゃうとmemo化が無効になっちゃうので、styleもメモ化しないといけない。そういう意味でもやっぱりclassで記述するメリットあるな。</p>\n<p>そう考えると、react-nativeのStyleSheetも嫌だけどちゃんと使わなくちゃいけないし、なんならNativeWindとかもちゃんと意味があることになってきた。内部的にStyleSheetに変換するので。ただ、ふつうのtailwindと比べて仕組みが複雑っぽいのが気になる。うーん…。</p>\n",
+				"content_text": "[blog.tai2.net/utility-f...](https://blog.tai2.net/utility-first-css.html)\r\n\r\nこの記事書いたとき、メディアクエリー等の問題が解決されるならstyle直接でいいって書いたけど、よく考えたら、Reactの場合パフォーマンスの問題もあった。オブジェクトリテラル渡しちゃうとmemo化が無効になっちゃうので、styleもメモ化しないといけない。そういう意味でもやっぱりclassで記述するメリットあるな。\r\n\r\nそう考えると、react-nativeのStyleSheetも嫌だけどちゃんと使わなくちゃいけないし、なんならNativeWindとかもちゃんと意味があることになってきた。内部的にStyleSheetに変換するので。ただ、ふつうのtailwindと比べて仕組みが複雑っぽいのが気になる。うーん…。\n",
+				"date_published": "2025-01-17T21:58:15+09:00",
+				"url": "https://tweets.tai2.net/2025/01/17/215815.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/01/15/cryptographic-extraction-and-key-derivation.html",
+				
+				"content_html": "<p>Cryptographic Extraction and Key Derivation: The HKDF Scheme <a href=\"https://eprint.iacr.org/2010/264\">eprint.iacr.org/2010/264</a></p>\n",
+				"content_text": "Cryptographic Extraction and Key Derivation: The HKDF Scheme [eprint.iacr.org/2010/264](https://eprint.iacr.org/2010/264)\n",
+				"date_published": "2025-01-15T15:40:40+09:00",
+				"url": "https://tweets.tai2.net/2025/01/15/cryptographic-extraction-and-key-derivation.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/01/13/measuring-the-layout-react-native.html",
+				
+				"content_html": "<p>Measuring the Layout · React Native <a href=\"https://reactnative.dev/docs/next/the-new-architecture/layout-measurements\">reactnative.dev/docs/next&hellip;</a></p>\n",
+				"content_text": "Measuring the Layout · React Native [reactnative.dev/docs/next...](https://reactnative.dev/docs/next/the-new-architecture/layout-measurements)\n",
+				"date_published": "2025-01-13T20:51:20+09:00",
+				"url": "https://tweets.tai2.net/2025/01/13/measuring-the-layout-react-native.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/01/12/httpsyoutubecomwatchvnnkclftsiuwwsefenpnseo.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/watch?v=nnK8C-L9FT8&amp;si=0uw1wSEf1EnpNSEO\">youtube.com/watch</a></p>\n<p>長年依存症の克服方法に興味ある身として、自己治療仮説興味深く見た。</p>\n",
+				"content_text": "[youtube.com/watch](https://youtube.com/watch?v=nnK8C-L9FT8&si=0uw1wSEf1EnpNSEO)\n\n長年依存症の克服方法に興味ある身として、自己治療仮説興味深く見た。\n",
+				"date_published": "2025-01-12T23:58:35+09:00",
+				"url": "https://tweets.tai2.net/2025/01/12/httpsyoutubecomwatchvnnkclftsiuwwsefenpnseo.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/01/12/232729.html",
 				
-				"content_html": "<p>黒澤明、用心棒見た。</p>\n<p>黒澤作品の良さというのが、ようやく理解できた。黒澤作品の魅力は、映像と構図がとにかく美しいこと。どの一枚のフレームを取ってもまさに絵画のように「絵になる」。用心棒で多用されてたのが、奥と手前でレイヤー構造になって同時展開されるパララックスっぽい構造があるけど、ああいうのもめちゃくちゃ楽しい。</p>\n<p>ストーリーは、最初なんかつまらんかなあと思ったけど、ちゃんと面白かった。主人公が知恵を絞って敵を騙してのけるが痛快。</p>\n<p>芝居に関しては、なんかどうってことないのかなと感じた。三船敏郎が拷問受けて息も絶え絶えになってることぐらいかな。</p>\n<p>映像が白黒であることも重要なポイントだと思う。あれがフルカラーだったら、おそらくかなりしょぼく感じてたはず。白黒だからこそリアルに感じた。つまり、メディアという満たすべき箱の容量が小さいがゆえに、返って簡単に質量を満たせて、結果リアルに感じさせることができるのだと思う。制限を逆手にとってリアリティを実現するという原理にとても興味がある。</p>\n",
-				"content_text": "黒澤明、用心棒見た。\n\n黒澤作品の良さというのが、ようやく理解できた。黒澤作品の魅力は、映像と構図がとにかく美しいこと。どの一枚のフレームを取ってもまさに絵画のように「絵になる」。用心棒で多用されてたのが、奥と手前でレイヤー構造になって同時展開されるパララックスっぽい構造があるけど、ああいうのもめちゃくちゃ楽しい。\n\nストーリーは、最初なんかつまらんかなあと思ったけど、ちゃんと面白かった。主人公が知恵を絞って敵を騙してのけるが痛快。\n\n芝居に関しては、なんかどうってことないのかなと感じた。三船敏郎が拷問受けて息も絶え絶えになってることぐらいかな。\n\n映像が白黒であることも重要なポイントだと思う。あれがフルカラーだったら、おそらくかなりしょぼく感じてたはず。白黒だからこそリアルに感じた。つまり、メディアという満たすべき箱の容量が小さいがゆえに、返って簡単に質量を満たせて、結果リアルに感じさせることができるのだと思う。制限を逆手にとってリアリティを実現するという原理にとても興味がある。\n",
+				"content_html": "<p>黒澤明、用心棒見た。</p>\n<p>黒澤作品の良さというのが、ようやく理解できた。黒澤作品の魅力は、映像と構図がとにかく美しいこと。どの一枚のフレームを取ってもまさに絵画のように「絵になる」。用心棒で多用されてたのが、奥と手前でレイヤー構造になって同時展開されるパララックスっぽいやつがあるけど、ああいうのもめちゃくちゃ楽しい。</p>\n<p>ストーリーは、最初なんかつまらんかなあと思ったけど、ちゃんと面白かった。主人公が知恵を絞って敵を騙してのけるが痛快。キャラクターもいい。</p>\n<p>芝居に関しては、なんかどうってことないのかなと感じた。三船敏郎が拷問受けて息も絶え絶えになってることぐらいかな。芝居は全体的にリアルでなかったと思う。</p>\n<p>映像が白黒であることも重要なポイントだと思う。あれがフルカラーだったら、おそらくかなりしょぼく感じてたはず。白黒だからこそリアルに感じた。つまり、メディアという満たすべき箱の容量が小さいがゆえに、返って簡単に質量を満たせて、結果リアルに感じさせることができるのだと思う。制限を逆手にとってリアリティを実現するという原理にとても興味がある。</p>\n",
+				"content_text": "黒澤明、用心棒見た。\n\n黒澤作品の良さというのが、ようやく理解できた。黒澤作品の魅力は、映像と構図がとにかく美しいこと。どの一枚のフレームを取ってもまさに絵画のように「絵になる」。用心棒で多用されてたのが、奥と手前でレイヤー構造になって同時展開されるパララックスっぽいやつがあるけど、ああいうのもめちゃくちゃ楽しい。\n\nストーリーは、最初なんかつまらんかなあと思ったけど、ちゃんと面白かった。主人公が知恵を絞って敵を騙してのけるが痛快。キャラクターもいい。\n\n芝居に関しては、なんかどうってことないのかなと感じた。三船敏郎が拷問受けて息も絶え絶えになってることぐらいかな。芝居は全体的にリアルでなかったと思う。\n\n映像が白黒であることも重要なポイントだと思う。あれがフルカラーだったら、おそらくかなりしょぼく感じてたはず。白黒だからこそリアルに感じた。つまり、メディアという満たすべき箱の容量が小さいがゆえに、返って簡単に質量を満たせて、結果リアルに感じさせることができるのだと思う。制限を逆手にとってリアリティを実現するという原理にとても興味がある。\n",
 				"date_published": "2025-01-12T23:27:29+09:00",
 				"url": "https://tweets.tai2.net/2025/01/12/232729.html"
 			},
@@ -402,7 +442,7 @@
 				"id": "http://tai2.micro.blog/2024/10/31/expo-go.html",
 				
 				"content_html": "<p>Expo Go日本のコミュニティで「ぺ」って呼ばれてそう</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"https://tweets.tai2.net/uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-31T20:48:55+09:00",
 				"url": "https://tweets.tai2.net/2024/10/31/expo-go.html"
 			},
@@ -770,7 +810,7 @@
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://tweets.tai2.net/uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
+				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-10T15:11:02+09:00",
 				"url": "https://tweets.tai2.net/2024/09/10/151102.html"
 			},
@@ -941,7 +981,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -989,7 +1029,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -1023,7 +1063,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -1063,7 +1103,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -1087,7 +1127,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -1232,7 +1272,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -1337,7 +1377,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -1393,7 +1433,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -1401,7 +1441,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
