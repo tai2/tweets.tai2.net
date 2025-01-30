@@ -25,6 +25,212 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://tweets.tai2.net/2025/01/30/201656.html" class="u-url"><time class="dt-published" datetime="2025-01-30 20:16:56 &#43;0900">Jan 30, 2025</time></a>
+
+		<div class="e-content">
+			 <pre tabindex="0"><code>02:47:56.606 [ WARN] xcuitest.XCTestDriverClient.handleExceptions: Status code: 500, body: {&quot;code&quot;:&quot;internal&quot;,&quot;errorMessage&quot;:&quot;Unable to perform work on main run loop, process main thread busy for 30.0s&quot;}
+</code></pre><p>悲報、EAS上でのmaestro実行不安定っぽい…。ウォームアップに時間かかってる???</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/ci-developcilint-masterpreasciee-submit.html" class="u-url"><time class="dt-published" datetime="2025-01-28 22:55:10 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>けっきょく必須のCIはリリース時のみで、そう考えると、</p>
+<ul>
+<li>普段はdevelop上で開発。CIは、軽量なもののみ(lint,型チェック、ユニットテスト)</li>
+<li>リリース時は、masterに向けてPR作成。EAS上でのCI起動(ビルド、E2Eテスト)。</li>
+<li>リリースブランチマージされたらストアにsubmit&amp;リリースノート作成</li>
+</ul>
+<p>こんな感じかな。</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/trigger-builds-from-the-expo.html" class="u-url"><time class="dt-published" datetime="2025-01-28 22:25:17 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Trigger builds from the Expo GitHub App - Expo Documentation <a href="https://docs.expo.dev/build/building-from-github/#configure-your-app-for-github">docs.expo.dev/build/bui&hellip;</a></p>
+<p>この方法が一番楽で便利そうだなー</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/trigger-builds-from-ci-expo.html" class="u-url"><time class="dt-published" datetime="2025-01-28 21:30:00 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Trigger builds from CI - Expo Documentation <a href="https://docs.expo.dev/build/building-on-ci/">docs.expo.dev/build/bui&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/reactnative-iospush.html" class="u-url"><time class="dt-published" datetime="2025-01-28 19:22:54 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/191321.html" class="u-url"><time class="dt-published" datetime="2025-01-28 19:13:21 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>今年は、英語と統計学入門をがんばりたい気がする。十数年ぶりに英文法の本を一冊読みたい。</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/175547.html" class="u-url"><time class="dt-published" datetime="2025-01-28 17:55:47 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>CI/CDどうするのがいいか考える。</p>
+<p>まず、ふだんの開発はローカルで、手動テストは実機またはsimulator/emulatorで行う。自動テストは、jestとmaestro。クラウドで実機E2Eテスト走らせるとお金かかるので、E2Eテストはsimulator/emulatorのみ。</p>
+<p>どうせおれしかコードいじらないので、いちいちブランチ切ったりしない。直デフォルトブランチにpushするのが楽。一方、E2Eテストは重いしクレジットも限られてるので、pushごとに毎回走らせたくはない。なにをトリガーにしてCI走らせるか。</p>
+<p>…もうちょっと考える。</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/splash-screen-and-app-icon.html" class="u-url"><time class="dt-published" datetime="2025-01-28 13:36:02 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Splash screen and app icon - Expo Documentation <a href="https://docs.expo.dev/develop/user-interface/splash-screen-and-app-icon">docs.expo.dev/develop/u&hellip;</a></p>
+<p>スプラッシュスクリーン、必要そうなら足す</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/102301.html" class="u-url"><time class="dt-published" datetime="2025-01-28 10:23:01 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>View Flattening · React Native <a href="https://reactnative.dev/architecture/view-flattening">reactnative.dev/architect&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/maestro.html" class="u-url"><time class="dt-published" datetime="2025-01-28 10:09:30 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>なんというかMaestro便利だな…便利すぎるな……</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/oraclegraaljs-graaljs-a-highperformance-ecmascript.html" class="u-url"><time class="dt-published" datetime="2025-01-28 09:23:30 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>oracle/graaljs: GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java <a href="https://github.com/oracle/graaljs">github.com/oracle/gr&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/091914.html" class="u-url"><time class="dt-published" datetime="2025-01-28 09:19:14 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>assertNoDefectsWithAi | Maestro by Mobile.dev <a href="https://maestro.mobile.dev/api-reference/commands/assertnodefectswithai">maestro.mobile.dev/api-refer&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/create-and-run-fast-endtoend.html" class="u-url"><time class="dt-published" datetime="2025-01-28 09:11:32 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Create and run fast end-to-end tests using Moropo and Expo <a href="https://expo.dev/blog/create-and-run-fast-end-to-end-tests-using-moropo-and-expo">expo.dev/blog/crea&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/28/cimaestromacos-github-actions-macos-runners.html" class="u-url"><time class="dt-published" datetime="2025-01-28 08:59:23 &#43;0900">Jan 28, 2025</time></a>
+
+		<div class="e-content">
+			 <p>CIどうしようかなあ。Maestroどこで走らせるか。macOSが必要。</p>
+<ol>
+<li>GitHub Actions macOS runners</li>
+<li>EAS Workflows</li>
+</ol>
+<p>ビルドどこで走らせるかって話にもなってくる。GitHubでビルドからテストまでやるのもできるとは思うけど、設定の行数は増える。一番楽なのはEAS。</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/26/differences-between-simulated-and-physical.html" class="u-url"><time class="dt-published" datetime="2025-01-26 11:39:59 &#43;0900">Jan 26, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Differences between simulated and physical devices - Simulator Help <a href="https://help.apple.com/simulator/mac/current/#/devb0244142d">help.apple.com/simulator&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/25/react-nativeyogacssweb.html" class="u-url"><time class="dt-published" datetime="2025-01-25 09:57:34 &#43;0900">Jan 25, 2025</time></a>
+
+		<div class="e-content">
+			 <p>React Nativeのレイアウトエンジン(いわゆるYoga)、実際使ってみると、あくまでCSSのような見た目をしたなにかであって、けっこう違うね。まあそれはわかっていたことであはるんだけど、けっこうバグっぽい挙動がある。Webほど一貫性のある挙動をしないので、ちょいちょいちっちゃい問題に遭遇して、そのたびワークアラウンドをひねくり出して突破する必要がある。</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2025/01/24/143820.html" class="u-url"><time class="dt-published" datetime="2025-01-24 14:38:20 &#43;0900">Jan 24, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Appium Meetup Tokyo - connpass <a href="https://autifyjapan.connpass.com/event/342867/">autifyjapan.connpass.com/event/342&hellip;</a></p>
+<p>Autify主催でAppiumについてのミートアップをやります(宣伝)</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://tweets.tai2.net/2025/01/24/is-the-year-of-graphql.html" class="u-url"><time class="dt-published" datetime="2025-01-24 08:31:45 &#43;0900">Jan 24, 2025</time></a>
 
 		<div class="e-content">
