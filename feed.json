@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/03/10/ee.html",
+				"title": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて",
+				"content_html": "<p>E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。</p>\n<p>これは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ</p>\n<p><a href=\"https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml\">github.com/tai2/Voic&hellip;</a></p>\n<p>ユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。</p>\n<!-- raw HTML omitted -->\n<p>しかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。ユザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。</p>\n<p>これについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。</p>\n",
+				"content_text": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。\r\n\r\nこれは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ\r\n\r\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml)\r\n\r\nユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。\r\n\r\n<img src=\"uploads/2025/9fdfff96ce.png\" alt=\"\">\r\n\r\nしかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。ユザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。\r\n\r\nこれについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。\n",
+				"date_published": "2025-03-10T20:14:21+09:00",
+				"url": "https://tweets.tai2.net/2025/03/10/ee.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/10/pollyjs-httpsnetflixgithubiopollyjs.html",
+				
+				"content_html": "<p>Polly.JS <a href=\"https://netflix.github.io/pollyjs/#/\">netflix.github.io/pollyjs/</a></p>\n",
+				"content_text": "Polly.JS [netflix.github.io/pollyjs/](https://netflix.github.io/pollyjs/#/)\n",
+				"date_published": "2025-03-10T13:22:18+09:00",
+				"url": "https://tweets.tai2.net/2025/03/10/pollyjs-httpsnetflixgithubiopollyjs.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/07/eas.html",
+				
+				"content_html": "<p>EASの設定ストレスフルが過ぎるな…一回の試行に時間がかかりすぎる………</p>\n",
+				"content_text": "EASの設定ストレスフルが過ぎるな…一回の試行に時間がかかりすぎる………\n",
+				"date_published": "2025-03-07T20:32:22+09:00",
+				"url": "https://tweets.tai2.net/2025/03/07/eas.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/07/trigger-builds-from-ci-expo.html",
+				
+				"content_html": "<p>Trigger builds from CI - Expo Documentation <a href=\"https://docs.expo.dev/build/building-on-ci/\">docs.expo.dev/build/bui&hellip;</a></p>\n<p>EXPO_TOKENなるほど</p>\n",
+				"content_text": "Trigger builds from CI - Expo Documentation [docs.expo.dev/build/bui...](https://docs.expo.dev/build/building-on-ci/)\r\n\r\nEXPO_TOKENなるほど\n",
+				"date_published": "2025-03-07T20:10:11+09:00",
+				"url": "https://tweets.tai2.net/2025/03/07/trigger-builds-from-ci-expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/07/193825.html",
+				
+				"content_html": "<p><a href=\"https://github.com/byCedric/eas-gha\">https://github.com/byCedric/eas-gha</a></p>\n<p>これ見て気付いたけど、<code>eas build --local</code> って、すくなくとも4年前から存在するんだな。そしていまだにexperimental扱い。正式公開はするつもりないってことかな。まあぶっちゃけローカルオプションがあればEASっていうCI/CDサービス自体いらない子になっちゃうしな。</p>\n",
+				"content_text": "https://github.com/byCedric/eas-gha\r\n\r\nこれ見て気付いたけど、`eas build --local` って、すくなくとも4年前から存在するんだな。そしていまだにexperimental扱い。正式公開はするつもりないってことかな。まあぶっちゃけローカルオプションがあればEASっていうCI/CDサービス自体いらない子になっちゃうしな。\n",
+				"date_published": "2025-03-07T19:38:25+09:00",
+				"url": "https://tweets.tai2.net/2025/03/07/193825.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/03/05/scrum-difference-between-grooming-and.html",
 				
 				"content_html": "<p>scrum - Difference between grooming and refinement - Project Management Stack Exchange <a href=\"https://pm.stackexchange.com/questions/24133/difference-between-grooming-and-refinement\">pm.stackexchange.com/questions&hellip;</a></p>\n",
@@ -226,7 +266,7 @@
 				"id": "http://tai2.micro.blog/2025/02/02/123000.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p><a href=\"https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations\">developer.apple.com/documenta&hellip;</a></p>\n<p>ふーむ??</p>\n",
-				"content_text": "<img src=\"uploads/2025/5d7317de54.png\" alt=\"\">\r\n\r\n[developer.apple.com/documenta...](https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations)\r\n\r\nふーむ??\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2025/5d7317de54.png\" alt=\"\">\r\n\r\n[developer.apple.com/documenta...](https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations)\r\n\r\nふーむ??\n",
 				"date_published": "2025-02-02T12:30:00+09:00",
 				"url": "https://tweets.tai2.net/2025/02/02/123000.html"
 			},
@@ -298,7 +338,7 @@
 				"id": "http://tai2.micro.blog/2025/01/28/reactnative-iospush.html",
 				
 				"content_html": "<p>ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。\n\n<img src=\"uploads/2025/2025-01-28-19-20-38.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/2025-01-28-19-20-38.png\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2025-01-28T19:22:54+09:00",
 				"url": "https://tweets.tai2.net/2025/01/28/reactnative-iospush.html"
 			},
@@ -834,7 +874,7 @@
 				"id": "http://tai2.micro.blog/2024/10/31/expo-go.html",
 				
 				"content_html": "<p>Expo Go日本のコミュニティで「ぺ」って呼ばれてそう</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"https://tweets.tai2.net/uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-31T20:48:55+09:00",
 				"url": "https://tweets.tai2.net/2024/10/31/expo-go.html"
 			},
@@ -1202,7 +1242,7 @@
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
+				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://tweets.tai2.net/uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-10T15:11:02+09:00",
 				"url": "https://tweets.tai2.net/2024/09/10/151102.html"
 			},
@@ -1373,7 +1413,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -1421,7 +1461,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -1455,7 +1495,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -1495,7 +1535,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -1519,7 +1559,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -1664,7 +1704,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -1769,7 +1809,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
@@ -1825,7 +1865,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/213724.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tai2.micro.blog/uploads/2024/56ab81813c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:37:24+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/213724.html"
 			},
@@ -1833,7 +1873,7 @@
 				"id": "http://tai2.micro.blog/2024/08/08/211408.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tai2.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-08T21:14:08+09:00",
 				"url": "https://tweets.tai2.net/2024/08/08/211408.html"
 			},
