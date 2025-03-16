@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/03/16/react-as-a-ui-runtime.html",
+				
+				"content_html": "<p>React as a UI Runtime — overreacted <a href=\"https://overreacted.io/react-as-a-ui-runtime/\">overreacted.io/react-as-&hellip;</a></p>\n",
+				"content_text": "React as a UI Runtime — overreacted [overreacted.io/react-as-...](https://overreacted.io/react-as-a-ui-runtime/)\n",
+				"date_published": "2025-03-16T11:36:41+09:00",
+				"url": "https://tweets.tai2.net/2025/03/16/react-as-a-ui-runtime.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/15/152653.html",
+				
+				"content_html": "<p>discussions-and-proposals/proposals/0744-well-defined-event-loop.md at main · react-native-community/discussions-and-proposals</p>\n<p><a href=\"https://github.com/react-native-community/discussions-and-proposals/blob/main/proposals/0744-well-defined-event-loop.md\">github.com/react-nat&hellip;</a></p>\n",
+				"content_text": "discussions-and-proposals/proposals/0744-well-defined-event-loop.md at main · react-native-community/discussions-and-proposals\n\n[github.com/react-nat...](https://github.com/react-native-community/discussions-and-proposals/blob/main/proposals/0744-well-defined-event-loop.md)\n",
+				"date_published": "2025-03-15T15:26:53+09:00",
+				"url": "https://tweets.tai2.net/2025/03/15/152653.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/15/react-natives-many-platform-vision.html",
+				
+				"content_html": "<p>React Native&rsquo;s Many Platform Vision · React Native</p>\n<p><a href=\"https://reactnative.dev/blog/2021/08/26/many-platform-vision\">reactnative.dev/blog/2021&hellip;</a></p>\n",
+				"content_text": "React Native's Many Platform Vision · React Native\n\n[reactnative.dev/blog/2021...](https://reactnative.dev/blog/2021/08/26/many-platform-vision)\n",
+				"date_published": "2025-03-15T15:17:22+09:00",
+				"url": "https://tweets.tai2.net/2025/03/15/react-natives-many-platform-vision.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/13/design-state-machines-for-microservices.html",
+				
+				"content_html": "<p>Design state machines for microservices | Red Hat Developer <a href=\"https://developers.redhat.com/articles/2021/11/23/how-design-state-machines-microservices#\">developers.redhat.com/articles/&hellip;</a></p>\n",
+				"content_text": "Design state machines for microservices | Red Hat Developer [developers.redhat.com/articles/...](https://developers.redhat.com/articles/2021/11/23/how-design-state-machines-microservices#)\n",
+				"date_published": "2025-03-13T16:48:07+09:00",
+				"url": "https://tweets.tai2.net/2025/03/13/design-state-machines-for-microservices.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/12/212827.html",
+				
+				"content_html": "<p>asyncが入り込んだ時点で、JavaScriptの良さのひとつであった、勝手に(必然的に)同期化されるからレースコンディションとか考えなくていい、が失くなってしまうんだなあ、つらいなあ、というパッチ</p>\n<p><a href=\"https://github.com/tai2/VoicePost/commit/c69ad3054fb3795a821225379f8a0cafec30d3f7\">github.com/tai2/Voic&hellip;</a></p>\n",
+				"content_text": "asyncが入り込んだ時点で、JavaScriptの良さのひとつであった、勝手に(必然的に)同期化されるからレースコンディションとか考えなくていい、が失くなってしまうんだなあ、つらいなあ、というパッチ\r\n\r\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/commit/c69ad3054fb3795a821225379f8a0cafec30d3f7)\n",
+				"date_published": "2025-03-12T21:28:27+09:00",
+				"url": "https://tweets.tai2.net/2025/03/12/212827.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/12/192357.html",
+				
+				"content_html": "<p>react-native-webview/docs/Guide.md at master · react-native-webview/react-native-webview <a href=\"https://github.com/react-native-webview/react-native-webview/blob/master/docs/Guide.md#react-native-webview-guide\">github.com/react-nat&hellip;</a></p>\n<p>ふむ…</p>\n",
+				"content_text": "react-native-webview/docs/Guide.md at master · react-native-webview/react-native-webview [github.com/react-nat...](https://github.com/react-native-webview/react-native-webview/blob/master/docs/Guide.md#react-native-webview-guide)\r\n\r\nふむ…\n",
+				"date_published": "2025-03-12T19:23:57+09:00",
+				"url": "https://tweets.tai2.net/2025/03/12/192357.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/12/082419.html",
+				
+				"content_html": "<p>Why Go? · microsoft/typescript-go · Discussion #411 <a href=\"https://github.com/microsoft/typescript-go/discussions/411\">github.com/microsoft&hellip;</a></p>\n",
+				"content_text": "Why Go? · microsoft/typescript-go · Discussion #411 [github.com/microsoft...](https://github.com/microsoft/typescript-go/discussions/411)\n",
+				"date_published": "2025-03-12T08:24:19+09:00",
+				"url": "https://tweets.tai2.net/2025/03/12/082419.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/11/export-const-catcher-t-extends.html",
+				
+				"content_html": "<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-typescript\" data-lang=\"typescript\"><span style=\"color:#66d9ef\">export</span> <span style=\"color:#66d9ef\">const</span> <span style=\"color:#a6e22e\">catcher</span> <span style=\"color:#f92672\">=</span>\n  &lt;<span style=\"color:#f92672\">T</span> <span style=\"color:#a6e22e\">extends</span> <span style=\"color:#960050;background-color:#1e0010\">(</span><span style=\"color:#a6e22e\">...args</span><span style=\"color:#960050;background-color:#1e0010\">:</span> <span style=\"color:#a6e22e\">any</span><span style=\"color:#960050;background-color:#1e0010\">[])</span> <span style=\"color:#960050;background-color:#1e0010\">=</span>&gt; <span style=\"color:#a6e22e\">Promise</span>&lt;<span style=\"color:#f92672\">any</span>&gt;<span style=\"color:#f92672\">&gt;</span>(\n    <span style=\"color:#a6e22e\">f</span>: <span style=\"color:#66d9ef\">T</span>\n  )<span style=\"color:#f92672\">:</span> ((...<span style=\"color:#a6e22e\">parameters</span>: <span style=\"color:#66d9ef\">Parameters</span>&lt;<span style=\"color:#f92672\">T</span>&gt;) <span style=\"color:#f92672\">=&gt;</span> <span style=\"color:#66d9ef\">void</span>) <span style=\"color:#f92672\">=&gt;</span>\n  (...<span style=\"color:#a6e22e\">parameters</span>: <span style=\"color:#66d9ef\">Parameters</span>&lt;<span style=\"color:#f92672\">T</span>&gt;) <span style=\"color:#f92672\">=&gt;</span>\n    <span style=\"color:#a6e22e\">f</span>(...<span style=\"color:#a6e22e\">parameters</span>).<span style=\"color:#66d9ef\">catch</span>((<span style=\"color:#a6e22e\">e</span>) <span style=\"color:#f92672\">=&gt;</span> {\n      <span style=\"color:#a6e22e\">console</span>.<span style=\"color:#a6e22e\">error</span>(<span style=\"color:#a6e22e\">e</span>);\n    });\n</code></pre></div><p>このような関数があると便利だと思うんだけど、どうだろう。たぶんすでにあるんだろうけど、名前がわからない…。</p>\n",
+				"content_text": "```typescript\nexport const catcher =\n  <T extends (...args: any[]) => Promise<any>>(\n    f: T\n  ): ((...parameters: Parameters<T>) => void) =>\n  (...parameters: Parameters<T>) =>\n    f(...parameters).catch((e) => {\n      console.error(e);\n    });\n```\nこのような関数があると便利だと思うんだけど、どうだろう。たぶんすでにあるんだろうけど、名前がわからない…。\n",
+				"date_published": "2025-03-11T21:05:17+09:00",
+				"url": "https://tweets.tai2.net/2025/03/11/export-const-catcher-t-extends.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/11/rust-in-targeting-foundational-software.html",
+				
+				"content_html": "<p>Rust in 2025: Targeting foundational software · baby steps <a href=\"https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/\">smallcultfollowing.com/babysteps&hellip;</a></p>\n",
+				"content_text": "Rust in 2025: Targeting foundational software · baby steps [smallcultfollowing.com/babysteps...](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)\n",
+				"date_published": "2025-03-11T13:43:56+09:00",
+				"url": "https://tweets.tai2.net/2025/03/11/rust-in-targeting-foundational-software.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/03/10/ee.html",
 				"title": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて",
-				"content_html": "<p>E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。</p>\n<p>これは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ</p>\n<p><a href=\"https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml\">github.com/tai2/Voic&hellip;</a></p>\n<p>ユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。</p>\n<!-- raw HTML omitted -->\n<p>しかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。ユザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。</p>\n<p>これについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。</p>\n",
-				"content_text": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。\r\n\r\nこれは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ\r\n\r\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml)\r\n\r\nユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。\r\n\r\n<img src=\"uploads/2025/9fdfff96ce.png\" alt=\"\">\r\n\r\nしかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。ユザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。\r\n\r\nこれについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。\n",
+				"content_html": "<p>E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。</p>\n<p>これは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ</p>\n<p><a href=\"https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml\">github.com/tai2/Voic&hellip;</a></p>\n<p>ユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。</p>\n<!-- raw HTML omitted -->\n<p>しかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。まがりなりにもユーザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。</p>\n<p>これについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。</p>\n",
+				"content_text": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。\n\nこれは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ\n\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml)\n\nユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/9fdfff96ce.png\" alt=\"\">\n\nしかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。まがりなりにもユーザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。\n\nこれについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。\n",
 				"date_published": "2025-03-10T20:14:21+09:00",
 				"url": "https://tweets.tai2.net/2025/03/10/ee.html"
 			},
