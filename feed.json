@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/03/21/accelerating-largescale-test-migration-with.html",
+				
+				"content_html": "<p>Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium <a href=\"https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b\">medium.com/airbnb-en&hellip;</a></p>\n",
+				"content_text": "Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium [medium.com/airbnb-en...](https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b)\n",
+				"date_published": "2025-03-21T14:01:16+09:00",
+				"url": "https://tweets.tai2.net/2025/03/21/accelerating-largescale-test-migration-with.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/20/revoke.html",
+				
+				"content_html": "<p>あとは、Revokeがサードパーティーごとにできるのも良い点か。影響が局所化されてる。</p>\n",
+				"content_text": "あとは、Revokeがサードパーティーごとにできるのも良い点か。影響が局所化されてる。\n",
+				"date_published": "2025-03-20T12:31:00+09:00",
+				"url": "https://tweets.tai2.net/2025/03/20/revoke.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/20/oauthoauth.html",
+				
+				"content_html": "<p>OAuthについて思うのは、ユーザーのパスワードをサードパーティーに渡したくないというのが主な動機だと思うんだけど、けっきょくリフレッシュトークンはサードパーティーに渡してるわけで、問題は変わってない、という面もあるよな。もちろんスコープの制御はできてるので、そういう意味では、スコープのサービスごとの柔軟な制御こそがOAuthの主たる価値なのか。誤解してたかも。</p>\n",
+				"content_text": "OAuthについて思うのは、ユーザーのパスワードをサードパーティーに渡したくないというのが主な動機だと思うんだけど、けっきょくリフレッシュトークンはサードパーティーに渡してるわけで、問題は変わってない、という面もあるよな。もちろんスコープの制御はできてるので、そういう意味では、スコープのサービスごとの柔軟な制御こそがOAuthの主たる価値なのか。誤解してたかも。\n",
+				"date_published": "2025-03-20T11:29:54+09:00",
+				"url": "https://tweets.tai2.net/2025/03/20/oauthoauth.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/20/112121.html",
+				
+				"content_html": "<p>セキュリティーについて思うこと。破ることについて考えるのはたのしいけど、守るのはめんどくさいだけで考えたくない。</p>\n",
+				"content_text": "セキュリティーについて思うこと。破ることについて考えるのはたのしいけど、守るのはめんどくさいだけで考えたくない。\n",
+				"date_published": "2025-03-20T11:21:21+09:00",
+				"url": "https://tweets.tai2.net/2025/03/20/112121.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/18/213153.html",
+				
+				"content_html": "<p>expo-auth-session example <a href=\"https://gist.github.com/jdthorpe/aaa0d31a598f299a57e5c76535bf0690\">gist.github.com/jdthorpe/&hellip;</a></p>\n<p>たすかる</p>\n",
+				"content_text": "expo-auth-session example [gist.github.com/jdthorpe/...](https://gist.github.com/jdthorpe/aaa0d31a598f299a57e5c76535bf0690)\r\n\r\nたすかる\n",
+				"date_published": "2025-03-18T21:31:53+09:00",
+				"url": "https://tweets.tai2.net/2025/03/18/213153.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/18/oauthpkceuniversal-linksapp-links.html",
+				
+				"content_html": "<p>ようやく理解した。モバイルアプリにおけるOAuth2(+PKCE)は、Universal LinksもしくはApp Linksを使ってはじめて完成するんだな。</p>\n",
+				"content_text": "ようやく理解した。モバイルアプリにおけるOAuth2(+PKCE)は、Universal LinksもしくはApp Linksを使ってはじめて完成するんだな。\n",
+				"date_published": "2025-03-18T20:23:10+09:00",
+				"url": "https://tweets.tai2.net/2025/03/18/oauthpkceuniversal-linksapp-links.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/17/render-commit-mount.html",
+				
+				"content_html": "<p>Render → Commit → Mount</p>\n",
+				"content_text": "Render → Commit → Mount\n",
+				"date_published": "2025-03-17T21:56:39+09:00",
+				"url": "https://tweets.tai2.net/2025/03/17/render-commit-mount.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/16/react-components-elements-and-instances.html",
+				
+				"content_html": "<p>React Components, Elements, and Instances – React Blog <a href=\"https://legacy.reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html\">legacy.reactjs.org/blog/2015&hellip;</a></p>\n",
+				"content_text": "React Components, Elements, and Instances – React Blog [legacy.reactjs.org/blog/2015...](https://legacy.reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)\n",
+				"date_published": "2025-03-16T11:44:25+09:00",
+				"url": "https://tweets.tai2.net/2025/03/16/react-components-elements-and-instances.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/03/16/react-as-a-ui-runtime.html",
 				
 				"content_html": "<p>React as a UI Runtime — overreacted <a href=\"https://overreacted.io/react-as-a-ui-runtime/\">overreacted.io/react-as-&hellip;</a></p>\n",
