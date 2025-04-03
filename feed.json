@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/04/03/223737.html",
+				
+				"content_html": "<p>人生初めて骨折したんだけど、感想としては、あ、このくらいの痛みなのね、だった。</p>\n<p>逆説的に、瀕死になるほどの痛み、死ぬほどの痛みってどのくらいなのか、外延的に察しがついた、気がした</p>\n",
+				"content_text": "人生初めて骨折したんだけど、感想としては、あ、このくらいの痛みなのね、だった。\n\n逆説的に、瀕死になるほどの痛み、死ぬほどの痛みってどのくらいなのか、外延的に察しがついた、気がした\n",
+				"date_published": "2025-04-03T22:37:37+09:00",
+				"url": "https://tweets.tai2.net/2025/04/03/223737.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/24/c-abi-stability-guidelines-issue.html",
+				
+				"content_html": "<p>C++ ABI stability Guidelines · Issue #257 · react-native-community/discussions-and-proposals</p>\n<p><a href=\"https://github.com/react-native-community/discussions-and-proposals/issues/257\">github.com/react-nat&hellip;</a></p>\n",
+				"content_text": "C++ ABI stability Guidelines · Issue #257 · react-native-community/discussions-and-proposals\n\n[github.com/react-nat...](https://github.com/react-native-community/discussions-and-proposals/issues/257)\n",
+				"date_published": "2025-03-24T14:01:07+09:00",
+				"url": "https://tweets.tai2.net/2025/03/24/c-abi-stability-guidelines-issue.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/03/24/aaaaaaaaa.html",
+				
+				"content_html": "<p>スタートアップ業界に何年もいて思うのは、スタートアップって、かなり行動に制限があるよなあということ。というのも、スタートアップは絶対にお金をめちゃくちゃ稼がなくてはいけなくて、すべては何倍もの成長をもたらすかという基準に照らされて判断されるので、地味だけど役に立つこととかはできないんだよな。しかも昨今はプラットフォームだのなんだのと最初から大上段になってきてるし。もうほんと博打よな。ゲームで言うとAAAタイトルしかなくなってきてるみたいな。まあ、AAAは必ず売れるゆえのAAAだから、そこは違うか。個人的には、どちらかというとインディーゲームのほうが性に合ってるような気はする。</p>\n",
+				"content_text": "スタートアップ業界に何年もいて思うのは、スタートアップって、かなり行動に制限があるよなあということ。というのも、スタートアップは絶対にお金をめちゃくちゃ稼がなくてはいけなくて、すべては何倍もの成長をもたらすかという基準に照らされて判断されるので、地味だけど役に立つこととかはできないんだよな。しかも昨今はプラットフォームだのなんだのと最初から大上段になってきてるし。もうほんと博打よな。ゲームで言うとAAAタイトルしかなくなってきてるみたいな。まあ、AAAは必ず売れるゆえのAAAだから、そこは違うか。個人的には、どちらかというとインディーゲームのほうが性に合ってるような気はする。\n",
+				"date_published": "2025-03-24T11:22:28+09:00",
+				"url": "https://tweets.tai2.net/2025/03/24/aaaaaaaaa.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/03/21/accelerating-largescale-test-migration-with.html",
 				
 				"content_html": "<p>Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium <a href=\"https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b\">medium.com/airbnb-en&hellip;</a></p>\n",
