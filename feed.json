@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/05/30/ai.html",
+				
+				"content_html": "<p>AIが早過ぎて脳が疲れるっていったいどういうことなんだろう。根本的に違う使い方してそうだなあ。</p>\n",
+				"content_text": "AIが早過ぎて脳が疲れるっていったいどういうことなんだろう。根本的に違う使い方してそうだなあ。\n",
+				"date_published": "2025-05-30T07:48:10+09:00",
+				"url": "https://tweets.tai2.net/2025/05/30/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/29/132431.html",
+				
+				"content_html": "<p>LLM-Testing/LLM4SoftwareTesting <a href=\"https://github.com/LLM-Testing/LLM4SoftwareTesting\">github.com/LLM-Testi&hellip;</a></p>\n",
+				"content_text": "LLM-Testing/LLM4SoftwareTesting [github.com/LLM-Testi...](https://github.com/LLM-Testing/LLM4SoftwareTesting)\n",
+				"date_published": "2025-05-29T13:24:31+09:00",
+				"url": "https://tweets.tai2.net/2025/05/29/132431.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/29/rustn.html",
+				
+				"content_html": "<p>Rustを覚えたいと思ってN年が過ぎた。ぐぬぬ。</p>\n",
+				"content_text": "Rustを覚えたいと思ってN年が過ぎた。ぐぬぬ。\n",
+				"date_published": "2025-05-29T07:52:22+09:00",
+				"url": "https://tweets.tai2.net/2025/05/29/rustn.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/27/automated-unit-test-improvement-using.html",
+				
+				"content_html": "<p>[2402.09171] Automated Unit Test Improvement using Large Language Models at Meta <a href=\"https://arxiv.org/abs/2402.09171\">arxiv.org/abs/2402&hellip;.</a></p>\n",
+				"content_text": "[2402.09171] Automated Unit Test Improvement using Large Language Models at Meta [arxiv.org/abs/2402....](https://arxiv.org/abs/2402.09171)\n",
+				"date_published": "2025-05-27T10:31:26+09:00",
+				"url": "https://tweets.tai2.net/2025/05/27/automated-unit-test-improvement-using.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/25/opus.html",
+				
+				"content_html": "<p>Opus 4でもだめだね</p>\n",
+				"content_text": "Opus 4でもだめだね\n",
+				"date_published": "2025-05-25T16:59:40+09:00",
+				"url": "https://tweets.tai2.net/2025/05/25/opus.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/25/claude-sonnet-ui.html",
+				
+				"content_html": "<p>結論、Claude Sonnet 4には画像スクショからUI要素の正確な座標を同定する能力はまだない。100%間違う。</p>\n",
+				"content_text": "結論、Claude Sonnet 4には画像スクショからUI要素の正確な座標を同定する能力はまだない。100%間違う。\n",
+				"date_published": "2025-05-25T15:21:40+09:00",
+				"url": "https://tweets.tai2.net/2025/05/25/claude-sonnet-ui.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/05/25/ai-httpstweetstainethtml.html",
+				
+				"content_html": "<p>この本、第1章の偉い人がなんかAIについてよくわからず語るやつは辟易したけど、そのあとの現場活用の事例はふつうにおもしろい。</p>\n<p><a href=\"https://tweets.tai2.net/2025/05/21/190910.html\">tweets.tai2.net/2025/05/2&hellip;</a></p>\n",
+				"content_text": "この本、第1章の偉い人がなんかAIについてよくわからず語るやつは辟易したけど、そのあとの現場活用の事例はふつうにおもしろい。\n\n[tweets.tai2.net/2025/05/2...](https://tweets.tai2.net/2025/05/21/190910.html)\n",
+				"date_published": "2025-05-25T10:24:04+09:00",
+				"url": "https://tweets.tai2.net/2025/05/25/ai-httpstweetstainethtml.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/05/24/dr-dobbs-journal-interviews-jef.html",
 				
 				"content_html": "<p>Dr. Dobb&rsquo;s Journal Interviews Jef Raskin (1986) <a href=\"https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin\">computeradsfromthepast.substack.com/p/dr-dobb&hellip;</a></p>\n",
