@@ -7,6 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/06/18/llm.html",
+				
+				"content_html": "<p>このムックは、おそらく書いた人は技術的な内容についてちゃんとは理解しておらず、単にインタビューした伝聞をまとめただけなので、言ってしまえばLLMが生成した要約とそれほど違わないとも言える。たぶん「ハルシネーション」もたぶんに含まれている。とはいえ、インタビューの内容自体は興味深いものなので、価値はある。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "このムックは、おそらく書いた人は技術的な内容についてちゃんとは理解しておらず、単にインタビューした伝聞をまとめただけなので、言ってしまえばLLMが生成した要約とそれほど違わないとも言える。たぶん「ハルシネーション」もたぶんに含まれている。とはいえ、インタビューの内容自体は興味深いものなので、価値はある。\n\n<img src=\"uploads/2025/34c4422a5f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-18T18:15:44+09:00",
+				"url": "https://tweets.tai2.net/2025/06/18/llm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/15/httpswwwyoutubecomwatchvdxavpxzagey.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=DXAvpxZAGEY\">www.youtube.com/watch</a></p>\n<p>ぜんぜん突拍子もないんだけど、この動画見て、いろいろ昔とか思い出して、おれは仕事というものに対して完全に冷めきっちまってるなあ。いまからでも情熱を追求すべきか?なんてことを思ったりした。</p>\n",
+				"content_text": "[www.youtube.com/watch](https://www.youtube.com/watch?v=DXAvpxZAGEY)\r\n\r\nぜんぜん突拍子もないんだけど、この動画見て、いろいろ昔とか思い出して、おれは仕事というものに対して完全に冷めきっちまってるなあ。いまからでも情熱を追求すべきか?なんてことを思ったりした。\n",
+				"date_published": "2025-06-15T12:10:49+09:00",
+				"url": "https://tweets.tai2.net/2025/06/15/httpswwwyoutubecomwatchvdxavpxzagey.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/15/how-we-built-our-multiagent.html",
+				
+				"content_html": "<p>How we built our multi-agent research system \\ Anthropic <a href=\"https://www.anthropic.com/engineering/built-multi-agent-research-system\">www.anthropic.com/engineeri&hellip;</a></p>\n",
+				"content_text": "How we built our multi-agent research system \\ Anthropic [www.anthropic.com/engineeri...](https://www.anthropic.com/engineering/built-multi-agent-research-system)\n",
+				"date_published": "2025-06-15T11:17:16+09:00",
+				"url": "https://tweets.tai2.net/2025/06/15/how-we-built-our-multiagent.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/14/selenium.html",
+				
+				"content_html": "<p>画面打鍵テストツールSelenium&hellip;</p>\n",
+				"content_text": "画面打鍵テストツールSelenium...\n",
+				"date_published": "2025-06-14T17:18:53+09:00",
+				"url": "https://tweets.tai2.net/2025/06/14/selenium.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/14/jabol.html",
+				
+				"content_html": "<p>JaBOL!!!!!???!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "JaBOL!!!!!???!\n\n<img src=\"uploads/2025/eede33f380.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-14T12:32:59+09:00",
+				"url": "https://tweets.tai2.net/2025/06/14/jabol.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/14/aiai-ui.html",
+				
+				"content_html": "<p>この図を見ると、こういった開発工程のさまざまなところをAIで効率化できるというのは、まったくそのとおりだと思う一方で、じゃあこれだけの工程を経て、一体なにを作りたいの、というところがどうしても気になってしまう。別にわざわざシステム作らんでも、AIに直接仕事をさせる方法はいくらでもあるんではないか。</p>\n<p>殊更にシステムを開発する意味とは。タスク遂行の確実性？効率的なUI？迅速なレスポンス？実行コスト？</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "この図を見ると、こういった開発工程のさまざまなところをAIで効率化できるというのは、まったくそのとおりだと思う一方で、じゃあこれだけの工程を経て、一体なにを作りたいの、というところがどうしても気になってしまう。別にわざわざシステム作らんでも、AIに直接仕事をさせる方法はいくらでもあるんではないか。\n\n殊更にシステムを開発する意味とは。タスク遂行の確実性？効率的なUI？迅速なレスポンス？実行コスト？\n\n<img src=\"uploads/2025/0f2ce495e4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-14T10:04:58+09:00",
+				"url": "https://tweets.tai2.net/2025/06/14/aiai-ui.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/14/can-vibe-coding-produce-productiongrade.html",
+				
+				"content_html": "<blockquote>\n<p>Can vibe coding produce production-grade software? | Thoughtworks</p>\n</blockquote>\n<p><a href=\"https://www.thoughtworks.com/insights/blog/generative-ai/can-vibe-coding-produce-production-grade-software\">www.thoughtworks.com/insights/&hellip;</a></p>\n",
+				"content_text": "> Can vibe coding produce production-grade software? | Thoughtworks\n\n[www.thoughtworks.com/insights/...](https://www.thoughtworks.com/insights/blog/generative-ai/can-vibe-coding-produce-production-grade-software)\n",
+				"date_published": "2025-06-14T00:07:06+09:00",
+				"url": "https://tweets.tai2.net/2025/06/14/can-vibe-coding-produce-productiongrade.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/14/aba-httpsabahatenablogcomentry.html",
+				
+				"content_html": "<blockquote>\n<p>バイブスでコーディングする難しさ - ABAの日誌</p>\n</blockquote>\n<p><a href=\"https://aba.hatenablog.com/entry/2025/05/06/092724\">aba.hatenablog.com/entry/202&hellip;</a></p>\n",
+				"content_text": "> バイブスでコーディングする難しさ - ABAの日誌\n\n[aba.hatenablog.com/entry/202...](https://aba.hatenablog.com/entry/2025/05/06/092724)\n",
+				"date_published": "2025-06-14T00:06:30+09:00",
+				"url": "https://tweets.tai2.net/2025/06/14/aba-httpsabahatenablogcomentry.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/13/132808.html",
+				
+				"content_html": "<p>jemalloc Postmortem <a href=\"https://jasone.github.io/2025/06/12/jemalloc-postmortem/\">jasone.github.io/2025/06/1&hellip;</a></p>\n",
+				"content_text": "jemalloc Postmortem [jasone.github.io/2025/06/1...](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)\n",
+				"date_published": "2025-06-13T13:28:08+09:00",
+				"url": "https://tweets.tai2.net/2025/06/13/132808.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/13/the-gentle-singularity-sam-altman.html",
+				
+				"content_html": "<p>The Gentle Singularity - Sam Altman <a href=\"https://blog.samaltman.com/the-gentle-singularity\">blog.samaltman.com/the-gentl&hellip;</a></p>\n",
+				"content_text": "The Gentle Singularity - Sam Altman [blog.samaltman.com/the-gentl...](https://blog.samaltman.com/the-gentle-singularity)\n",
+				"date_published": "2025-06-13T11:15:33+09:00",
+				"url": "https://tweets.tai2.net/2025/06/13/the-gentle-singularity-sam-altman.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/12/151944.html",
+				
+				"content_html": "<p>8.1.7.3 Processing model <a href=\"https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model\">html.spec.whatwg.org/multipage&hellip;</a></p>\n",
+				"content_text": "8.1.7.3 Processing model [html.spec.whatwg.org/multipage...](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)\n",
+				"date_published": "2025-06-12T15:19:44+09:00",
+				"url": "https://tweets.tai2.net/2025/06/12/151944.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/12/aiaid.html",
+				
+				"content_html": "<p>最近のAIに端を発する乱痴気騒ぎでしっかりと区別したほうがいいと思うのは、現在と未来だと思う。どういうわけか、多くの人達が、未来が現在であるかのような口振りで話している。たぶんいつか将来はそういう日が来るんだけど、いま現在は世の中まったくそういうふうになってないよね。たとえば、プログラミング(コーディング)はもうAIがやるから人間はやらないとか。そういう技術やら手法が存在してるというのなら出して欲しいもんだけど、実際には、本質的にまだなにも変わってないよね。人間がコード書いてるし、レビューもしてる。(もちろん部分的にはいろいろ実戦投入されてるし、自分でも使えるところでは使ってるんだけど、言われてるような自動化からはほど遠い)。3Dモデルの作成はもはや人間がしなくていいとか、将来はそうなるのかもしれないけど、まだそんな技術ないよね。</p>\n<p>ある日突然、たとえば来年とかになったら、なにもかもがガラッと変わってしまってる…なんていうことはさすがに起こらないんじゃないかなあ。</p>\n",
+				"content_text": "最近のAIに端を発する乱痴気騒ぎでしっかりと区別したほうがいいと思うのは、現在と未来だと思う。どういうわけか、多くの人達が、未来が現在であるかのような口振りで話している。たぶんいつか将来はそういう日が来るんだけど、いま現在は世の中まったくそういうふうになってないよね。たとえば、プログラミング(コーディング)はもうAIがやるから人間はやらないとか。そういう技術やら手法が存在してるというのなら出して欲しいもんだけど、実際には、本質的にまだなにも変わってないよね。人間がコード書いてるし、レビューもしてる。(もちろん部分的にはいろいろ実戦投入されてるし、自分でも使えるところでは使ってるんだけど、言われてるような自動化からはほど遠い)。3Dモデルの作成はもはや人間がしなくていいとか、将来はそうなるのかもしれないけど、まだそんな技術ないよね。\n\n\nある日突然、たとえば来年とかになったら、なにもかもがガラッと変わってしまってる…なんていうことはさすがに起こらないんじゃないかなあ。\n",
+				"date_published": "2025-06-12T10:36:12+09:00",
+				"url": "https://tweets.tai2.net/2025/06/12/aiaid.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/12/jank-free-lets-make-the.html",
+				
+				"content_html": "<p>Jank Free: Let&rsquo;s Make the Web Silky Smooth! <a href=\"https://jankfree.org/\">jankfree.org</a></p>\n",
+				"content_text": "Jank Free: Let's Make the Web Silky Smooth! [jankfree.org](https://jankfree.org/)\n",
+				"date_published": "2025-06-12T09:56:59+09:00",
+				"url": "https://tweets.tai2.net/2025/06/12/jank-free-lets-make-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/06/12/how-not-to-sort-by.html",
+				
+				"content_html": "<p>How Not To Sort By Average Rating – Evan Miller <a href=\"https://www.evanmiller.org/how-not-to-sort-by-average-rating.html\">www.evanmiller.org/how-not-t&hellip;</a></p>\n",
+				"content_text": "How Not To Sort By Average Rating – Evan Miller [www.evanmiller.org/how-not-t...](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)\n",
+				"date_published": "2025-06-12T09:32:39+09:00",
+				"url": "https://tweets.tai2.net/2025/06/12/how-not-to-sort-by.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/06/11/ruvnetclaudecodeflow-this-mode-serves-as.html",
 				
 				"content_html": "<p>ruvnet/claude-code-flow: This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles. <a href=\"https://github.com/ruvnet/claude-code-flow\">github.com/ruvnet/cl&hellip;</a></p>\n",
