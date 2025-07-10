@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/07/10/214408.html",
+				
+				"content_html": "<p>人生なにをすればいいかって、実はめちゃくちゃシンプルで、人のして欲しいことをする、困っている人を助けることだけなんだよな。</p>\n",
+				"content_text": "人生なにをすればいいかって、実はめちゃくちゃシンプルで、人のして欲しいことをする、困っている人を助けることだけなんだよな。\n",
+				"date_published": "2025-07-10T21:44:08+09:00",
+				"url": "https://tweets.tai2.net/2025/07/10/214408.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/07/10/the-illustrated-transformer-jay-alammar.html",
+				
+				"content_html": "<blockquote>\n<p>The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.</p>\n</blockquote>\n<p><a href=\"https://jalammar.github.io/illustrated-transformer/\">jalammar.github.io/illustrat&hellip;</a></p>\n",
+				"content_text": "> The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.\n\n[jalammar.github.io/illustrat...](https://jalammar.github.io/illustrated-transformer/)\n",
+				"date_published": "2025-07-10T09:18:11+09:00",
+				"url": "https://tweets.tai2.net/2025/07/10/the-illustrated-transformer-jay-alammar.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/07/09/role-prompting-tip-experiment-with.html",
+				
+				"content_html": "<blockquote>\n<p>Role prompting tip: Experiment with roles! A data scientist might see different insights than a marketing strategist for the same data. A data scientist specializing in customer insight analysis for Fortune 500 companies might yield different results still!</p>\n</blockquote>\n<p>これとかさ、おまじない感すごいと思うのだけど。</p>\n",
+				"content_text": ">Role prompting tip: Experiment with roles! A data scientist might see different insights than a marketing strategist for the same data. A data scientist specializing in customer insight analysis for Fortune 500 companies might yield different results still!\r\n\r\nこれとかさ、おまじない感すごいと思うのだけど。\n",
+				"date_published": "2025-07-09T20:53:51+09:00",
+				"url": "https://tweets.tai2.net/2025/07/09/role-prompting-tip-experiment-with.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/07/09/202739.html",
+				
+				"content_html": "<p>language_understanding_paper.pdf <a href=\"https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf\">cdn.openai.com/research-&hellip;</a></p>\n",
+				"content_text": "language_understanding_paper.pdf [cdn.openai.com/research-...](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)\n",
+				"date_published": "2025-07-09T20:27:39+09:00",
+				"url": "https://tweets.tai2.net/2025/07/09/202739.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/07/09/attention-is-all-you-need.html",
 				
 				"content_html": "<p>[1706.03762] Attention Is All You Need <a href=\"https://arxiv.org/abs/1706.03762\">arxiv.org/abs/1706&hellip;.</a></p>\n",
