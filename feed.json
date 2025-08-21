@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/08/21/llmhuman-in-the-loopllm.html",
+				
+				"content_html": "<p>思うに現在ある程度成功しているLLMの応用というのはだいたいHuman in the Loopが前提のやつばかりで、長時間かかりかつ精密性が要求されるような自動化をLLMにさせる方向では、あまりうまくいってないのではないか。</p>\n",
+				"content_text": "思うに現在ある程度成功しているLLMの応用というのはだいたいHuman in the Loopが前提のやつばかりで、長時間かかりかつ精密性が要求されるような自動化をLLMにさせる方向では、あまりうまくいってないのではないか。\n",
+				"date_published": "2025-08-21T18:31:50+09:00",
+				"url": "https://tweets.tai2.net/2025/08/21/llmhuman-in-the-loopllm.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/08/20/home-miseenplace-httpsmisejdxdev.html",
 				
 				"content_html": "<p>Home | mise-en-place <a href=\"https://mise.jdx.dev/\">mise.jdx.dev</a></p>\n",
