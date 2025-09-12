@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/09/12/how-to-write-a-security.html",
+				
+				"content_html": "<p>How to Write A Security Pattern - Home <a href=\"https://securitypatterns.io/\">securitypatterns.io</a></p>\n",
+				"content_text": "How to Write A Security Pattern - Home [securitypatterns.io](https://securitypatterns.io/)\n",
+				"date_published": "2025-09-12T19:59:14+09:00",
+				"url": "https://tweets.tai2.net/2025/09/12/how-to-write-a-security.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/12/180806.html",
+				
+				"content_html": "<p><a href=\"https://top10proactive.owasp.org/the-top-10/c4-secure-architecture/#threats\">top10proactive.owasp.org/the-top-1&hellip;</a></p>\n",
+				"content_text": "[top10proactive.owasp.org/the-top-1...](https://top10proactive.owasp.org/the-top-10/c4-secure-architecture/#threats)\n",
+				"date_published": "2025-09-12T18:08:06+09:00",
+				"url": "https://tweets.tai2.net/2025/09/12/180806.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/12/ai-httpszenndevmedleyarticlesaadcf.html",
+				
+				"content_html": "<p>組織で育てるAI活用テスト設計の仕組み <a href=\"https://zenn.dev/medley/articles/26a8a5d2c8175f\">zenn.dev/medley/ar&hellip;</a></p>\n",
+				"content_text": "組織で育てるAI活用テスト設計の仕組み [zenn.dev/medley/ar...](https://zenn.dev/medley/articles/26a8a5d2c8175f)\n",
+				"date_published": "2025-09-12T14:27:06+09:00",
+				"url": "https://tweets.tai2.net/2025/09/12/ai-httpszenndevmedleyarticlesaadcf.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/11/javarubyjavajava.html",
+				
+				"content_html": "<p>はっきり言って、JavaのほうがRubyよりもぜんぜんマシな道具だ。昔のエンプラJavaが愚鈍だったのは、まあ時代のせいだろう。開発環境とかフレームワークは進化してるんじゃないか?知らんけど。すくなくとも言語自体は、Javaのほうがはるかにクリーンな枠組みを用意しやすいと思う。</p>\n",
+				"content_text": "はっきり言って、JavaのほうがRubyよりもぜんぜんマシな道具だ。昔のエンプラJavaが愚鈍だったのは、まあ時代のせいだろう。開発環境とかフレームワークは進化してるんじゃないか?知らんけど。すくなくとも言語自体は、Javaのほうがはるかにクリーンな枠組みを用意しやすいと思う。\n",
+				"date_published": "2025-09-11T20:18:44+09:00",
+				"url": "https://tweets.tai2.net/2025/09/11/javarubyjavajava.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/11/201441.html",
+				
+				"content_html": "<p>しかしながら、低コストで実践可能なエンジニアリングだけが、役に立つエンジニアリングであるとは思う。さもなくば単に実行されない。</p>\n",
+				"content_text": "しかしながら、低コストで実践可能なエンジニアリングだけが、役に立つエンジニアリングであるとは思う。さもなくば単に実行されない。\n",
+				"date_published": "2025-09-11T20:14:41+09:00",
+				"url": "https://tweets.tai2.net/2025/09/11/201441.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/11/ruby-on-railsrailsrails.html",
+				
+				"content_html": "<p>Ruby on Rails長年使ってるけど、見かたによっちゃ実践的なフレームワークではあるのかもしれないけど、あれを使ってる限り理想のエンジニアリングなんて、なんにもできやしないんだよな。あと開発者のデバッグ時間を無駄に長びかせることをRailsは得意としすぎてる。よってRailsなんて大嫌いである。</p>\n",
+				"content_text": "Ruby on Rails長年使ってるけど、見かたによっちゃ実践的なフレームワークではあるのかもしれないけど、あれを使ってる限り理想のエンジニアリングなんて、なんにもできやしないんだよな。あと開発者のデバッグ時間を無駄に長びかせることをRailsは得意としすぎてる。よってRailsなんて大嫌いである。\n",
+				"date_published": "2025-09-11T20:00:30+09:00",
+				"url": "https://tweets.tai2.net/2025/09/11/ruby-on-railsrailsrails.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/09/11/devopsdevops.html",
 				
-				"content_html": "<p>継続的デリバリーすばらし本なんだけど、運用チームとデリバリーチームが分かれてるみたいな記述が、大企業未経験の身にはまことに信じがたくて、ビルドパイプラインの構築ごときに専門性なんか不要だろとしか思えないんだよなー。devops、devops。全員が同等のスキルセットで、はじめから運用まで一気通貫で行うのが一番効率良いと思う。</p>\n",
-				"content_text": "継続的デリバリーすばらし本なんだけど、運用チームとデリバリーチームが分かれてるみたいな記述が、大企業未経験の身にはまことに信じがたくて、ビルドパイプラインの構築ごときに専門性なんか不要だろとしか思えないんだよなー。devops、devops。全員が同等のスキルセットで、はじめから運用まで一気通貫で行うのが一番効率良いと思う。\n",
+				"content_html": "<p>継続的デリバリーすばらしい本なんだけど、運用チームとデリバリーチームが分かれてるみたいな記述が、大企業未経験の身にはまことに信じがたくて、ビルドパイプラインの構築ごときに専門性なんか不要だろとしか思えないんだよなー。devops、devops。全員が同等のスキルセットで、はじめから運用まで一気通貫で行うのが一番効率良いと思う。</p>\n",
+				"content_text": "継続的デリバリーすばらしい本なんだけど、運用チームとデリバリーチームが分かれてるみたいな記述が、大企業未経験の身にはまことに信じがたくて、ビルドパイプラインの構築ごときに専門性なんか不要だろとしか思えないんだよなー。devops、devops。全員が同等のスキルセットで、はじめから運用まで一気通貫で行うのが一番効率良いと思う。\n",
 				"date_published": "2025-09-11T18:46:06+09:00",
 				"url": "https://tweets.tai2.net/2025/09/11/devopsdevops.html"
 			},
