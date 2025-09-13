@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/09/13/software-composition-analysis-everybodywiki-bios.html",
+				
+				"content_html": "<p>Software Composition Analysis - EverybodyWiki Bios &amp; Wiki <a href=\"https://en.everybodywiki.com/Software_Composition_Analysis#:~:text=Software%20Composition%20Analysis%20%28SCA%29%20comprises,been%20integrated%20into%20your%20applications.\">en.everybodywiki.com/Software_&hellip;</a></p>\n",
+				"content_text": "Software Composition Analysis - EverybodyWiki Bios & Wiki [en.everybodywiki.com/Software_...](https://en.everybodywiki.com/Software_Composition_Analysis#:~:text=Software%20Composition%20Analysis%20%28SCA%29%20comprises,been%20integrated%20into%20your%20applications.)\n",
+				"date_published": "2025-09-13T17:29:26+09:00",
+				"url": "https://tweets.tai2.net/2025/09/13/software-composition-analysis-everybodywiki-bios.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/13/leverage-libraries-and-frameworks-used.html",
+				
+				"content_html": "<blockquote>\n<p>Leverage libraries and frameworks used by many applications which have around large communities. Consider data points such as the number of GitHub stars a package’s source code repository has received, and number of downloads from within a package manager.</p>\n</blockquote>\n<p>これ気にくわない</p>\n",
+				"content_text": ">Leverage libraries and frameworks used by many applications which have around large communities. Consider data points such as the number of GitHub stars a package’s source code repository has received, and number of downloads from within a package manager.\n\nこれ気にくわない\n",
+				"date_published": "2025-09-13T17:27:22+09:00",
+				"url": "https://tweets.tai2.net/2025/09/13/leverage-libraries-and-frameworks-used.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/13/115932.html",
+				
+				"content_html": "<p>リリースのたびにマニュアルテストに300万ドルかけてた組織やばい&hellip;スケールが違すぎる</p>\n",
+				"content_text": "リリースのたびにマニュアルテストに300万ドルかけてた組織やばい...スケールが違すぎる\n",
+				"date_published": "2025-09-13T11:59:32+09:00",
+				"url": "https://tweets.tai2.net/2025/09/13/115932.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/13/ee.html",
+				
+				"content_html": "<p>このことを考えると、真のE2Eテストというのは、顧客自身がシステムを使わないことには成り立たないというところに行き着くな。</p>\n",
+				"content_text": "このことを考えると、真のE2Eテストというのは、顧客自身がシステムを使わないことには成り立たないというところに行き着くな。\n",
+				"date_published": "2025-09-13T11:54:21+09:00",
+				"url": "https://tweets.tai2.net/2025/09/13/ee.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/13/114042.html",
+				"title": "受け入れテストは顧客の期待するビジネス価値をべつに保証せんだろう",
+				"content_html": "<p>「受け入れテストが、顧客の期待するビジネス価値をアプリケーションが提供していることを保証する」という言説は、かなりよく言われる一般的な見方な気がするけど、個人的には、ほんとに違和感しかないなあ。定義された要件は満たしてて、リリースはしてみたものの、期待したほど顧客に価値を提供しなかった、なんてことは極めてよくあることだろうに。顧客の期待するビジネス価値をアプリケーションが提供しているかどうかは、リリースした後にオンラインモニタリングを見たり、顧客から直接フィードバックを受けたりしないとほんとうにはわからなくて、仮説の検証ができるまでにタイムラグがあるのが普通であり、はるかに難しいことなんだよな。受け入れテストが保証できることは、せいぜい仮説を検証するための機能が期待通りに動作しているかどうか、というところに留まると思うんだけどな。つまり、言いたいことは、リリースというのは、ゴールではなく、仮説検証プロセスのはじまりにすぎないということ。</p>\n",
+				"content_text": "「受け入れテストが、顧客の期待するビジネス価値をアプリケーションが提供していることを保証する」という言説は、かなりよく言われる一般的な見方な気がするけど、個人的には、ほんとに違和感しかないなあ。定義された要件は満たしてて、リリースはしてみたものの、期待したほど顧客に価値を提供しなかった、なんてことは極めてよくあることだろうに。顧客の期待するビジネス価値をアプリケーションが提供しているかどうかは、リリースした後にオンラインモニタリングを見たり、顧客から直接フィードバックを受けたりしないとほんとうにはわからなくて、仮説の検証ができるまでにタイムラグがあるのが普通であり、はるかに難しいことなんだよな。受け入れテストが保証できることは、せいぜい仮説を検証するための機能が期待通りに動作しているかどうか、というところに留まると思うんだけどな。つまり、言いたいことは、リリースというのは、ゴールではなく、仮説検証プロセスのはじまりにすぎないということ。\n",
+				"date_published": "2025-09-13T11:40:42+09:00",
+				"url": "https://tweets.tai2.net/2025/09/13/114042.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/12/204947.html",
+				
+				"content_html": "<p>と、同時にシステム開発・運用ムズいとも思う</p>\n",
+				"content_text": "と、同時にシステム開発・運用ムズいとも思う\n",
+				"date_published": "2025-09-12T20:49:47+09:00",
+				"url": "https://tweets.tai2.net/2025/09/12/204947.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/12/a-new-era-of-ssrf.html",
+				
+				"content_html": "<p>A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages! - Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf <a href=\"https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf\">cheatsheetseries.owasp.org/assets/Se&hellip;</a></p>\n",
+				"content_text": "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages! - Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf [cheatsheetseries.owasp.org/assets/Se...](https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_Orange_Tsai_Talk.pdf)\n",
+				"date_published": "2025-09-12T20:49:02+09:00",
+				"url": "https://tweets.tai2.net/2025/09/12/a-new-era-of-ssrf.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/09/12/how-to-write-a-security.html",
 				
 				"content_html": "<p>How to Write A Security Pattern - Home <a href=\"https://securitypatterns.io/\">securitypatterns.io</a></p>\n",
