@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/09/15/102509.html",
+				
+				"content_html": "<p>いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。</p>\n<img src=\"uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。\n\n<img src=\"uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-15T10:25:09+09:00",
+				"url": "https://tweets.tai2.net/2025/09/15/102509.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/14/password-storage-owasp-cheat-sheet.html",
+				
+				"content_html": "<p>Password Storage - OWASP Cheat Sheet Series <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html\">cheatsheetseries.owasp.org/cheatshee&hellip;</a></p>\n",
+				"content_text": "Password Storage - OWASP Cheat Sheet Series [cheatsheetseries.owasp.org/cheatshee...](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)\n",
+				"date_published": "2025-09-14T17:21:09+09:00",
+				"url": "https://tweets.tai2.net/2025/09/14/password-storage-owasp-cheat-sheet.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/14/160019.html",
+				
+				"content_html": "<p>NIST Special Publication 800-63B <a href=\"https://pages.nist.gov/800-63-3/sp800-63b.html\">pages.nist.gov/800-63-3/&hellip;</a></p>\n",
+				"content_text": "NIST Special Publication 800-63B [pages.nist.gov/800-63-3/...](https://pages.nist.gov/800-63-3/sp800-63b.html)\n",
+				"date_published": "2025-09-14T16:00:19+09:00",
+				"url": "https://tweets.tai2.net/2025/09/14/160019.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/09/13/software-composition-analysis-everybodywiki-bios.html",
 				
 				"content_html": "<p>Software Composition Analysis - EverybodyWiki Bios &amp; Wiki <a href=\"https://en.everybodywiki.com/Software_Composition_Analysis#:~:text=Software%20Composition%20Analysis%20%28SCA%29%20comprises,been%20integrated%20into%20your%20applications.\">en.everybodywiki.com/Software_&hellip;</a></p>\n",
