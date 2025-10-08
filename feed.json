@@ -7,10 +7,130 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2025/10/09/bonding.html",
+				
+				"content_html": "<p>まれにあるこういう日。なーんかぜんぜん寝付けず、時々意識が途切れてもまた目覚める。まったく寝れなかったのかなと思ったけど、トータルこのくらいはデータ上寝れたことになってるので、まあがんばれるかなと思える。しかしそういう日に限って(だからそこ?)、めずらしくチームで物理的に集まって戦略会議やらbondingやら。1年に一回くらいしかないんだけどな。斧投げやるらしいので、怪我しないように集中しないとなあ。</p>\n<img src=\"uploads/2025/19b9d86dd7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まれにあるこういう日。なーんかぜんぜん寝付けず、時々意識が途切れてもまた目覚める。まったく寝れなかったのかなと思ったけど、トータルこのくらいはデータ上寝れたことになってるので、まあがんばれるかなと思える。しかしそういう日に限って(だからそこ?)、めずらしくチームで物理的に集まって戦略会議やらbondingやら。1年に一回くらいしかないんだけどな。斧投げやるらしいので、怪我しないように集中しないとなあ。\n\n<img src=\"uploads/2025/19b9d86dd7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-09T08:06:41+09:00",
+				"url": "https://tweets.tai2.net/2025/10/09/bonding.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/07/ai.html",
+				
+				"content_html": "<p>ソフトウェアテストの有り様はAIによって完全に変わるね。</p>\n",
+				"content_text": "ソフトウェアテストの有り様はAIによって完全に変わるね。\n",
+				"date_published": "2025-10-07T08:58:26+09:00",
+				"url": "https://tweets.tai2.net/2025/10/07/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/07/get-started-with-playwright-and.html",
+				
+				"content_html": "<p>Get Started with Playwright and VS Code (2025 edition) - YouTube <a href=\"https://www.youtube.com/watch?v=WvsLGZnHmzw\">www.youtube.com/watch</a></p>\n<p>うーん、これは人気出そうだなあ。(正直、使いたい)</p>\n",
+				"content_text": "Get Started with Playwright and VS Code (2025 edition) - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=WvsLGZnHmzw)\n\nうーん、これは人気出そうだなあ。(正直、使いたい)\n\n",
+				"date_published": "2025-10-07T08:45:07+09:00",
+				"url": "https://tweets.tai2.net/2025/10/07/get-started-with-playwright-and.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/05/112224.html",
+				
+				"content_html": "<p>いやー、古い本だけど、黄金の書ですよこれは。</p>\n<img src=\"uploads/2025/13833221f0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "いやー、古い本だけど、黄金の書ですよこれは。\n\n<img src=\"uploads/2025/13833221f0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-05T11:22:24+09:00",
+				"url": "https://tweets.tai2.net/2025/10/05/112224.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/05/discipline.html",
+				
+				"content_html": "<p>disciplineを保つって、ソフトウェア開発でも一番難しいことのひとつな気がするけど、みんなどうやって保ってるんだろう。</p>\n",
+				"content_text": "disciplineを保つって、ソフトウェア開発でも一番難しいことのひとつな気がするけど、みんなどうやって保ってるんだろう。\n",
+				"date_published": "2025-10-05T11:16:01+09:00",
+				"url": "https://tweets.tai2.net/2025/10/05/discipline.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/04/eeeeee.html",
+				
+				"content_html": "<p>やっぱりテストをするときのことも考えて設計しておかないと、あとあと苦労することになるんだよな。ここで言ってるのは、モジュールのインターフェース云々みたいな話だけではなく、E2Eテストレベルの話。ユーザー向けのインターフェースが足りないと、洗練されたE2Eテストができない。あるリソースが作成はできるけど削除はできないと、データの後始末ができないから色々大変だし、モバイルアプリで、ディープリンクがすべての画面に適切に定義されてれば、E2Eテストはだいぶ楽になる。</p>\n",
+				"content_text": "やっぱりテストをするときのことも考えて設計しておかないと、あとあと苦労することになるんだよな。ここで言ってるのは、モジュールのインターフェース云々みたいな話だけではなく、E2Eテストレベルの話。ユーザー向けのインターフェースが足りないと、洗練されたE2Eテストができない。あるリソースが作成はできるけど削除はできないと、データの後始末ができないから色々大変だし、モバイルアプリで、ディープリンクがすべての画面に適切に定義されてれば、E2Eテストはだいぶ楽になる。\n",
+				"date_published": "2025-10-04T21:24:54+09:00",
+				"url": "https://tweets.tai2.net/2025/10/04/eeeeee.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/10/04/201419.html",
+				
+				"content_html": "<p>おー、高市さんになったんだ。よかったー。</p>\n",
+				"content_text": "おー、高市さんになったんだ。よかったー。\n",
+				"date_published": "2025-10-04T20:14:19+09:00",
+				"url": "https://tweets.tai2.net/2025/10/04/201419.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/30/175538.html",
+				
+				"content_html": "<p>Appium Meetup Tokyo #3 - connpass <a href=\"https://appiummeetuptokyo.connpass.com/event/368989/\">appiummeetuptokyo.connpass.com/event/368&hellip;</a></p>\n",
+				"content_text": "Appium Meetup Tokyo #3 - connpass [appiummeetuptokyo.connpass.com/event/368...](https://appiummeetuptokyo.connpass.com/event/368989/)\n",
+				"date_published": "2025-09-30T17:55:38+09:00",
+				"url": "https://tweets.tai2.net/2025/09/30/175538.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/28/110516.html",
+				
+				"content_html": "<p>宗教は感情的に真実であり、それゆえに価値がある</p>\n",
+				"content_text": "宗教は感情的に真実であり、それゆえに価値がある\n",
+				"date_published": "2025-09-28T11:05:16+09:00",
+				"url": "https://tweets.tai2.net/2025/09/28/110516.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/28/100849.html",
+				
+				"content_html": "<p>アメリカ人が特異的に信心深いのは、宗教が市場化されて競争原理が働いてるから、という説がある。</p>\n",
+				"content_text": "アメリカ人が特異的に信心深いのは、宗教が市場化されて競争原理が働いてるから、という説がある。\n",
+				"date_published": "2025-09-28T10:08:49+09:00",
+				"url": "https://tweets.tai2.net/2025/09/28/100849.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/28/100437.html",
+				
+				"content_html": "<p>神を信じるアメリカ人の割合。</p>\n<p>1947年: 94%\n2001年: 94%</p>\n<p>これは世界的に見ても特殊で、他の先進国はかなり下がってる。</p>\n",
+				"content_text": "神を信じるアメリカ人の割合。\n\n1947年: 94%\n2001年: 94%\n\nこれは世界的に見ても特殊で、他の先進国はかなり下がってる。\n",
+				"date_published": "2025-09-28T10:04:37+09:00",
+				"url": "https://tweets.tai2.net/2025/09/28/100437.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/27/demoscene-octaves.html",
+				
+				"content_html": "<p><a href=\"https://6octaves.com/demoscene\">Demoscene | 6octaves</a></p>\n",
+				"content_text": "[Demoscene | 6octaves](https://6octaves.com/demoscene)\n",
+				"date_published": "2025-09-27T22:53:35+09:00",
+				"url": "https://tweets.tai2.net/2025/09/27/demoscene-octaves.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/24/091325.html",
+				
+				"content_html": "<p>感情と感情表現の区別をしっかりとしたほうがいいんだろうなあ。感情がほんとうでも、感情表現として十分でない場合があるということ。</p>\n",
+				"content_text": "感情と感情表現の区別をしっかりとしたほうがいいんだろうなあ。感情がほんとうでも、感情表現として十分でない場合があるということ。\n",
+				"date_published": "2025-09-24T09:13:25+09:00",
+				"url": "https://tweets.tai2.net/2025/09/24/091325.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/22/resticrestic-fast-secure-efficient-backup.html",
+				
+				"content_html": "<p>restic/restic: Fast, secure, efficient backup program <a href=\"https://github.com/restic/restic\">github.com/restic/re&hellip;</a></p>\n",
+				"content_text": "restic/restic: Fast, secure, efficient backup program [github.com/restic/re...](https://github.com/restic/restic)\n",
+				"date_published": "2025-09-22T14:07:16+09:00",
+				"url": "https://tweets.tai2.net/2025/09/22/resticrestic-fast-secure-efficient-backup.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2025/09/21/201826.html",
+				
+				"content_html": "<p>声優の声の芝居と、テレビ俳優の声の芝居の違い。</p>\n<p>テレビ俳優は、一個のセリフを切り取ったときには良くできていても、いくつもセリフを連続で言ったときに、どれも同じ言い方になっている。声優は、言い方のバラエティーが豊か。といっても、声優も無制限に引き出しがあるわけではなく、数えられる程度の組み合わせとは思うけど、その有無が明確な印象の違いを生む。ちなみにこれは上手い方のテレビ俳優の話で、下手なテレビ俳優は聞いてられないほどの棒読みのこともある。</p>\n",
+				"content_text": "声優の声の芝居と、テレビ俳優の声の芝居の違い。\n\nテレビ俳優は、一個のセリフを切り取ったときには良くできていても、いくつもセリフを連続で言ったときに、どれも同じ言い方になっている。声優は、言い方のバラエティーが豊か。といっても、声優も無制限に引き出しがあるわけではなく、数えられる程度の組み合わせとは思うけど、その有無が明確な印象の違いを生む。ちなみにこれは上手い方のテレビ俳優の話で、下手なテレビ俳優は聞いてられないほどの棒読みのこともある。\n",
+				"date_published": "2025-09-21T20:18:26+09:00",
+				"url": "https://tweets.tai2.net/2025/09/21/201826.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2025/09/15/102509.html",
 				
-				"content_html": "<p>いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。</p>\n<img src=\"uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。\n\n<img src=\"uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。</p>\n<img src=\"https://tweets.tai2.net/uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-15T10:25:09+09:00",
 				"url": "https://tweets.tai2.net/2025/09/15/102509.html"
 			},
