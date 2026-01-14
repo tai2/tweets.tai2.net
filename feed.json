@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/01/14/093412.html",
+				
+				"content_html": "<p>速さは正義とは。システムが十分に速くイテレーションが高頻度で回せさえすれば、問題と思っていなことも問題ではなくなる、の意。</p>\n",
+				"content_text": "速さは正義とは。システムが十分に速くイテレーションが高頻度で回せさえすれば、問題と思っていなことも問題ではなくなる、の意。\n",
+				"date_published": "2026-01-14T09:34:12+09:00",
+				"url": "https://tweets.tai2.net/2026/01/14/093412.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/01/13/railsgivenwhenthengivenwikipedia.html",
+				
+				"content_html": "<p>テストフィクスチャって、(たぶんRailsの影響で)単にテストデータのことだと思ってたけど、実際にはもう少し意味があって、Given-When-Thenで言うところの、Givenのことを指すのがフィクスチャっぽい。Wikipedia見たらデバイスって書いてあって、フィクスチャってデバイスなの！？ってなった(元々電気工学とか由来らしい)。</p>\n",
+				"content_text": "テストフィクスチャって、(たぶんRailsの影響で)単にテストデータのことだと思ってたけど、実際にはもう少し意味があって、Given-When-Thenで言うところの、Givenのことを指すのがフィクスチャっぽい。Wikipedia見たらデバイスって書いてあって、フィクスチャってデバイスなの！？ってなった(元々電気工学とか由来らしい)。\n",
+				"date_published": "2026-01-13T20:33:39+09:00",
+				"url": "https://tweets.tai2.net/2026/01/13/railsgivenwhenthengivenwikipedia.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/01/13/oneliner.html",
+				
+				"content_html": "<p>足立高徳さんの翻訳した本で、おそらくonelinerが「一行野郎」って訳されてるんだけど、いいな一行野郎。</p>\n",
+				"content_text": "足立高徳さんの翻訳した本で、おそらくonelinerが「一行野郎」って訳されてるんだけど、いいな一行野郎。\n",
+				"date_published": "2026-01-13T19:59:04+09:00",
+				"url": "https://tweets.tai2.net/2026/01/13/oneliner.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/01/13/i-tried-every-todo-app.html",
 				
 				"content_html": "<p>I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri <a href=\"https://www.al3rez.com/todo-txt-journey\">www.al3rez.com/todo-txt-&hellip;</a></p>\n",
