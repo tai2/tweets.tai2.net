@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/01/21/the-state-of-openssl-for.html",
+				
+				"content_html": "<blockquote>\n<p>The State of OpenSSL for pyca/cryptography — Cryptography 47.0.0.dev1 documentation</p>\n</blockquote>\n<p><a href=\"https://cryptography.io/en/latest/statements/state-of-openssl/\">cryptography.io/en/latest&hellip;</a></p>\n",
+				"content_text": "> The State of OpenSSL for pyca/cryptography — Cryptography 47.0.0.dev1 documentation\n\n[cryptography.io/en/latest...](https://cryptography.io/en/latest/statements/state-of-openssl/)\n",
+				"date_published": "2026-01-21T19:38:00+09:00",
+				"url": "https://tweets.tai2.net/2026/01/21/the-state-of-openssl-for.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/01/19/the-shorthand-guide-to-everything.html",
+				
+				"content_html": "<p>The Shorthand Guide to Everything Claude Code</p>\n<p><a href=\"https://x.com/affaanmustafa/status/2012378465664745795?s=46&amp;t=OAOLW129vm4qv85Ct0TaQA\">x.com/affaanmus&hellip;</a></p>\n",
+				"content_text": "\nThe Shorthand Guide to Everything Claude Code\n\n\n[x.com/affaanmus...](https://x.com/affaanmustafa/status/2012378465664745795?s=46&t=OAOLW129vm4qv85Ct0TaQA)\n",
+				"date_published": "2026-01-19T07:38:38+09:00",
+				"url": "https://tweets.tai2.net/2026/01/19/the-shorthand-guide-to-everything.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/01/18/llm.html",
+				
+				"content_html": "<p>徳川夢声の指摘しているいいポイントは、人間、同じ刺激を受け続けていれば早晩飽きるということ。しかし、いったいどのくらいの時間同じだと飽き始めるのか。おそらく状況や、相手のテンションといったことでもその長さは変わるはず。それを知る一つの手段は、自分が受け手に回ったときの内省で、これが一番手軽かつ確実な手段ではある。もしかすると、心理学では、こういったことはすでに知られているのかもしれないので、あとでLLMで調べてみよう。</p>\n",
+				"content_text": "徳川夢声の指摘しているいいポイントは、人間、同じ刺激を受け続けていれば早晩飽きるということ。しかし、いったいどのくらいの時間同じだと飽き始めるのか。おそらく状況や、相手のテンションといったことでもその長さは変わるはず。それを知る一つの手段は、自分が受け手に回ったときの内省で、これが一番手軽かつ確実な手段ではある。もしかすると、心理学では、こういったことはすでに知られているのかもしれないので、あとでLLMで調べてみよう。\n",
+				"date_published": "2026-01-18T10:41:15+09:00",
+				"url": "https://tweets.tai2.net/2026/01/18/llm.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/01/18/103121.html",
 				
 				"content_html": "<p>ただスピーカーを通じて再生された音と、生で喋っているのとでは、音質云々を抜きにしても、やはり受け取られ方がまったく違う。人間は、目の前に他人の存在を認識するのとしないのとでは、情報の受け取り方のモードが、生理的に変わってしまう。</p>\n<p>そう考えると、パプリックビューイングのようなものは不思議で、あれはどういう状態なんだろう。ストリーマーのライブ配信などはある程度インタラクティブなので、生の人とやり取りしている感覚があるのは理解できる。とはいえ、いずれも目の前に肉体がある本物の体験とは、比べるべくもない。</p>\n",
