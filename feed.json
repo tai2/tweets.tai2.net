@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/01/26/zodts.html",
+				
+				"content_html": "<p>うーん、Zodで書き直すことで、読み易い型定義という美点がすっかりそこなわれてしまったなあ。逆にTSの型定義からパーサーを生成するアプローチのほうが好きだなあ。</p>\n",
+				"content_text": "うーん、Zodで書き直すことで、読み易い型定義という美点がすっかりそこなわれてしまったなあ。逆にTSの型定義からパーサーを生成するアプローチのほうが好きだなあ。\n",
+				"date_published": "2026-01-26T09:17:46+09:00",
+				"url": "https://tweets.tai2.net/2026/01/26/zodts.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
