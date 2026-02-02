@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/02/085910.html",
+				
+				"content_html": "<p>Claude Codeと暮らす | DevelopersIO <a href=\"https://dev.classmethod.jp/articles/claude-code-daily-workflow/\">dev.classmethod.jp/articles/&hellip;</a></p>\n",
+				"content_text": "Claude Codeと暮らす | DevelopersIO [dev.classmethod.jp/articles/...](https://dev.classmethod.jp/articles/claude-code-daily-workflow/)\n",
+				"date_published": "2026-02-02T08:59:10+09:00",
+				"url": "https://tweets.tai2.net/2026/02/02/085910.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/01/29/home-ifpug-international-function-points.html",
+				
+				"content_html": "<p>Home - IFPUG - International Function Points Users Group <a href=\"https://ifpug.org/\">ifpug.org</a></p>\n",
+				"content_text": "Home - IFPUG - International Function Points Users Group [ifpug.org](https://ifpug.org/)\n",
+				"date_published": "2026-01-29T19:20:56+09:00",
+				"url": "https://tweets.tai2.net/2026/01/29/home-ifpug-international-function-points.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/01/29/llm.html",
 				
 				"content_html": "<p>LLMによって、だれもが自分の欲しい自分だけのための自動化やワークフローをローカルで手にできるようになった結果、サーバーサイドとはもはやニッチなのかもしれない。サーバーとは何だったのか。単に手軽にお金を儲けるための手段だったのか。</p>\n",
