@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/04/vibe-codingtdd.html",
+				
+				"content_html": "<p>Vibe Codingって、なにもたしかめないまま進んでくから不安しかないんだけど…だからみんなTDDやらなんやら言うんだろうけども。</p>\n<p>ふつうのプログラミングとはまったく異なるよな。</p>\n",
+				"content_text": "Vibe Codingって、なにもたしかめないまま進んでくから不安しかないんだけど…だからみんなTDDやらなんやら言うんだろうけども。\n\nふつうのプログラミングとはまったく異なるよな。\n",
+				"date_published": "2026-02-04T10:27:50+09:00",
+				"url": "https://tweets.tai2.net/2026/02/04/vibe-codingtdd.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/02/085910.html",
 				
 				"content_html": "<p>Claude Codeと暮らす | DevelopersIO <a href=\"https://dev.classmethod.jp/articles/claude-code-daily-workflow/\">dev.classmethod.jp/articles/&hellip;</a></p>\n",
