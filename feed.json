@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/08/e.html",
+				
+				"content_html": "<p>なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを語って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。</p>\n",
+				"content_text": "なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを語って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。\n",
+				"date_published": "2026-02-08T09:23:49+09:00",
+				"url": "https://tweets.tai2.net/2026/02/08/e.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/06/llm-httpsjoisinohatenablogcomentryzeh.html",
 				
 				"content_html": "<p>LLMの能力の「穴」 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ <a href=\"https://joisino.hatenablog.com/entry/zeh\">joisino.hatenablog.com/entry/zeh</a></p>\n",
@@ -74,7 +82,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
