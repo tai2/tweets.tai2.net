@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/12/autify-httpslevtechjpmediaarticleinterviewdetail.html",
+				
+				"content_html": "<p>自動テストツールの決定解は、テスト設計の自動化――Autifyが考える、仕様書なき現場の救い方\n<a href=\"https://levtech.jp/media/article/interview/detail_802/\">levtech.jp/media/art&hellip;</a></p>\n<p>レバテックさんに受けたインタビュー公開された。数奇な運命によりおれがインタビューされることになった。</p>\n",
+				"content_text": "自動テストツールの決定解は、テスト設計の自動化――Autifyが考える、仕様書なき現場の救い方\n[levtech.jp/media/art...](https://levtech.jp/media/article/interview/detail_802/)\n\n\nレバテックさんに受けたインタビュー公開された。数奇な運命によりおれがインタビューされることになった。\n",
+				"date_published": "2026-02-12T21:36:20+09:00",
+				"url": "https://tweets.tai2.net/2026/02/12/autify-httpslevtechjpmediaarticleinterviewdetail.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/08/code-of-ethics-for-software.html",
+				
+				"content_html": "<blockquote>\n<p>Code of Ethics for Software Engineers</p>\n</blockquote>\n<p><a href=\"https://www.computer.org/education/code-of-ethics\">www.computer.org/education&hellip;</a></p>\n",
+				"content_text": "\n> Code of Ethics for Software Engineers\n\n[www.computer.org/education...](https://www.computer.org/education/code-of-ethics)\n",
+				"date_published": "2026-02-08T11:39:26+09:00",
+				"url": "https://tweets.tai2.net/2026/02/08/code-of-ethics-for-software.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/08/code-of-ethics-httpswwwacmorgcodeofethics.html",
+				
+				"content_html": "<blockquote>\n<p>Code of Ethics</p>\n</blockquote>\n<p><a href=\"https://www.acm.org/code-of-ethics\">www.acm.org/code-of-e&hellip;</a></p>\n",
+				"content_text": "> Code of Ethics\n\n[www.acm.org/code-of-e...](https://www.acm.org/code-of-ethics)\n",
+				"date_published": "2026-02-08T11:36:21+09:00",
+				"url": "https://tweets.tai2.net/2026/02/08/code-of-ethics-httpswwwacmorgcodeofethics.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/08/092440.html",
+				
+				"content_html": "<p>あ</p>\n",
+				"content_text": "あ\n",
+				"date_published": "2026-02-08T09:24:40+09:00",
+				"url": "https://tweets.tai2.net/2026/02/08/092440.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/08/e.html",
 				
-				"content_html": "<p>なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを語って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。</p>\n",
-				"content_text": "なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを語って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。\n",
+				"content_html": "<p>なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを騙って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。</p>\n",
+				"content_text": "なんか朝から覚えのないEメールの通知がやたらに届くなあと思ったら、公開されてるおれのメールアドレスを騙って、さまざまなサービスのサポートに問い合わせするという攻撃?(嫌がらせ?)を受けた模様。意図はなんなんだろう。\n",
 				"date_published": "2026-02-08T09:23:49+09:00",
 				"url": "https://tweets.tai2.net/2026/02/08/e.html"
 			},
@@ -82,7 +114,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
