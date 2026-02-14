@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/14/093000.html",
+				
+				"content_html": "<p>キャラクターというのは文字通り役なのであって、つまり与えられた役割がある。なので、その部分だけ切り取って演じたらおかしなことになるわけであって、全体の台本の中での役割というのを理解する必要がある。</p>\n",
+				"content_text": "キャラクターというのは文字通り役なのであって、つまり与えられた役割がある。なので、その部分だけ切り取って演じたらおかしなことになるわけであって、全体の台本の中での役割というのを理解する必要がある。\n",
+				"date_published": "2026-02-14T09:30:00+09:00",
+				"url": "https://tweets.tai2.net/2026/02/14/093000.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/13/how-i-use-claude-code.html",
+				
+				"content_html": "<blockquote>\n<p>How I Use Claude Code | Boris Tane</p>\n</blockquote>\n<p><a href=\"https://boristane.com/blog/how-i-use-claude-code/\">boristane.com/blog/how-&hellip;</a></p>\n",
+				"content_text": "> How I Use Claude Code | Boris Tane\n\n[boristane.com/blog/how-...](https://boristane.com/blog/how-i-use-claude-code/)\n",
+				"date_published": "2026-02-13T12:35:28+09:00",
+				"url": "https://tweets.tai2.net/2026/02/13/how-i-use-claude-code.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/12/autify-httpslevtechjpmediaarticleinterviewdetail.html",
 				
 				"content_html": "<p>自動テストツールの決定解は、テスト設計の自動化――Autifyが考える、仕様書なき現場の救い方\n<a href=\"https://levtech.jp/media/article/interview/detail_802/\">levtech.jp/media/art&hellip;</a></p>\n<p>レバテックさんに受けたインタビュー公開された。数奇な運命によりおれがインタビューされることになった。</p>\n",
@@ -114,7 +130,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
