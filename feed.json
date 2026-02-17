@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/18/081737.html",
+				
+				"content_html": "<p>やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは早くかけても、単純にエージェントの書く速度でデリバリーすることはできない。</p>\n",
+				"content_text": "やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは早くかけても、単純にエージェントの書く速度でデリバリーすることはできない。\n",
+				"date_published": "2026-02-18T08:17:37+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/081737.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/17/rllr.html",
+				
+				"content_html": "<p>RとLの発音の違いを自分なりに言語化するなら、Lはベロの先っちょで出す感じで、Rはほっぺたの内側で出す感じ。</p>\n",
+				"content_text": "RとLの発音の違いを自分なりに言語化するなら、Lはベロの先っちょで出す感じで、Rはほっぺたの内側で出す感じ。\n",
+				"date_published": "2026-02-17T20:25:01+09:00",
+				"url": "https://tweets.tai2.net/2026/02/17/rllr.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
+				
+				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-16T21:55:03+09:00",
+				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
-				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一時ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一時ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://tai2.micro.blog/2026/02/15/forin.html",
 				
 				"content_html": "<p>否定の時はforじゃなくてin。知らんかったー。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定の時はforじゃなくてin。知らんかったー。\n\n<img src=\"uploads/2026/9d31613518.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定の時はforじゃなくてin。知らんかったー。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/9d31613518.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-15T11:45:07+09:00",
 				"url": "https://tweets.tai2.net/2026/02/15/forin.html"
 			},
@@ -162,7 +186,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
