@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/18/claude-coworkclaude-codegui.html",
+				
+				"content_html": "<p>Claude Cowork、Claude Codeでべつにいいな。というか基本いらん。言ってGUIでオートメーションしたいことって、そんなにないんよな。</p>\n",
+				"content_text": "Claude Cowork、Claude Codeでべつにいいな。というか基本いらん。言ってGUIでオートメーションしたいことって、そんなにないんよな。\n",
+				"date_published": "2026-02-18T22:39:51+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/claude-coworkclaude-codegui.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/18/firebase-studio.html",
+				
+				"content_html": "<p>なんかFirebase Studioだかなんだかっていうやつがコンセプト的には良さそうで、少し触ってみたけど、その時点ではハリボテだった。あれが、ちゃんと商業サービスレベルのものを生成してメンテできるようになったら、すばらしい。</p>\n",
+				"content_text": "なんかFirebase Studioだかなんだかっていうやつがコンセプト的には良さそうで、少し触ってみたけど、その時点ではハリボテだった。あれが、ちゃんと商業サービスレベルのものを生成してメンテできるようになったら、すばらしい。\n",
+				"date_published": "2026-02-18T21:36:44+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/firebase-studio.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/18/213057.html",
+				
+				"content_html": "<p>個人的には、どうせならもうコード書かせないで欲しいんだよな。やりたいことを定型化してエージェントにやらせるのために、プログラミング言語を人間がレビューするのはおかしい気がする。本質の部分だけ、人間がレビューできるようにして欲しい。レビューする対象の中間成果物も、テキストだけじゃなくて、図とか、ライブプロトタイプとか、いろいろあって欲しい。あと、セキュリティーやらなんやらも、勝手に裏側で担保して欲しい。現状は、おれが欲しい未来からすると、まだまだ中途半端。</p>\n",
+				"content_text": "個人的には、どうせならもうコード書かせないで欲しいんだよな。やりたいことを定型化してエージェントにやらせるのために、プログラミング言語を人間がレビューするのはおかしい気がする。本質の部分だけ、人間がレビューできるようにして欲しい。レビューする対象の中間成果物も、テキストだけじゃなくて、図とか、ライブプロトタイプとか、いろいろあって欲しい。あと、セキュリティーやらなんやらも、勝手に裏側で担保して欲しい。現状は、おれが欲しい未来からすると、まだまだ中途半端。\n",
+				"date_published": "2026-02-18T21:30:57+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/213057.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/18/code-review-checklist-deploy-workflow.html",
+				
+				"content_html": "<blockquote>\n<p>Code review checklist, deploy workflow, API style guide</p>\n</blockquote>\n<p>Skillsの例としてこれらが挙げられてるんだけど、API style guideだけどういうことなのかよくわからんな</p>\n",
+				"content_text": ">Code review checklist, deploy workflow, API style guide\n\nSkillsの例としてこれらが挙げられてるんだけど、API style guideだけどういうことなのかよくわからんな\n",
+				"date_published": "2026-02-18T21:13:45+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/code-review-checklist-deploy-workflow.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/18/202253.html",
+				
+				"content_html": "<p>あ</p>\n",
+				"content_text": "あ\n",
+				"date_published": "2026-02-18T20:22:53+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/202253.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/18/cefr-a.html",
+				
+				"content_html": "<p>CEFR A2クリア</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "CEFR A2クリア\n\n<img src=\"https://tweets.tai2.net/uploads/2026/cf53359918.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-18T18:33:19+09:00",
+				"url": "https://tweets.tai2.net/2026/02/18/cefr-a.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/18/081737.html",
 				
-				"content_html": "<p>やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは早くかけても、単純にエージェントの書く速度でデリバリーすることはできない。</p>\n",
-				"content_text": "やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは早くかけても、単純にエージェントの書く速度でデリバリーすることはできない。\n",
+				"content_html": "<p>やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは速く書けても、単純にエージェントの書く速度でデリバリーすることはできない。</p>\n",
+				"content_text": "やっぱり、現状普及してるテクニックで、エージェントの恩恵フルスロットルで受けて、「生産性」を100倍にしたら、品質的にやばいことになるよなあ。だから、やっぱりまだ本質は変わってないのだと思う。エージェントは速く書けても、単純にエージェントの書く速度でデリバリーすることはできない。\n",
 				"date_published": "2026-02-18T08:17:37+09:00",
 				"url": "https://tweets.tai2.net/2026/02/18/081737.html"
 			},
