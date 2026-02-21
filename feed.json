@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/21/cookcook.html",
+				
+				"content_html": "<p>コックって英語のcookで、動詞のcookと同じか！いまさらながら</p>\n",
+				"content_text": "コックって英語のcookで、動詞のcookと同じか！いまさらながら\n",
+				"date_published": "2026-02-21T17:53:11+09:00",
+				"url": "https://tweets.tai2.net/2026/02/21/cookcook.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/19/dev-container.html",
+				
+				"content_html": "<p>dev containerとかいうやつ使えばなんとかなるのかな。いずれにしろマニュアル確認も含めて考えるとホストからアクセスできるポートも欲しい気はするけど。</p>\n",
+				"content_text": "dev containerとかいうやつ使えばなんとかなるのかな。いずれにしろマニュアル確認も含めて考えるとホストからアクセスできるポートも欲しい気はするけど。\n",
+				"date_published": "2026-02-19T21:02:21+09:00",
+				"url": "https://tweets.tai2.net/2026/02/19/dev-container.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/19/docker-compose.html",
+				
+				"content_html": "<p>あれでもdocker composeにその能力ないか？環境変数とかでコントロールできたっけ。</p>\n",
+				"content_text": "あれでもdocker composeにその能力ないか？環境変数とかでコントロールできたっけ。\n",
+				"date_published": "2026-02-19T21:00:32+09:00",
+				"url": "https://tweets.tai2.net/2026/02/19/docker-compose.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/19/ee.html",
+				
+				"content_html": "<p>開発環境がポート番号決めうちなので、サブエージェント起動しても、E2Eの確認までできない。サブエージェント前提で考えると、今後はポート動的確保が必須になりそうだな。ホストにされるものは。</p>\n",
+				"content_text": "開発環境がポート番号決めうちなので、サブエージェント起動しても、E2Eの確認までできない。サブエージェント前提で考えると、今後はポート動的確保が必須になりそうだな。ホストにされるものは。\n",
+				"date_published": "2026-02-19T20:56:36+09:00",
+				"url": "https://tweets.tai2.net/2026/02/19/ee.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/18/claude-coworkclaude-codegui.html",
 				
 				"content_html": "<p>Claude Cowork、Claude Codeでべつにいいな。というか基本いらん。言ってGUIでオートメーションしたいことって、そんなにないんよな。</p>\n",
