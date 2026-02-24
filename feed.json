@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/24/194256.html",
+				
+				"content_html": "<p>うーん、これはどうしたもんだろか&hellip;&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "うーん、これはどうしたもんだろか......\n\n<img src=\"uploads/2026/4af5ef1197.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-24T19:42:56+09:00",
+				"url": "https://tweets.tai2.net/2026/02/24/194256.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/23/115244.html",
+				
+				"content_html": "<p>いやほんとに、理解しようと努力すれば、気持ちは汲み取れなくもないんだけど、それにしても、描写の方法が粗雑で稚拙すぎるんだよなあ。</p>\n",
+				"content_text": "いやほんとに、理解しようと努力すれば、気持ちは汲み取れなくもないんだけど、それにしても、描写の方法が粗雑で稚拙すぎるんだよなあ。\n",
+				"date_published": "2026-02-23T11:52:44+09:00",
+				"url": "https://tweets.tai2.net/2026/02/23/115244.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/23/114754.html",
+				
+				"content_html": "<p>小学校で読み聞かせボランティアをやってるので、ちょいちょい絵本を見るのだけど、絵本というジャンルは、おもしろいのも中にはあるけど、子供にメッセージを伝えようとするものの中には、なんつーか、しょうもないものもかなりある。いや、言いたいことはわからんでもないけど、作者の無知と見識の狭さが全面に出ていて、見てられない。子供だましすぎて、子供に聞かせたいとは思えない。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "小学校で読み聞かせボランティアをやってるので、ちょいちょい絵本を見るのだけど、絵本というジャンルは、おもしろいのも中にはあるけど、子供にメッセージを伝えようとするものの中には、なんつーか、しょうもないものもかなりある。いや、言いたいことはわからんでもないけど、作者の無知と見識の狭さが全面に出ていて、見てられない。子供だましすぎて、子供に聞かせたいとは思えない。\n\n<img src=\"uploads/2026/313a2b3d92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-23T11:47:54+09:00",
+				"url": "https://tweets.tai2.net/2026/02/23/114754.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/22/230426.html",
+				
+				"content_html": "<p>結局のところ、LLMにできるのは単純作業の効率化にとどまると考えるのが、現状では妥当なとこだよな。あといずれにせよ人間がどこかでループに入って正確性を担保する。決定的な自動化テストとかでもいい。さもなくば、間違ったことを行う。</p>\n",
+				"content_text": "結局のところ、LLMにできるのは単純作業の効率化にとどまると考えるのが、現状では妥当なとこだよな。あといずれにせよ人間がどこかでループに入って正確性を担保する。決定的な自動化テストとかでもいい。さもなくば、間違ったことを行う。\n",
+				"date_published": "2026-02-22T23:04:26+09:00",
+				"url": "https://tweets.tai2.net/2026/02/22/230426.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/22/llmllmllm.html",
+				
+				"content_html": "<p>人類の大部分が、ほんとうの合理的な推論と、LLMの確率的な回答を区別した上で、LLMを活用できるとは思えないので、その意味では、LLMベンダーが正しい強化学習の結果を提供する責任はほんとに重大になってくるよな。</p>\n",
+				"content_text": "人類の大部分が、ほんとうの合理的な推論と、LLMの確率的な回答を区別した上で、LLMを活用できるとは思えないので、その意味では、LLMベンダーが正しい強化学習の結果を提供する責任はほんとに重大になってくるよな。\n",
+				"date_published": "2026-02-22T21:13:28+09:00",
+				"url": "https://tweets.tai2.net/2026/02/22/llmllmllm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
+				
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
+				"date_published": "2026-02-22T21:10:11+09:00",
+				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/22/ai.html",
+				
+				"content_html": "<p>AIがいろんな情報を取得して広い見地から、あなたが買うべき株を教えてくれますっていう、なんの保証もないサービスを作ったら、売れるんじゃないか？なんかそれっぽいいかにも信頼できそうな情報を表示させて。</p>\n",
+				"content_text": "AIがいろんな情報を取得して広い見地から、あなたが買うべき株を教えてくれますっていう、なんの保証もないサービスを作ったら、売れるんじゃないか？なんかそれっぽいいかにも信頼できそうな情報を表示させて。\n",
+				"date_published": "2026-02-22T20:56:36+09:00",
+				"url": "https://tweets.tai2.net/2026/02/22/ai.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/22/makelinking-verbmake.html",
 				
 				"content_html": "<p>makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、\n\n<img src=\"uploads/2026/986527cc92.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、\n\n<img src=\"https://tweets.tai2.net/uploads/2026/986527cc92.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-22T20:52:24+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/makelinking-verbmake.html"
 			},
@@ -146,7 +202,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -154,7 +210,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -306,7 +362,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
