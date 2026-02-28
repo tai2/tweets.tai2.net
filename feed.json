@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/02/28/133553.html",
+				
+				"content_html": "<p>四年生の漢字テストやってみた。まあ、こんなもんっすよね。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "四年生の漢字テストやってみた。まあ、こんなもんっすよね。\n\n<img src=\"uploads/2026/f12a8e99bf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-28T13:35:53+09:00",
+				"url": "https://tweets.tai2.net/2026/02/28/133553.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/26/claude-code-how-i-use.html",
+				
+				"content_html": "<p>Claude Codeの使いかたキャッチアップした。</p>\n<p><a href=\"https://boristane.com/blog/how-i-use-claude-code/\">How I Use Claude Code </a></p>\n<p>これがいちばんためになったなあ。では、あたらしいプロジェクトはじめますか。</p>\n",
+				"content_text": "Claude Codeの使いかたキャッチアップした。 \n\n[How I Use Claude Code ](https://boristane.com/blog/how-i-use-claude-code/)\n\nこれがいちばんためになったなあ。では、あたらしいプロジェクトはじめますか。\n",
+				"date_published": "2026-02-26T15:20:17+09:00",
+				"url": "https://tweets.tai2.net/2026/02/26/claude-code-how-i-use.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/26/claude-codeairgap.html",
+				
+				"content_html": "<p>Claude Codeにこれについて尋ねたら、ネットワークフィルタを設定するなり、air-gap環境の設定をしろだって。この短い一文でそんなことが示唆されてたとは驚愕。</p>\n",
+				"content_text": "Claude Codeにこれについて尋ねたら、ネットワークフィルタを設定するなり、air-gap環境の設定をしろだって。この短い一文でそんなことが示唆されてたとは驚愕。\n",
+				"date_published": "2026-02-26T11:26:11+09:00",
+				"url": "https://tweets.tai2.net/2026/02/26/claude-codeairgap.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/26/letting-claude-run-arbitrary-commands.html",
+				
+				"content_html": "<blockquote>\n<p>Letting Claude run arbitrary commands is risky and can result in data loss, system corruption, or data exfiltration (e.g., via prompt injection attacks). To minimize these risks, use &ndash;dangerously-skip-permissions in a container without internet access.</p>\n</blockquote>\n<p>なんかClaude Codeのマニュアルにすごく不思議なことが書いてあるんだけど、Claude Codeってインターネットアクセスなしで動くんだっけ???</p>\n",
+				"content_text": ">Letting Claude run arbitrary commands is risky and can result in data loss, system corruption, or data exfiltration (e.g., via prompt injection attacks). To minimize these risks, use --dangerously-skip-permissions in a container without internet access.\n\nなんかClaude Codeのマニュアルにすごく不思議なことが書いてあるんだけど、Claude Codeってインターネットアクセスなしで動くんだっけ???\n",
+				"date_published": "2026-02-26T11:18:17+09:00",
+				"url": "https://tweets.tai2.net/2026/02/26/letting-claude-run-arbitrary-commands.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/26/085300.html",
+				
+				"content_html": "<p>朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ\n\n<img src=\"uploads/2026/ea6dcf4519.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-26T08:53:00+09:00",
+				"url": "https://tweets.tai2.net/2026/02/26/085300.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/26/xgithub.html",
 				
 				"content_html": "<p>もしもXを見ないなら、おそらくその代わりにGitHubを見るべきなんだろう。</p>\n",
