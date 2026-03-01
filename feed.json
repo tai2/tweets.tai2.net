@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/01/database-transactions-planetscale.html",
+				
+				"content_html": "<p><a href=\"https://planetscale.com/blog/database-transactions\">Database Transactions — PlanetScale</a></p>\n",
+				"content_text": "[Database Transactions — PlanetScale](https://planetscale.com/blog/database-transactions)\n",
+				"date_published": "2026-03-01T13:52:47+09:00",
+				"url": "https://tweets.tai2.net/2026/03/01/database-transactions-planetscale.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/01/microgpt.html",
+				
+				"content_html": "<p><a href=\"https://karpathy.github.io/2026/02/12/microgpt/\">microgpt</a></p>\n",
+				"content_text": "[microgpt](https://karpathy.github.io/2026/02/12/microgpt/)\n",
+				"date_published": "2026-03-01T11:38:06+09:00",
+				"url": "https://tweets.tai2.net/2026/03/01/microgpt.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/01/b.html",
+				
+				"content_html": "<p>B1 1クリア</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "B1 1クリア\n\n<img src=\"uploads/2026/f6376af6a0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-01T11:14:15+09:00",
+				"url": "https://tweets.tai2.net/2026/03/01/b.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/01/ai.html",
+				
+				"content_html": "<p>AI生成ブログ記事はさあ、味がしないんだよな。</p>\n",
+				"content_text": "AI生成ブログ記事はさあ、味がしないんだよな。\n",
+				"date_published": "2026-03-01T07:40:16+09:00",
+				"url": "https://tweets.tai2.net/2026/03/01/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/02/28/youtube.html",
+				
+				"content_html": "<p>岡本吉起のYouTube見てたら、アーケードゲームはインフレしてるのに単価100のままだからどんどん厳しくなってくって話があって、なるほどってなった</p>\n",
+				"content_text": "岡本吉起のYouTube見てたら、アーケードゲームはインフレしてるのに単価100のままだからどんどん厳しくなってくって話があって、なるほどってなった\n",
+				"date_published": "2026-02-28T22:31:27+09:00",
+				"url": "https://tweets.tai2.net/2026/02/28/youtube.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/02/28/133553.html",
 				
 				"content_html": "<p>四年生の漢字テストやってみた。まあ、こんなもんっすよね。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "四年生の漢字テストやってみた。まあ、こんなもんっすよね。\n\n<img src=\"uploads/2026/f12a8e99bf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "四年生の漢字テストやってみた。まあ、こんなもんっすよね。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/f12a8e99bf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-28T13:35:53+09:00",
 				"url": "https://tweets.tai2.net/2026/02/28/133553.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://tai2.micro.blog/2026/02/26/085300.html",
 				
 				"content_html": "<p>朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ\n\n<img src=\"uploads/2026/ea6dcf4519.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ\n\n<img src=\"https://tweets.tai2.net/uploads/2026/ea6dcf4519.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-26T08:53:00+09:00",
 				"url": "https://tweets.tai2.net/2026/02/26/085300.html"
 			},
@@ -129,8 +169,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -282,7 +322,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -290,7 +330,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -442,7 +482,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
