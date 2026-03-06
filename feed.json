@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/07/libresprite.html",
+				
+				"content_html": "<p><a href=\"https://libresprite.github.io/#!/\">LibreSprite</a></p>\n",
+				"content_text": "[LibreSprite](https://libresprite.github.io/#!/)\n",
+				"date_published": "2026-03-07T08:43:01+09:00",
+				"url": "https://tweets.tai2.net/2026/03/07/libresprite.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/05/moss-a-painting-toy-where.html",
+				
+				"content_html": "<p><a href=\"https://www.moss.town/\">MOSS — A Painting Toy Where Every Brush Is a Tiny Program</a></p>\n",
+				"content_text": "[MOSS — A Painting Toy Where Every Brush Is a Tiny Program](https://www.moss.town/)\n",
+				"date_published": "2026-03-05T12:46:37+09:00",
+				"url": "https://tweets.tai2.net/2026/03/05/moss-a-painting-toy-where.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/05/093425.html",
+				
+				"content_html": "<p>Autify CSのこれまでとこれから -2026- | Autify（オーティファイ）ブログ <a href=\"https://blog.autify.jp/article/autify-cs-journey-so-far-and-headed-next-2026\">blog.autify.jp/article/a&hellip;</a></p>\n",
+				"content_text": "Autify CSのこれまでとこれから -2026- | Autify（オーティファイ）ブログ [blog.autify.jp/article/a...](https://blog.autify.jp/article/autify-cs-journey-so-far-and-headed-next-2026)\n",
+				"date_published": "2026-03-05T09:34:25+09:00",
+				"url": "https://tweets.tai2.net/2026/03/05/093425.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/05/071721.html",
+				
+				"content_html": "<p>シンプルなものより、複雑なものを作ったエンジニアが評価されるってやつ、なんかだいぶ異世界ではある。いまいる会社は、ビジネスインパクト最重視なので、シンプルだろうが複雑だろうが、それがもたらすビジネス上の価値で説明することが求められる。その観点からは、シンプルで価値あることをたくさんやったほうが評価されると思う。</p>\n<p>まあただ、オーバーエンジニアリングを社内エンジニアリソース巻き込んで徹底的にやって評価された人もいるので、そう単純ではないかもしれない。</p>\n",
+				"content_text": "シンプルなものより、複雑なものを作ったエンジニアが評価されるってやつ、なんかだいぶ異世界ではある。いまいる会社は、ビジネスインパクト最重視なので、シンプルだろうが複雑だろうが、それがもたらすビジネス上の価値で説明することが求められる。その観点からは、シンプルで価値あることをたくさんやったほうが評価されると思う。\n\nまあただ、オーバーエンジニアリングを社内エンジニアリソース巻き込んで徹底的にやって評価された人もいるので、そう単純ではないかもしれない。\n",
+				"date_published": "2026-03-05T07:17:21+09:00",
+				"url": "https://tweets.tai2.net/2026/03/05/071721.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/04/nobody-gets-promoted-for-simplicity.html",
+				
+				"content_html": "<p><a href=\"https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/\">Nobody Gets Promoted for Simplicity – Terrible Software</a></p>\n",
+				"content_text": "[Nobody Gets Promoted for Simplicity – Terrible Software](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)\n",
+				"date_published": "2026-03-04T22:29:41+09:00",
+				"url": "https://tweets.tai2.net/2026/03/04/nobody-gets-promoted-for-simplicity.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/04/143806.html",
+				
+				"content_html": "<p>Swiss cheese model - Wikipedia <a href=\"https://en.wikipedia.org/wiki/Swiss_cheese_model\">en.wikipedia.org/wiki/Swis&hellip;</a></p>\n",
+				"content_text": "Swiss cheese model - Wikipedia [en.wikipedia.org/wiki/Swis...](https://en.wikipedia.org/wiki/Swiss_cheese_model)\n",
+				"date_published": "2026-03-04T14:38:06+09:00",
+				"url": "https://tweets.tai2.net/2026/03/04/143806.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/04/how-to-kill-the-code.html",
+				
+				"content_html": "<p>How to Kill the Code Review - by Ankit Jain - Latent.Space <a href=\"https://www.latent.space/p/reviews-dead\">www.latent.space/p/reviews&hellip;</a></p>\n",
+				"content_text": "How to Kill the Code Review - by Ankit Jain - Latent.Space [www.latent.space/p/reviews...](https://www.latent.space/p/reviews-dead)\n",
+				"date_published": "2026-03-04T14:36:17+09:00",
+				"url": "https://tweets.tai2.net/2026/03/04/how-to-kill-the-code.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/04/resources-gpvm.html",
 				
 				"content_html": "<p><a href=\"https://develop--gpvm-website.netlify.app/resources/\">Resources | GPVM</a></p>\n",
@@ -42,7 +98,7 @@
 				"id": "http://tai2.micro.blog/2026/03/01/b.html",
 				
 				"content_html": "<p>B1 1クリア</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "B1 1クリア\n\n<img src=\"uploads/2026/f6376af6a0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "B1 1クリア\n\n<img src=\"https://tweets.tai2.net/uploads/2026/f6376af6a0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-01T11:14:15+09:00",
 				"url": "https://tweets.tai2.net/2026/03/01/b.html"
 			},
@@ -185,8 +241,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -338,7 +394,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -346,7 +402,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -498,7 +554,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
