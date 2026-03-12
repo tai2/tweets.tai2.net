@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/12/ai.html",
+				
+				"content_html": "<p>けっきょく、AIエージェントが書いてきたプランを詳細にレビューして、理解して、こっちも深く考えて相手にフィードバックしなきゃいけなくて、まあ、このやりかただと劇的に速くはならないかもしれない。</p>\n",
+				"content_text": "けっきょく、AIエージェントが書いてきたプランを詳細にレビューして、理解して、こっちも深く考えて相手にフィードバックしなきゃいけなくて、まあ、このやりかただと劇的に速くはならないかもしれない。\n",
+				"date_published": "2026-03-12T20:11:34+09:00",
+				"url": "https://tweets.tai2.net/2026/03/12/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/12/agentic-codingboris-taneai.html",
+				
+				"content_html": "<p>agentic codingの練習してる。<a href=\"https://boristane.com/blog/how-i-use-claude-code/\">Boris Tane</a>さんのやりかたをそのままやってみている。AIエージェントが、おれが一生懸命書いた仕様を正しく理解してくれると、うれしくなるね。</p>\n",
+				"content_text": "agentic codingの練習してる。[Boris Tane](https://boristane.com/blog/how-i-use-claude-code/)さんのやりかたをそのままやってみている。AIエージェントが、おれが一生懸命書いた仕様を正しく理解してくれると、うれしくなるね。\n",
+				"date_published": "2026-03-12T19:28:05+09:00",
+				"url": "https://tweets.tai2.net/2026/03/12/agentic-codingboris-taneai.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/11/every-minute-you-arent-running.html",
 				
 				"content_html": "<p><a href=\"https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html\">Every minute you aren’t running 69 agents, you are falling behind | the singularity is nearer</a></p>\n",
