@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/16/llm-architecture-gallery-sebastian-raschka.html",
+				
+				"content_html": "<p><a href=\"https://sebastianraschka.com/llm-architecture-gallery/\">LLM Architecture Gallery | Sebastian Raschka, PhD</a></p>\n",
+				"content_text": "[LLM Architecture Gallery | Sebastian Raschka, PhD](https://sebastianraschka.com/llm-architecture-gallery/)\n",
+				"date_published": "2026-03-16T07:16:32+09:00",
+				"url": "https://tweets.tai2.net/2026/03/16/llm-architecture-gallery-sebastian-raschka.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/15/ai.html",
+				
+				"content_html": "<p>知り合いの弁護士が、AIエージェント使って、自分の仕事で使う用の(おれにはよくわからないけど、おそらく有用なのであろう)システムをめちゃくちゃ活発に作ってて、これよ、こういうことが見たかったのよってなってる。</p>\n",
+				"content_text": "知り合いの弁護士が、AIエージェント使って、自分の仕事で使う用の(おれにはよくわからないけど、おそらく有用なのであろう)システムをめちゃくちゃ活発に作ってて、これよ、こういうことが見たかったのよってなってる。\n",
+				"date_published": "2026-03-15T11:43:24+09:00",
+				"url": "https://tweets.tai2.net/2026/03/15/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/15/httpsgithubcomtaivoicemirrorpull.html",
+				
+				"content_html": "<p><a href=\"https://github.com/tai2/VoiceMirror/pull/2\">github.com/tai2/Voic&hellip;</a></p>\n<p>とりあえず、最初のバージョンなんか作ってくれた。プランが完成したあとのコーディングはさすがに早い。一発で動くもの作ってくれた。</p>\n",
+				"content_text": "[github.com/tai2/Voic...](https://github.com/tai2/VoiceMirror/pull/2)\n\nとりあえず、最初のバージョンなんか作ってくれた。プランが完成したあとのコーディングはさすがに早い。一発で動くもの作ってくれた。\n",
+				"date_published": "2026-03-15T11:11:33+09:00",
+				"url": "https://tweets.tai2.net/2026/03/15/httpsgithubcomtaivoicemirrorpull.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/15/agentic-coding.html",
+				
+				"content_html": "<p>Agentic codingのいちばん気にくわないとこは、試行の結果が見られるまでのターウアラウンドがめちゃくちゃ長いとこだよなあ。手書きコードの高速で試行・確認・改善という反復とは根本的に違う。必然的に「ズレ」が生じて、ズレの修正に時間がかかる。ブロッキングへの対策としてタスクを並列化するというのが現状の解答という理解だけど、不確実な仕事を並列化するというのは、ほんとうに効果的なことなのか。</p>\n",
+				"content_text": "Agentic codingのいちばん気にくわないとこは、試行の結果が見られるまでのターウアラウンドがめちゃくちゃ長いとこだよなあ。手書きコードの高速で試行・確認・改善という反復とは根本的に違う。必然的に「ズレ」が生じて、ズレの修正に時間がかかる。ブロッキングへの対策としてタスクを並列化するというのが現状の解答という理解だけど、不確実な仕事を並列化するというのは、ほんとうに効果的なことなのか。\n",
+				"date_published": "2026-03-15T10:35:06+09:00",
+				"url": "https://tweets.tai2.net/2026/03/15/agentic-coding.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/14/153456.html",
 				
 				"content_html": "<p>最近、携帯電話会社やら、インターネットプロバイダやらを騙る、おそらく詐欺まがいのなにかからの電話が多すぎて嫌になってきたな。電話使うのやめたい。けどインフラなのでやめられない。ぐぬぬ。</p>\n",
@@ -313,8 +345,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -466,7 +498,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -474,7 +506,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -626,7 +658,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
