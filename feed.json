@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/17/tego-skills-security-index.html",
+				
+				"content_html": "<p><a href=\"https://index.tego.security/skills/\">Tego · Skills Security Index</a></p>\n",
+				"content_text": "[Tego · Skills Security Index](https://index.tego.security/skills/)\n",
+				"date_published": "2026-03-17T07:24:56+09:00",
+				"url": "https://tweets.tai2.net/2026/03/17/tego-skills-security-index.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/16/how-i-write-software-with.html",
+				
+				"content_html": "<p><a href=\"https://www.stavros.io/posts/how-i-write-software-with-llms/\">How I write software with LLMs - Stavros' Stuff</a></p>\n",
+				"content_text": "[How I write software with LLMs - Stavros' Stuff](https://www.stavros.io/posts/how-i-write-software-with-llms/)\n",
+				"date_published": "2026-03-16T18:51:02+09:00",
+				"url": "https://tweets.tai2.net/2026/03/16/how-i-write-software-with.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/16/llms-can-be-absolutely-exhausting.html",
+				
+				"content_html": "<p><a href=\"https://tomjohnell.com/llms-can-be-absolutely-exhausting/\">LLMs can be absolutely exhausting | Tom Johnell</a></p>\n",
+				"content_text": "[LLMs can be absolutely exhausting | Tom Johnell](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)\n",
+				"date_published": "2026-03-16T10:15:42+09:00",
+				"url": "https://tweets.tai2.net/2026/03/16/llms-can-be-absolutely-exhausting.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/16/nasdaqs-shame-keubikos-musings.html",
+				
+				"content_html": "<p><a href=\"https://keubiko.substack.com/p/nasdaqs-shame\">Nasdaq&rsquo;s Shame - Keubiko’s Musings</a></p>\n",
+				"content_text": "[Nasdaq's Shame - Keubiko’s Musings](https://keubiko.substack.com/p/nasdaqs-shame)\n",
+				"date_published": "2026-03-16T08:55:47+09:00",
+				"url": "https://tweets.tai2.net/2026/03/16/nasdaqs-shame-keubikos-musings.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/16/llm-architecture-gallery-sebastian-raschka.html",
 				
 				"content_html": "<p><a href=\"https://sebastianraschka.com/llm-architecture-gallery/\">LLM Architecture Gallery | Sebastian Raschka, PhD</a></p>\n",
@@ -345,8 +377,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -498,7 +530,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -506,7 +538,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -658,7 +690,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
