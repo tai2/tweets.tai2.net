@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/19/aiai.html",
+				
+				"content_html": "<p>やばいな。レビューって、これまでずっと仕事の中でどちらかというとそこまで好きではない作業だったのだけど、AIエージェントでのコーディングで主にやっていくとなると、これからずっとAIの出してきたもののレビューが主な作業になるという将来になるぞ……むむむ。</p>\n",
+				"content_text": "やばいな。レビューって、これまでずっと仕事の中でどちらかというとそこまで好きではない作業だったのだけど、AIエージェントでのコーディングで主にやっていくとなると、これからずっとAIの出してきたもののレビューが主な作業になるという将来になるぞ……むむむ。\n",
+				"date_published": "2026-03-19T18:40:42+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/aiai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/wander-the-web.html",
+				
+				"content_html": "<p><a href=\"https://susam.net/wander/\">Wander the Web</a></p>\n",
+				"content_text": "[Wander the Web](https://susam.net/wander/)\n",
+				"date_published": "2026-03-19T06:14:53+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/wander-the-web.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/18/have-a-fucking-website-other.html",
+				
+				"content_html": "<p><a href=\"https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/\">Have a Fucking Website - Other Strangeness — merritt k</a></p>\n<p>嫌いと言えば嘘になる</p>\n",
+				"content_text": "[Have a Fucking Website - Other Strangeness — merritt k](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)\n\n嫌いと言えば嘘になる\n",
+				"date_published": "2026-03-18T19:07:26+09:00",
+				"url": "https://tweets.tai2.net/2026/03/18/have-a-fucking-website-other.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/18/react-native-expo.html",
+				
+				"content_html": "<p>React Native + Expoまあいいんだけど、一個とくにダメなところがあって、ビルドがくそほど重いということ。ちっっっっこいアプリなのに。これだけでも使わない十分な理由になるかもしれない。</p>\n",
+				"content_text": "React Native + Expoまあいいんだけど、一個とくにダメなところがあって、ビルドがくそほど重いということ。ちっっっっこいアプリなのに。これだけでも使わない十分な理由になるかもしれない。\n",
+				"date_published": "2026-03-18T13:44:05+09:00",
+				"url": "https://tweets.tai2.net/2026/03/18/react-native-expo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/18/aws.html",
+				
+				"content_html": "<p>公式ドキュメントの使い辛さ選手権上位はAWSだと思ってる</p>\n",
+				"content_text": "公式ドキュメントの使い辛さ選手権上位はAWSだと思ってる\n",
+				"date_published": "2026-03-18T13:14:24+09:00",
+				"url": "https://tweets.tai2.net/2026/03/18/aws.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/18/drizzle.html",
+				
+				"content_html": "<p>Drizzleの公式ドキュメント内の検索、ぜんぜん欲しい結果出してくれないんだけど、あれなんなんだろね。ドキュメントが使いづらいライブラリはそれだけでちょっと評価下がる。</p>\n",
+				"content_text": "Drizzleの公式ドキュメント内の検索、ぜんぜん欲しい結果出してくれないんだけど、あれなんなんだろね。ドキュメントが使いづらいライブラリはそれだけでちょっと評価下がる。\n",
+				"date_published": "2026-03-18T13:13:32+09:00",
+				"url": "https://tweets.tai2.net/2026/03/18/drizzle.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/18/reactuistale-closurerefstate.html",
+				
+				"content_html": "<p>Reactで、ある状態がUIに反映されるべきものであるなら、いつでもそれを内部データ管理用にも問題なく使えると思ってたけど、stale closure問題があるので、必ずしもそうではないのか。なので、ほぼ同じ目的を持つ状態だったとしても、refとstateで二個管理しなきゃいけない場合もある。</p>\n",
+				"content_text": "Reactで、ある状態がUIに反映されるべきものであるなら、いつでもそれを内部データ管理用にも問題なく使えると思ってたけど、stale closure問題があるので、必ずしもそうではないのか。なので、ほぼ同じ目的を持つ状態だったとしても、refとstateで二個管理しなきゃいけない場合もある。\n",
+				"date_published": "2026-03-18T11:30:14+09:00",
+				"url": "https://tweets.tai2.net/2026/03/18/reactuistale-closurerefstate.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/18/ai.html",
 				
 				"content_html": "<p>やっぱりさー、コードというか、他人の書いたことを正確かつ迅速に理解するのが苦手でありまして、自分で手動かしてコード書かないと理解できないよ………コードだけ人(AIエージェント)に書かせつつ、中身をちゃんと理解するというのは難しい。</p>\n",
