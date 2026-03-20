@@ -7,6 +7,110 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/20/agenticvibe.html",
+				"title": "AgenticコーディングとVibeコーディングの境",
+				"content_html": "<p><a href=\"https://github.com/tai2/VoiceMirror/pull/5\">github.com/tai2/Voic&hellip;</a></p>\n<p>Expoで、PCMをAACにエンコードするということがやりたかったんだけど、既存OSSでそれでるやつがなさそうだった。ネイティブSDKであればそれらをできることは知ってたんだけど、SwiftもKotlinもまったく知らんし、それらのネイティブAPI自体も使ったことなかった。SwiftとKotlin学んでiOSとAndroid SDKの各APIの使いかた覚えれば自分で書けると思うけど、もちろんすごく時間がかかる。たぶん自分でやってたら、この時点であきらめて、アプリ作るのやめるか、要件を妥協してたと思う。</p>\n<p>ワンチャンAIエージェントならできるかもしれんなと思って、試してみることにした。とりあえず最初はネイティブ層でコンパイルエラー。エラー情報をAIエージェントに渡して、やり直させる。次のコンパイルエラー。やり直し。めんどうなので、コンパイルを自分で実行して、エラーなくなるまで直すように伝える。コンパイルエラーがなくなるまで修正してくれた。実機で起動。シミュレーターでアプリ起動してクラッシュレポートを取得。当該スレッドのクラッシュトレースをAIエージェントに見せる。何回かこれを繰り返して、もう無理かもなと思いかけたけど、辛抱してもう何回か続けてみる。そしたら、なんか動いた。次はAndroid。今度も数回のビルドエラーとランタイムエラーを繰り返して、両プラットフォームで、機能してそうなコードに到達した。</p>\n<p>もちろん、SwiftもKotlinも、iOSのAudioToolboxも、AndroidのMediaCodecも、ExpoのネイティブモジュールバインディングのAPIも、なにもかもなにもわかってない。従って、AIエージェントが出してきたコードの妥当性もまったくわかってない。やったことと言えば、走らせて起きたエラーをひたすらAIエージェントに渡して、直させただけ。</p>\n<p>正直、これは、エンジニアリングとは言えないと思う。たしかに欲しい機能は手に入ったけど、これは自分がやりたいこととは違う。AIエージェントにコードを書かせること自体はまあいいとして、自分が理解できない範囲のことを、自分がなにも理解しないまま、AIエージェントにやらせるということはやりたくない。</p>\n<p>あと、React Nativeももうやめようかなとすこし思った。Expoでできないのライブラリで収まることが確実にわかってるならいいけど、ネイティブに手を出さないといけなくなると、とたんに厳しくなる。それやるくらいだったら、React Nativeのような余計な複雑性を持ち込まず、最初からネイティブでアプリ作りたい。</p>\n",
+				"content_text": "[github.com/tai2/Voic...](https://github.com/tai2/VoiceMirror/pull/5)\n\nExpoで、PCMをAACにエンコードするということがやりたかったんだけど、既存OSSでそれでるやつがなさそうだった。ネイティブSDKであればそれらをできることは知ってたんだけど、SwiftもKotlinもまったく知らんし、それらのネイティブAPI自体も使ったことなかった。SwiftとKotlin学んでiOSとAndroid SDKの各APIの使いかた覚えれば自分で書けると思うけど、もちろんすごく時間がかかる。たぶん自分でやってたら、この時点であきらめて、アプリ作るのやめるか、要件を妥協してたと思う。\n\nワンチャンAIエージェントならできるかもしれんなと思って、試してみることにした。とりあえず最初はネイティブ層でコンパイルエラー。エラー情報をAIエージェントに渡して、やり直させる。次のコンパイルエラー。やり直し。めんどうなので、コンパイルを自分で実行して、エラーなくなるまで直すように伝える。コンパイルエラーがなくなるまで修正してくれた。実機で起動。シミュレーターでアプリ起動してクラッシュレポートを取得。当該スレッドのクラッシュトレースをAIエージェントに見せる。何回かこれを繰り返して、もう無理かもなと思いかけたけど、辛抱してもう何回か続けてみる。そしたら、なんか動いた。次はAndroid。今度も数回のビルドエラーとランタイムエラーを繰り返して、両プラットフォームで、機能してそうなコードに到達した。\n\nもちろん、SwiftもKotlinも、iOSのAudioToolboxも、AndroidのMediaCodecも、ExpoのネイティブモジュールバインディングのAPIも、なにもかもなにもわかってない。従って、AIエージェントが出してきたコードの妥当性もまったくわかってない。やったことと言えば、走らせて起きたエラーをひたすらAIエージェントに渡して、直させただけ。\n\n正直、これは、エンジニアリングとは言えないと思う。たしかに欲しい機能は手に入ったけど、これは自分がやりたいこととは違う。AIエージェントにコードを書かせること自体はまあいいとして、自分が理解できない範囲のことを、自分がなにも理解しないまま、AIエージェントにやらせるということはやりたくない。\n\nあと、React Nativeももうやめようかなとすこし思った。Expoでできないのライブラリで収まることが確実にわかってるならいいけど、ネイティブに手を出さないといけなくなると、とたんに厳しくなる。それやるくらいだったら、React Nativeのような余計な複雑性を持ち込まず、最初からネイティブでアプリ作りたい。\n",
+				"date_published": "2026-03-20T21:30:31+09:00",
+				"url": "https://tweets.tai2.net/2026/03/20/agenticvibe.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/20/wayland-set-the-linux-desktop.html",
+				
+				"content_html": "<p><a href=\"https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years\">Wayland set the Linux Desktop back by 10 years</a></p>\n",
+				"content_text": "[Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)\n",
+				"date_published": "2026-03-20T10:50:47+09:00",
+				"url": "https://tweets.tai2.net/2026/03/20/wayland-set-the-linux-desktop.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/llm.html",
+				
+				"content_html": "<p>いずれにせよ、LLMは、いままで自分の取ってきた行いは一体何だったのかということを考えるいい機会を人々に与えてるよなあ。</p>\n",
+				"content_text": "いずれにせよ、LLMは、いままで自分の取ってきた行いは一体何だったのかということを考えるいい機会を人々に与えてるよなあ。\n",
+				"date_published": "2026-03-19T21:00:43+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/llm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/httpsircwinlpubdpdf.html",
+				
+				"content_html": "<p><a href=\"https://ir.cwi.nl/pub/5998/5998D.pdf\">ir.cwi.nl/pub/5998/&hellip;</a></p>\n",
+				"content_text": "[ir.cwi.nl/pub/5998/...](https://ir.cwi.nl/pub/5998/5998D.pdf)\n",
+				"date_published": "2026-03-19T20:54:35+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/httpsircwinlpubdpdf.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/204436.html",
+				
+				"content_html": "<p>てかこれはレビューする側の話か。</p>\n",
+				"content_text": "てかこれはレビューする側の話か。\n",
+				"date_published": "2026-03-19T20:44:36+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/204436.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/on-violations-of-llm-review.html",
+				
+				"content_html": "<p><a href=\"https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/\">On Violations of LLM Review Policies – ICML Blog</a></p>\n<p>陸上競技でも、ドーピングありの競技大会を開催しようとしてる人がいるみたいな話を聞いたことがあるので、学問もLLMありの学会みたいなのを作って、そこで思う存分やればいいのではないか。レギュレーションの問題なのであれば。どっちがいい成果だせるのか純粋に興味ある。</p>\n",
+				"content_text": "[On Violations of LLM Review Policies – ICML Blog](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)\n\n陸上競技でも、ドーピングありの競技大会を開催しようとしてる人がいるみたいな話を聞いたことがあるので、学問もLLMありの学会みたいなのを作って、そこで思う存分やればいいのではないか。レギュレーションの問題なのであれば。どっちがいい成果だせるのか純粋に興味ある。\n",
+				"date_published": "2026-03-19T20:42:31+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/on-violations-of-llm-review.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/subagent.html",
+				
+				"content_html": "<p>リサーチで勝手にsub-agent起動してコンテキスト消費抑えてくれるのはだいぶいいね。</p>\n",
+				"content_text": "リサーチで勝手にsub-agent起動してコンテキスト消費抑えてくれるのはだいぶいいね。\n",
+				"date_published": "2026-03-19T20:13:34+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/subagent.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/expoossaiapiswiftkotlinapiai.html",
+				
+				"content_html": "<p>いま開発中のExpoアプリで、既存のOSSで要件満たすものなかったからAIエージェントにネイティブAPIへのアクセス層を書かせてるんだけど、まあ、SwiftもKotlinもまったく知らないし、ついでに対象のネイティブAPIの使いかたもよくわかってない(これはまあドキュメントちゃんと読めばいい話ではある)ので、自分の作ってる(AIの書いた)コードがなにをしてるのか説明しろと言われても、まあできない。なんとなく雰囲気的によさそうという、そういう感覚のまま進めるしかない。いや厳密に言えば、わからないとこぜんぶちゃんと勉強すれば100%理解は可能なんだけど、その気力はまあない。</p>\n<p>これだいぶ厳しくないか?</p>\n",
+				"content_text": "いま開発中のExpoアプリで、既存のOSSで要件満たすものなかったからAIエージェントにネイティブAPIへのアクセス層を書かせてるんだけど、まあ、SwiftもKotlinもまったく知らないし、ついでに対象のネイティブAPIの使いかたもよくわかってない(これはまあドキュメントちゃんと読めばいい話ではある)ので、自分の作ってる(AIの書いた)コードがなにをしてるのか説明しろと言われても、まあできない。なんとなく雰囲気的によさそうという、そういう感覚のまま進めるしかない。いや厳密に言えば、わからないとこぜんぶちゃんと勉強すれば100%理解は可能なんだけど、その気力はまあない。\n\nこれだいぶ厳しくないか?\n",
+				"date_published": "2026-03-19T19:26:28+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/expoossaiapiswiftkotlinapiai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/191334.html",
+				
+				"content_html": "<p>理解が生煮えのまま、プログラムを「作る」っていう状態が、個人的にだいぶストレスではある</p>\n",
+				"content_text": "理解が生煮えのまま、プログラムを「作る」っていう状態が、個人的にだいぶストレスではある\n",
+				"date_published": "2026-03-19T19:13:34+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/191334.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/from-http-to-consciousness-the.html",
+				
+				"content_html": "<p>From HTTP to Consciousness: The Evolution of &ldquo;For Humans&rdquo; - Kenneth Reitz <a href=\"https://kennethreitz.org/essays/2025-08-27-from_http_to_consciousness\">kennethreitz.org/essays/20&hellip;</a></p>\n",
+				"content_text": "From HTTP to Consciousness: The Evolution of \"For Humans\" - Kenneth Reitz [kennethreitz.org/essays/20...](https://kennethreitz.org/essays/2025-08-27-from_http_to_consciousness)\n",
+				"date_published": "2026-03-19T19:02:21+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/from-http-to-consciousness-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/open-source-gave-me-everything.html",
+				
+				"content_html": "<p>Open Source Gave Me Everything Until I Had Nothing Left to Give - Kenneth Reitz <a href=\"https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give\">kennethreitz.org/essays/20&hellip;</a></p>\n",
+				"content_text": "Open Source Gave Me Everything Until I Had Nothing Left to Give - Kenneth Reitz [kennethreitz.org/essays/20...](https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give)\n",
+				"date_published": "2026-03-19T18:56:36+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/open-source-gave-me-everything.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/teach-yourself-programming-in-ten.html",
+				
+				"content_html": "<p>Teach Yourself Programming in Ten Years <a href=\"https://www.norvig.com/21-days.html\">www.norvig.com/21-days.h&hellip;</a></p>\n",
+				"content_text": "Teach Yourself Programming in Ten Years [www.norvig.com/21-days.h...](https://www.norvig.com/21-days.html)\n",
+				"date_published": "2026-03-19T18:51:00+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/teach-yourself-programming-in-ten.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/19/wander-console-browse-the-small.html",
+				
+				"content_html": "<p>Wander Console - Browse the Small Web <a href=\"https://susam.net/wander/\">susam.net/wander/</a></p>\n",
+				"content_text": "Wander Console - Browse the Small Web [susam.net/wander/](https://susam.net/wander/)\n",
+				"date_published": "2026-03-19T18:46:36+09:00",
+				"url": "https://tweets.tai2.net/2026/03/19/wander-console-browse-the-small.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/19/aiai.html",
 				
 				"content_html": "<p>やばいな。レビューって、これまでずっと仕事の中でどちらかというとそこまで好きではない作業だったのだけど、AIエージェントでのコーディングで主にやっていくとなると、これからずっとAIの出してきたもののレビューが主な作業になるという将来になるぞ……むむむ。</p>\n",
@@ -473,8 +577,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -626,7 +730,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -634,7 +738,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -786,7 +890,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
