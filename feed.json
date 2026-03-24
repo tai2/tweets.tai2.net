@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/24/i-created-my-first-aiassisted.html",
+				
+				"content_html": "<p><a href=\"https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/\">I Created My First AI-assisted Pull Request and I Feel Like a Fraud | Nelson Figueroa</a></p>\n",
+				"content_text": "[I Created My First AI-assisted Pull Request and I Feel Like a Fraud | Nelson Figueroa](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)\n",
+				"date_published": "2026-03-24T11:33:47+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/i-created-my-first-aiassisted.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/084152.html",
+				
+				"content_html": "<p>コンテキストのコンパクションて思ったより機能してない説あるな</p>\n",
+				"content_text": "コンテキストのコンパクションて思ったより機能してない説あるな\n",
+				"date_published": "2026-03-24T08:41:52+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/084152.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/ai.html",
+				
+				"content_html": "<p>AIエージェントが、ときどきなにも問題解決できなくなるときがあるな</p>\n",
+				"content_text": "AIエージェントが、ときどきなにも問題解決できなくなるときがあるな\n",
+				"date_published": "2026-03-24T08:17:41+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/how-im-productive-with-claude.html",
+				
+				"content_html": "<p><a href=\"https://neilkakkar.com/productive-with-claude-code.html\">How I’m Productive with Claude Code | Neil Kakkar</a></p>\n",
+				"content_text": "[How I’m Productive with Claude Code | Neil Kakkar](https://neilkakkar.com/productive-with-claude-code.html)\n",
+				"date_published": "2026-03-24T07:03:17+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/how-im-productive-with-claude.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/23/using-plansmd-for-multihour-problem.html",
+				
+				"content_html": "<p>Using PLANS.md for multi-hour problem solving <a href=\"https://developers.openai.com/cookbook/articles/codex_exec_plans\">developers.openai.com/cookbook/&hellip;</a></p>\n",
+				"content_text": "Using PLANS.md for multi-hour problem solving [developers.openai.com/cookbook/...](https://developers.openai.com/cookbook/articles/codex_exec_plans)\n",
+				"date_published": "2026-03-23T17:02:13+09:00",
+				"url": "https://tweets.tai2.net/2026/03/23/using-plansmd-for-multihour-problem.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/23/the-gold-standard-of-optimization.html",
+				
+				"content_html": "<p><a href=\"https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/\">The gold standard of optimization: A look under the hood of RollerCoaster Tycoon – Larst Of Us</a></p>\n",
+				"content_text": "[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon – Larst Of Us](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)\n",
+				"date_published": "2026-03-23T12:53:37+09:00",
+				"url": "https://tweets.tai2.net/2026/03/23/the-gold-standard-of-optimization.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/23/delve-fake-compliance-as-a.html",
 				
 				"content_html": "<p>Delve - Fake Compliance as a Service - Part I <a href=\"https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service\">deepdelver.substack.com/p/delve-f&hellip;</a></p>\n",
@@ -657,8 +705,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -810,7 +858,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -818,7 +866,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -970,7 +1018,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
