@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/27/should-qa-exist-jade-rubick.html",
+				
+				"content_html": "<p><a href=\"https://www.rubick.com/should-qa-exist/\">Should QA exist | Jade Rubick - Engineering Leadership</a></p>\n",
+				"content_text": "[Should QA exist | Jade Rubick - Engineering Leadership](https://www.rubick.com/should-qa-exist/)\n",
+				"date_published": "2026-03-27T19:47:23+09:00",
+				"url": "https://tweets.tai2.net/2026/03/27/should-qa-exist-jade-rubick.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/25/i-shipped-code-i-dont.html",
+				
+				"content_html": "<p>&ldquo;I shipped code I don&rsquo;t understand and I bet you have too&rdquo; – Jake Nations, Netflix</p>\n<p><a href=\"https://youtu.be/eIoohUmYpGI\">youtu.be/eIoohUmYp&hellip;</a></p>\n",
+				"content_text": "\"I shipped code I don't understand and I bet you have too\" – Jake Nations, Netflix\n\n[youtu.be/eIoohUmYp...](https://youtu.be/eIoohUmYpGI)\n",
+				"date_published": "2026-03-25T00:01:53+09:00",
+				"url": "https://tweets.tai2.net/2026/03/25/i-shipped-code-i-dont.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/231827.html",
+				
+				"content_html": "<p><a href=\"https://joeprevite.com/friendship-recession/\">Overcoming the Friendship Recession</a></p>\n",
+				"content_text": "[Overcoming the Friendship Recession](https://joeprevite.com/friendship-recession/)\n",
+				"date_published": "2026-03-24T23:18:27+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/231827.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/overcoming-the-friendship-recession.html",
+				
+				"content_html": "<p><a href=\"https://joeprevite.com/friendship-recession/\">Overcoming the Friendship Recession</a></p>\n",
+				"content_text": "[Overcoming the Friendship Recession](https://joeprevite.com/friendship-recession/)\n",
+				"date_published": "2026-03-24T23:08:03+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/overcoming-the-friendship-recession.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/211152.html",
+				
+				"content_html": "<p>さいわい、やりたいけど時間とスキルと気力の制約でできてなかったアイデアはたくさんあるので、そういうことをどんどんやってくのがいいんだろうな。</p>\n",
+				"content_text": "さいわい、やりたいけど時間とスキルと気力の制約でできてなかったアイデアはたくさんあるので、そういうことをどんどんやってくのがいいんだろうな。\n",
+				"date_published": "2026-03-24T21:11:52+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/211152.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/211024.html",
+				
+				"content_html": "<p>プログラミング言語の細かいとこの話とかけっこう好きだったんだけどなー。</p>\n",
+				"content_text": "プログラミング言語の細かいとこの話とかけっこう好きだったんだけどなー。\n",
+				"date_published": "2026-03-24T21:10:24+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/211024.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/210944.html",
+				
+				"content_html": "<p>どうやらプログラミング自体はもはやたのしみではなくなるっぽいから、他のたのしみ見つける必要があるっぽい。たぶんクリエイターとかになったほうがいいっぽい。</p>\n",
+				"content_text": "どうやらプログラミング自体はもはやたのしみではなくなるっぽいから、他のたのしみ見つける必要があるっぽい。たぶんクリエイターとかになったほうがいいっぽい。\n",
+				"date_published": "2026-03-24T21:09:44+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/210944.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/i-dont-know-if-i.html",
+				
+				"content_html": "<p>I don&rsquo;t know if I like working at higher levels of abstraction - Xe Iaso <a href=\"https://xeiaso.net/blog/2026/ai-abstraction/\">xeiaso.net/blog/2026&hellip;</a></p>\n",
+				"content_text": "I don't know if I like working at higher levels of abstraction - Xe Iaso [xeiaso.net/blog/2026...](https://xeiaso.net/blog/2026/ai-abstraction/)\n",
+				"date_published": "2026-03-24T20:17:19+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/i-dont-know-if-i.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/llms-are-not-fun-httpsoribdevnofunhtml.html",
+				
+				"content_html": "<p>LLMs Are Not Fun <a href=\"https://orib.dev/nofun.html\">orib.dev/nofun.htm&hellip;</a></p>\n",
+				"content_text": "LLMs Are Not Fun [orib.dev/nofun.htm...](https://orib.dev/nofun.html)\n",
+				"date_published": "2026-03-24T20:13:58+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/llms-are-not-fun-httpsoribdevnofunhtml.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/24/201149.html",
+				
+				"content_html": "<p><a href=\"https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/\">nelson.cloud/i-created&hellip;</a></p>\n<blockquote>\n<p>I know there are many people that are excited this new era of writing code. But to me this has sucked out all of the fun.</p>\n</blockquote>\n<p>まあ、実際のとこ、手書きプログラミングに比べて、たのしくはないのよな。ただまあ、動くものはできるので、まあ。</p>\n",
+				"content_text": "[nelson.cloud/i-created...](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)\n\n\n> I know there are many people that are excited this new era of writing code. But to me this has sucked out all of the fun.\n\nまあ、実際のとこ、手書きプログラミングに比べて、たのしくはないのよな。ただまあ、動くものはできるので、まあ。\n\n\n",
+				"date_published": "2026-03-24T20:11:49+09:00",
+				"url": "https://tweets.tai2.net/2026/03/24/201149.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/24/i-created-my-first-aiassisted.html",
 				
 				"content_html": "<p><a href=\"https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/\">I Created My First AI-assisted Pull Request and I Feel Like a Fraud | Nelson Figueroa</a></p>\n",
