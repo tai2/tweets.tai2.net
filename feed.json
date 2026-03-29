@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/03/29/the-antimac-user-interface-don.html",
+				
+				"content_html": "<blockquote>\n<p>The Anti-Mac User Interface (Don Gentner and Jakob Nielsen) - NN/G</p>\n</blockquote>\n<p><a href=\"https://www.nngroup.com/articles/anti-mac-interface/\">www.nngroup.com/articles/&hellip;</a></p>\n",
+				"content_text": "> The Anti-Mac User Interface (Don Gentner and Jakob Nielsen) - NN/G\n\n[www.nngroup.com/articles/...](https://www.nngroup.com/articles/anti-mac-interface/)\n",
+				"date_published": "2026-03-29T10:34:39+09:00",
+				"url": "https://tweets.tai2.net/2026/03/29/the-antimac-user-interface-don.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/03/28/llmllmllm.html",
+				
+				"content_html": "<p>LLMにしろなんにしろで、手間が減ったのに、仕事が楽にならない(短時間で出力できるのに、暇な時間が増えない)と嘆いてる人々がいて、どこまで本気で言ってるのかわからないけど、全く誤った認識だなあと思う。限界までがんばって仕事を強いられるのは、我々が競争しているからなのであって、資本主義・民主主義である以上避けられないのであり、われわれの出力の速度とは関係がない。LLMを限られた人しか使えないのであれば、それが特定の人に有利に働くこともあるだろうけど、LLMはオープンで誰にも等しく恩恵を与える。だから、全体の速度が上がるだけで、特定の誰かの経済状況にだけ寄与することはない。単に使いこなせないと経済的に不利になるという状況を生み出すだけだ。どれだけ技術が進歩しても、それ自体が人の働く時間を減らすことはないと思う。</p>\n",
+				"content_text": "LLMにしろなんにしろで、手間が減ったのに、仕事が楽にならない(短時間で出力できるのに、暇な時間が増えない)と嘆いてる人々がいて、どこまで本気で言ってるのかわからないけど、全く誤った認識だなあと思う。限界までがんばって仕事を強いられるのは、我々が競争しているからなのであって、資本主義・民主主義である以上避けられないのであり、われわれの出力の速度とは関係がない。LLMを限られた人しか使えないのであれば、それが特定の人に有利に働くこともあるだろうけど、LLMはオープンで誰にも等しく恩恵を与える。だから、全体の速度が上がるだけで、特定の誰かの経済状況にだけ寄与することはない。単に使いこなせないと経済的に不利になるという状況を生み出すだけだ。どれだけ技術が進歩しても、それ自体が人の働く時間を減らすことはないと思う。\n",
+				"date_published": "2026-03-28T18:04:37+09:00",
+				"url": "https://tweets.tai2.net/2026/03/28/llmllmllm.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/27/should-qa-exist-jade-rubick.html",
 				
 				"content_html": "<p><a href=\"https://www.rubick.com/should-qa-exist/\">Should QA exist | Jade Rubick - Engineering Leadership</a></p>\n",
@@ -29,14 +45,6 @@
 				"content_text": "[Overcoming the Friendship Recession](https://joeprevite.com/friendship-recession/)\n",
 				"date_published": "2026-03-24T23:18:27+09:00",
 				"url": "https://tweets.tai2.net/2026/03/24/231827.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/03/24/overcoming-the-friendship-recession.html",
-				
-				"content_html": "<p><a href=\"https://joeprevite.com/friendship-recession/\">Overcoming the Friendship Recession</a></p>\n",
-				"content_text": "[Overcoming the Friendship Recession](https://joeprevite.com/friendship-recession/)\n",
-				"date_published": "2026-03-24T23:08:03+09:00",
-				"url": "https://tweets.tai2.net/2026/03/24/overcoming-the-friendship-recession.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/03/24/211152.html",
