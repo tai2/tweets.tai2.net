@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/04/02/youre-still-signing-data-structures.html",
+				
+				"content_html": "<p><a href=\"https://blog.foks.pub/posts/domain-separation-in-idl/\">You&rsquo;re still signing data structures the wrong way | The FOKS Blog</a></p>\n",
+				"content_text": "[You're still signing data structures the wrong way | The FOKS Blog](https://blog.foks.pub/posts/domain-separation-in-idl/)\n",
+				"date_published": "2026-04-02T07:08:22+09:00",
+				"url": "https://tweets.tai2.net/2026/04/02/youre-still-signing-data-structures.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/01/the-importance-of-agent-harness.html",
+				
+				"content_html": "<p>The importance of Agent Harness in 2026 <a href=\"https://www.philschmid.de/agent-harness-2026\">www.philschmid.de/agent-har&hellip;</a></p>\n",
+				"content_text": "The importance of Agent Harness in 2026 [www.philschmid.de/agent-har...](https://www.philschmid.de/agent-harness-2026)\n",
+				"date_published": "2026-04-01T17:35:07+09:00",
+				"url": "https://tweets.tai2.net/2026/04/01/the-importance-of-agent-harness.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/01/julien-bek-on-x-services.html",
+				
+				"content_html": "<p>Julien Bek on X: &ldquo;Services: The New Software&rdquo; / X <a href=\"https://x.com/JulienBek/status/2029680516568600933\">x.com/JulienBek&hellip;</a></p>\n",
+				"content_text": "Julien Bek on X: \"Services: The New Software\" / X [x.com/JulienBek...](https://x.com/JulienBek/status/2029680516568600933)\n",
+				"date_published": "2026-04-01T15:02:31+09:00",
+				"url": "https://tweets.tai2.net/2026/04/01/julien-bek-on-x-services.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/01/layerx-on-x-ai-x.html",
+				
+				"content_html": "<p>福島良典 | LayerX on X: &ldquo;エージェントハーネスとAIマネージドサービス&rdquo; / X <a href=\"https://x.com/fukkyy/status/2039176036676722729\">x.com/fukkyy/st&hellip;</a></p>\n",
+				"content_text": "福島良典 | LayerX on X: \"エージェントハーネスとAIマネージドサービス\" / X [x.com/fukkyy/st...](https://x.com/fukkyy/status/2039176036676722729)\n",
+				"date_published": "2026-04-01T13:55:02+09:00",
+				"url": "https://tweets.tai2.net/2026/04/01/layerx-on-x-ai-x.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/03/31/how-i-manage-images-for.html",
 				
 				"content_html": "<p><a href=\"https://blog.lysk.tech/excalidraw-frame-export/\">How I manage Images for my Blog | Martin Lysk</a></p>\n",
