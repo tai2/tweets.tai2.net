@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/04/12/eeaiandroid-emulator.html",
+				
+				"content_html": "<p>E2Eテストが壊れたのでAIエージェントに直させようとしたけど、半日以上費やしても直せなかった。手元でダブルチェックしたら、Android emulatorが壊れてた。</p>\n",
+				"content_text": "E2Eテストが壊れたのでAIエージェントに直させようとしたけど、半日以上費やしても直せなかった。手元でダブルチェックしたら、Android emulatorが壊れてた。\n",
+				"date_published": "2026-04-12T14:52:07+09:00",
+				"url": "https://tweets.tai2.net/2026/04/12/eeaiandroid-emulator.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/12/095049.html",
+				
+				"content_html": "<p>あと、20年以上やってきて死ぬほど見てきたパターンとして、競合をまじめに研究せずに、微妙なものを発表して爆死するパターン(自戒込み)。まじである。</p>\n",
+				"content_text": "あと、20年以上やってきて死ぬほど見てきたパターンとして、競合をまじめに研究せずに、微妙なものを発表して爆死するパターン(自戒込み)。まじである。\n",
+				"date_published": "2026-04-12T09:50:49+09:00",
+				"url": "https://tweets.tai2.net/2026/04/12/095049.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/12/the-git-commands-i-run.html",
+				
+				"content_html": "<p><a href=\"https://piechowski.io/post/git-commands-before-reading-code/\">The Git Commands I Run Before Reading Any Code</a></p>\n",
+				"content_text": "[The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)\n",
+				"date_published": "2026-04-12T08:30:14+09:00",
+				"url": "https://tweets.tai2.net/2026/04/12/the-git-commands-i-run.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/12/cirrus-labs-to-join-openai.html",
+				
+				"content_html": "<p><a href=\"https://cirruslabs.org/\">Cirrus Labs to join OpenAI</a></p>\n<p>シャットダウンかー。まあ、色々あるしな。</p>\n",
+				"content_text": "[Cirrus Labs to join OpenAI](https://cirruslabs.org/)\n\nシャットダウンかー。まあ、色々あるしな。\n",
+				"date_published": "2026-04-12T08:18:33+09:00",
+				"url": "https://tweets.tai2.net/2026/04/12/cirrus-labs-to-join-openai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/11/141701.html",
+				
+				"content_html": "<blockquote>\n<p>aposd-vs-clean-code/README.md at main · johnousterhout/aposd-vs-clean-code · GitHub</p>\n</blockquote>\n<p><a href=\"https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md\">github.com/johnouste&hellip;</a></p>\n<p>A philosophy of software designの著者と、Uncle Bobの論争</p>\n",
+				"content_text": "> aposd-vs-clean-code/README.md at main · johnousterhout/aposd-vs-clean-code · GitHub\n\n[github.com/johnouste...](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)\n\nA philosophy of software designの著者と、Uncle Bobの論争\n",
+				"date_published": "2026-04-11T14:17:01+09:00",
+				"url": "https://tweets.tai2.net/2026/04/11/141701.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/04/11/134527.html",
 				
 				"content_html": "<p>手動かさなくなると、これがなくなってしまうな</p>\n<!-- raw HTML omitted -->\n",
