@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/04/18/amiga-graphics-archive.html",
+				
+				"content_html": "<p><a href=\"https://amiga.lychesis.net/\">Amiga Graphics Archive</a></p>\n",
+				"content_text": "[Amiga Graphics Archive](https://amiga.lychesis.net/)\n",
+				"date_published": "2026-04-18T19:59:49+09:00",
+				"url": "https://tweets.tai2.net/2026/04/18/amiga-graphics-archive.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/httpszenndevnttdatatecharticleseceffbutmsourcetw.html",
+				
+				"content_html": "<p>ベクトル検索は不要なのか <a href=\"https://zenn.dev/nttdata_tech/articles/694e39ceff58b7?utm_source=tw260417\">zenn.dev/nttdata_t&hellip;</a></p>\n",
+				"content_text": "ベクトル検索は不要なのか [zenn.dev/nttdata_t...](https://zenn.dev/nttdata_tech/articles/694e39ceff58b7?utm_source=tw260417)\n",
+				"date_published": "2026-04-17T21:50:22+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/httpszenndevnttdatatecharticleseceffbutmsourcetw.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/saying-goodbye-to-agile.html",
+				
+				"content_html": "<p><a href=\"https://lewiscampbell.tech/blog/260414.html\">Saying Goodbye to Agile</a></p>\n",
+				"content_text": "[Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)\n",
+				"date_published": "2026-04-17T21:22:53+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/saying-goodbye-to-agile.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/ipv-vs-ipv-faq-tailscale.html",
+				
+				"content_html": "<p><a href=\"https://tailscale.com/docs/reference/faq/ipv6\">IPv4 vs. IPv6 FAQ · Tailscale Docs</a></p>\n",
+				"content_text": "[IPv4 vs. IPv6 FAQ · Tailscale Docs](https://tailscale.com/docs/reference/faq/ipv6)\n",
+				"date_published": "2026-04-17T20:38:42+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/ipv-vs-ipv-faq-tailscale.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/iosandroidee-voicemirrorapp-ios-passing-m.html",
+				
+				"content_html": "<p>これがiOSとAndroidのE2Eテストの違い(同一テストスイート)</p>\n<pre tabindex=\"0\"><code>[VoiceMirror.app iOS #0-0] 16 passing (4m 54.2s)\n[VoiceMirror.app iOS #0-0] 16 passing (7m 26.6s)\n[VoiceMirror.apk Android #0-0] 15 passing (45m 8.7s)\n[VoiceMirror.apk Android #0-0] 1 failing\n</code></pre><p>ちなみに失敗したやつは再実行したら成功した。おそらく、実際の業務で役立てるのは非常に大変であろうことは想像に固くない。</p>\n",
+				"content_text": "\nこれがiOSとAndroidのE2Eテストの違い(同一テストスイート)\n\n```\n[VoiceMirror.app iOS #0-0] 16 passing (4m 54.2s)\n[VoiceMirror.app iOS #0-0] 16 passing (7m 26.6s)\n[VoiceMirror.apk Android #0-0] 15 passing (45m 8.7s)\n[VoiceMirror.apk Android #0-0] 1 failing\n```\nちなみに失敗したやつは再実行したら成功した。おそらく、実際の業務で役立てるのは非常に大変であろうことは想像に固くない。\n",
+				"date_published": "2026-04-17T15:59:39+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/iosandroidee-voicemirrorapp-ios-passing-m.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/appiumserviceappium-server-ps-aux-grep.html",
+				
+				"content_html": "<p>appium-serviceがなぜか毎回Appium serverを残してくのでこまめにこれが必要</p>\n<pre tabindex=\"0\"><code>ps aux | grep appium | grep -v grep | awk '{ print $2 }' | xargs kill\n</code></pre>",
+				"content_text": "appium-serviceがなぜか毎回Appium serverを残してくのでこまめにこれが必要\n\n```\nps aux | grep appium | grep -v grep | awk '{ print $2 }' | xargs kill\n```\n",
+				"date_published": "2026-04-17T10:43:25+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/appiumserviceappium-server-ps-aux-grep.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/androidee.html",
+				
+				"content_html": "<p>AndroidのE2Eテスト、信じられないぐらい遅い。とくにかわったことはしてない。ふつうのことだけしてるつもり。</p>\n",
+				"content_text": "AndroidのE2Eテスト、信じられないぐらい遅い。とくにかわったことはしてない。ふつうのことだけしてるつもり。\n",
+				"date_published": "2026-04-17T10:21:13+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/androidee.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/17/090250.html",
+				
+				"content_html": "<p>microsoft/apm: Agent Package Manager <a href=\"https://github.com/microsoft/apm?tab=readme-ov-file\">github.com/microsoft&hellip;</a></p>\n",
+				"content_text": "microsoft/apm: Agent Package Manager [github.com/microsoft...](https://github.com/microsoft/apm?tab=readme-ov-file)\n",
+				"date_published": "2026-04-17T09:02:50+09:00",
+				"url": "https://tweets.tai2.net/2026/04/17/090250.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/04/17/085331.html",
 				
 				"content_html": "<p>スタートアップって、そもそもがビジネスとして成立するのかまったく不明確なところからはじまるから、コストの計算がバグってるときちょいちょいある気がする。そもそもが赤字前提なので。</p>\n",
@@ -1202,7 +1266,7 @@
 				"id": "http://tai2.micro.blog/2026/03/01/b.html",
 				
 				"content_html": "<p>B1 1クリア</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "B1 1クリア\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/f6376af6a0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "B1 1クリア\n\n<img src=\"https://tweets.tai2.net/uploads/2026/f6376af6a0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-01T11:14:15+09:00",
 				"url": "https://tweets.tai2.net/2026/03/01/b.html"
 			},
@@ -1226,7 +1290,7 @@
 				"id": "http://tai2.micro.blog/2026/02/28/133553.html",
 				
 				"content_html": "<p>四年生の漢字テストやってみた。まあ、こんなもんっすよね。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "四年生の漢字テストやってみた。まあ、こんなもんっすよね。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/f12a8e99bf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "四年生の漢字テストやってみた。まあ、こんなもんっすよね。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/f12a8e99bf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-28T13:35:53+09:00",
 				"url": "https://tweets.tai2.net/2026/02/28/133553.html"
 			},
@@ -1258,7 +1322,7 @@
 				"id": "http://tai2.micro.blog/2026/02/26/085300.html",
 				
 				"content_html": "<p>朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/ea6dcf4519.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "朝の読み聞かせボランティア。いちばん大事なセリフ読み飛ばしてしまった！！！ぐぬぬぬぬ\n\n<img src=\"https://tweets.tai2.net/uploads/2026/ea6dcf4519.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-26T08:53:00+09:00",
 				"url": "https://tweets.tai2.net/2026/02/26/085300.html"
 			},
@@ -1306,7 +1370,7 @@
 				"id": "http://tai2.micro.blog/2026/02/24/194256.html",
 				
 				"content_html": "<p>うーん、これはどうしたもんだろか&hellip;&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "うーん、これはどうしたもんだろか......\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/4af5ef1197.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "うーん、これはどうしたもんだろか......\n\n<img src=\"https://tweets.tai2.net/uploads/2026/4af5ef1197.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-24T19:42:56+09:00",
 				"url": "https://tweets.tai2.net/2026/02/24/194256.html"
 			},
@@ -1322,7 +1386,7 @@
 				"id": "http://tai2.micro.blog/2026/02/23/114754.html",
 				
 				"content_html": "<p>小学校で読み聞かせボランティアをやってるので、ちょいちょい絵本を見るのだけど、絵本というジャンルは、おもしろいのも中にはあるけど、子供にメッセージを伝えようとするものの中には、なんつーか、しょうもないものもかなりある。いや、言いたいことはわからんでもないけど、作者の無知と見識の狭さが全面に出ていて、見てられない。子供だましすぎて、子供に聞かせたいとは思えない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "小学校で読み聞かせボランティアをやってるので、ちょいちょい絵本を見るのだけど、絵本というジャンルは、おもしろいのも中にはあるけど、子供にメッセージを伝えようとするものの中には、なんつーか、しょうもないものもかなりある。いや、言いたいことはわからんでもないけど、作者の無知と見識の狭さが全面に出ていて、見てられない。子供だましすぎて、子供に聞かせたいとは思えない。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/313a2b3d92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "小学校で読み聞かせボランティアをやってるので、ちょいちょい絵本を見るのだけど、絵本というジャンルは、おもしろいのも中にはあるけど、子供にメッセージを伝えようとするものの中には、なんつーか、しょうもないものもかなりある。いや、言いたいことはわからんでもないけど、作者の無知と見識の狭さが全面に出ていて、見てられない。子供だましすぎて、子供に聞かせたいとは思えない。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/313a2b3d92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-23T11:47:54+09:00",
 				"url": "https://tweets.tai2.net/2026/02/23/114754.html"
 			},
@@ -1345,8 +1409,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/02/22/llm.html",
 				
-				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。</p>\n",
-				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことだけど。\n",
+				"content_html": "<p>いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。</p>\n",
+				"content_text": "いや、LLMが合理的な判断をできる能力があるものとうっかり錯覚したからこんなことを考えてしまったのだけど、べつに合理的な推論をする理性をもってるわけではないんだよな。理性がないのにこれだけそれっぽい回答をできるのも、まったく不思議なことけど。\n",
 				"date_published": "2026-02-22T21:10:11+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/llm.html"
 			},
@@ -1362,7 +1426,7 @@
 				"id": "http://tai2.micro.blog/2026/02/22/makelinking-verbmake.html",
 				
 				"content_html": "<p>makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/986527cc92.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "makeのlinking verbとしての用法を学んだ。makeはほんと多様すぎるな、\n\n<img src=\"https://tweets.tai2.net/uploads/2026/986527cc92.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-22T20:52:24+09:00",
 				"url": "https://tweets.tai2.net/2026/02/22/makelinking-verbmake.html"
 			},
@@ -1474,7 +1538,7 @@
 				"id": "http://tai2.micro.blog/2026/02/18/cefr-a.html",
 				
 				"content_html": "<p>CEFR A2クリア</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "CEFR A2クリア\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/cf53359918.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "CEFR A2クリア\n\n<img src=\"https://tweets.tai2.net/uploads/2026/cf53359918.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-18T18:33:19+09:00",
 				"url": "https://tweets.tai2.net/2026/02/18/cefr-a.html"
 			},
@@ -1498,7 +1562,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/215503.html",
 				
 				"content_html": "<p>まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まじ？信じていいものやら。結局のところ自分でコーパスにあたるのが一番確かだな。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/561bd4fdec.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:55:03+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/215503.html"
 			},
@@ -1506,7 +1570,7 @@
 				"id": "http://tai2.micro.blog/2026/02/16/forllm.html",
 				
 				"content_html": "<p>否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定分+forは不自然というのはハルシネーションだったっぽい。英文法について教えてもらう時も一次ソースにしちゃダメだな。またひとつLLMとの付き合い方を覚えた。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/53ca8f96e8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-16T21:51:57+09:00",
 				"url": "https://tweets.tai2.net/2026/02/16/forllm.html"
 			},
@@ -1530,7 +1594,7 @@
 				"id": "http://tai2.micro.blog/2026/02/15/forin.html",
 				
 				"content_html": "<p>否定の時はforじゃなくてin。知らんかったー。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "否定の時はforじゃなくてin。知らんかったー。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/9d31613518.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "否定の時はforじゃなくてin。知らんかったー。\n\n<img src=\"https://tweets.tai2.net/uploads/2026/9d31613518.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-15T11:45:07+09:00",
 				"url": "https://tweets.tai2.net/2026/02/15/forin.html"
 			},
@@ -1658,7 +1722,7 @@
 				"id": "http://tai2.micro.blog/2026/01/24/111258.html",
 				
 				"content_html": "<p>作り声はいけない</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "作り声はいけない\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "作り声はいけない\n\n<img src=\"https://tweets.tai2.net/uploads/2026/d8bf191e0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-24T11:12:58+09:00",
 				"url": "https://tweets.tai2.net/2026/01/24/111258.html"
 			},
@@ -1986,7 +2050,7 @@
 				"id": "http://tai2.micro.blog/2025/12/13/111749.html",
 				
 				"content_html": "<p>飲酒記録をつけるようになって、飲酒のない日は「ポイントをゲットした！」という感覚が得られるようになってきた気がする</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "飲酒記録をつけるようになって、飲酒のない日は「ポイントをゲットした！」という感覚が得られるようになってきた気がする\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/90dcd92ece.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "飲酒記録をつけるようになって、飲酒のない日は「ポイントをゲットした！」という感覚が得られるようになってきた気がする\n\n<img src=\"https://tweets.tai2.net/uploads/2025/90dcd92ece.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-13T11:17:49+09:00",
 				"url": "https://tweets.tai2.net/2025/12/13/111749.html"
 			},
@@ -2290,7 +2354,7 @@
 				"id": "http://tai2.micro.blog/2025/11/01/103619.html",
 				
 				"content_html": "<p>いやー、こういう世界もあるんだなあ。同じ業界のこととは思えない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "いやー、こういう世界もあるんだなあ。同じ業界のこととは思えない。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/e693347328.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "いやー、こういう世界もあるんだなあ。同じ業界のこととは思えない。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/e693347328.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-11-01T10:36:19+09:00",
 				"url": "https://tweets.tai2.net/2025/11/01/103619.html"
 			},
@@ -2498,7 +2562,7 @@
 				"id": "http://tai2.micro.blog/2025/10/09/bonding.html",
 				
 				"content_html": "<p>まれにあるこういう日。なーんかぜんぜん寝付けず、時々意識が途切れてもまた目覚める。まったく寝れなかったのかなと思ったけど、トータルこのくらいはデータ上寝れたことになってるので、まあがんばれるかなと思える。たぶんこういう日のために睡眠時間計測してる。しかしそういう日に限って(だからこそ?)、めずらしくチームで物理的に集まって戦略会議やらbondingやら。1年に一回くらいしかないんだけどな。斧投げやるらしいので、怪我しないように集中しないとなあ。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "まれにあるこういう日。なーんかぜんぜん寝付けず、時々意識が途切れてもまた目覚める。まったく寝れなかったのかなと思ったけど、トータルこのくらいはデータ上寝れたことになってるので、まあがんばれるかなと思える。たぶんこういう日のために睡眠時間計測してる。しかしそういう日に限って(だからこそ?)、めずらしくチームで物理的に集まって戦略会議やらbondingやら。1年に一回くらいしかないんだけどな。斧投げやるらしいので、怪我しないように集中しないとなあ。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/19b9d86dd7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "まれにあるこういう日。なーんかぜんぜん寝付けず、時々意識が途切れてもまた目覚める。まったく寝れなかったのかなと思ったけど、トータルこのくらいはデータ上寝れたことになってるので、まあがんばれるかなと思える。たぶんこういう日のために睡眠時間計測してる。しかしそういう日に限って(だからこそ?)、めずらしくチームで物理的に集まって戦略会議やらbondingやら。1年に一回くらいしかないんだけどな。斧投げやるらしいので、怪我しないように集中しないとなあ。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/19b9d86dd7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-09T08:06:41+09:00",
 				"url": "https://tweets.tai2.net/2025/10/09/bonding.html"
 			},
@@ -2522,7 +2586,7 @@
 				"id": "http://tai2.micro.blog/2025/10/05/112224.html",
 				
 				"content_html": "<p>いやー、古い本だけど、黄金の書ですよこれは。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "いやー、古い本だけど、黄金の書ですよこれは。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/13833221f0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "いやー、古い本だけど、黄金の書ですよこれは。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/13833221f0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-10-05T11:22:24+09:00",
 				"url": "https://tweets.tai2.net/2025/10/05/112224.html"
 			},
@@ -2618,7 +2682,7 @@
 				"id": "http://tai2.micro.blog/2025/09/15/102509.html",
 				
 				"content_html": "<p>いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "いろいろ興味深い視点を与えてくれる本ではあるけど、根本的に宗教を骨の髄まで信じてる人の本なんだよなあ。日本に生まれてたら、まずこういう思想にはならんかっただろうな。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/f194faeb4f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-15T10:25:09+09:00",
 				"url": "https://tweets.tai2.net/2025/09/15/102509.html"
 			},
@@ -3154,7 +3218,7 @@
 				"id": "http://tai2.micro.blog/2025/07/11/191906.html",
 				
 				"content_html": "<p>お前まで、お前までそれを言い出すのかよ</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "お前まで、お前までそれを言い出すのかよ\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/d920b15fc8.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2025/1db8ca7f68.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "お前まで、お前までそれを言い出すのかよ\n\n<img src=\"https://tweets.tai2.net/uploads/2025/d920b15fc8.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2025/1db8ca7f68.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-11T19:19:06+09:00",
 				"url": "https://tweets.tai2.net/2025/07/11/191906.html"
 			},
@@ -3514,7 +3578,7 @@
 				"id": "http://tai2.micro.blog/2025/06/18/llm.html",
 				
 				"content_html": "<p>このムックは、おそらく書いた人は技術的な内容についてちゃんとは理解しておらず、単にインタビューした伝聞をまとめただけなので、言ってしまえばLLMが生成した要約とそれほど違わないとも言える。きっと「ハルシネーション」も多分に含まれている。とはいえ、インタビューの内容自体は興味深いものなので、価値はある。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "このムックは、おそらく書いた人は技術的な内容についてちゃんとは理解しておらず、単にインタビューした伝聞をまとめただけなので、言ってしまえばLLMが生成した要約とそれほど違わないとも言える。きっと「ハルシネーション」も多分に含まれている。とはいえ、インタビューの内容自体は興味深いものなので、価値はある。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/34c4422a5f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "このムックは、おそらく書いた人は技術的な内容についてちゃんとは理解しておらず、単にインタビューした伝聞をまとめただけなので、言ってしまえばLLMが生成した要約とそれほど違わないとも言える。きっと「ハルシネーション」も多分に含まれている。とはいえ、インタビューの内容自体は興味深いものなので、価値はある。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/34c4422a5f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-18T18:15:44+09:00",
 				"url": "https://tweets.tai2.net/2025/06/18/llm.html"
 			},
@@ -3546,7 +3610,7 @@
 				"id": "http://tai2.micro.blog/2025/06/14/jabol.html",
 				
 				"content_html": "<p>JaBOL!!!!!???!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "JaBOL!!!!!???!\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/eede33f380.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "JaBOL!!!!!???!\n\n<img src=\"https://tweets.tai2.net/uploads/2025/eede33f380.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-14T12:32:59+09:00",
 				"url": "https://tweets.tai2.net/2025/06/14/jabol.html"
 			},
@@ -3554,7 +3618,7 @@
 				"id": "http://tai2.micro.blog/2025/06/14/aiai-ui.html",
 				
 				"content_html": "<p>この図を見ると、こういった開発工程のさまざまなところをAIで効率化できるというのは、まったくそのとおりだと思う一方で、じゃあこれだけの工程を経て、一体なにを作りたいの、というところがどうしても気になってしまう。別にわざわざシステム作らんでも、AIに直接仕事をさせる方法はいくらでもあるんではないか。</p>\n<p>殊更にシステムを開発する意味とは。タスク遂行の確実性？効率的なUI？迅速なレスポンス？実行コスト？</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "この図を見ると、こういった開発工程のさまざまなところをAIで効率化できるというのは、まったくそのとおりだと思う一方で、じゃあこれだけの工程を経て、一体なにを作りたいの、というところがどうしても気になってしまう。別にわざわざシステム作らんでも、AIに直接仕事をさせる方法はいくらでもあるんではないか。\n\n殊更にシステムを開発する意味とは。タスク遂行の確実性？効率的なUI？迅速なレスポンス？実行コスト？\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/0f2ce495e4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "この図を見ると、こういった開発工程のさまざまなところをAIで効率化できるというのは、まったくそのとおりだと思う一方で、じゃあこれだけの工程を経て、一体なにを作りたいの、というところがどうしても気になってしまう。別にわざわざシステム作らんでも、AIに直接仕事をさせる方法はいくらでもあるんではないか。\n\n殊更にシステムを開発する意味とは。タスク遂行の確実性？効率的なUI？迅速なレスポンス？実行コスト？\n\n<img src=\"https://tweets.tai2.net/uploads/2025/0f2ce495e4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-14T10:04:58+09:00",
 				"url": "https://tweets.tai2.net/2025/06/14/aiai-ui.html"
 			},
@@ -3930,7 +3994,7 @@
 				"id": "http://tai2.micro.blog/2025/05/21/190910.html",
 				
 				"content_html": "<p>この本見てるんだけど、おまえら正気か？というような発言が次から次へと飛び出してくる。大丈夫か？それともおれの頭がおかしいだけなのか&hellip;。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "この本見てるんだけど、おまえら正気か？というような発言が次から次へと飛び出してくる。大丈夫か？それともおれの頭がおかしいだけなのか...。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/5940e6d8d5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "この本見てるんだけど、おまえら正気か？というような発言が次から次へと飛び出してくる。大丈夫か？それともおれの頭がおかしいだけなのか...。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/5940e6d8d5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-21T19:09:10+09:00",
 				"url": "https://tweets.tai2.net/2025/05/21/190910.html"
 			},
@@ -4378,7 +4442,7 @@
 				"id": "http://tai2.micro.blog/2025/04/27/ochatgpt-oo-chatgpto-httpsgistgithubcomtaideabccc.html",
 				
 				"content_html": "<p>火星の逆行現象のやつ、o3にやらせてみたら、ちゃんとできた。しかもコードはおれが書いたやつよりよく整理されてる気がする。もちろん、自分でやるのめんどくさそうだから、何度もChatGPTにやらせようとはしたんだけど、どうにも思ったような出力を出してくれず、けっきょく自分で勉強して書いたんだよね。</p>\n<p>最初この問題に興味持ったときにはたぶんo3がまだ利用できなくて、今回o3っていうのはすごいらしいみたいのをたまたま見かけてやらせてみたら、たしかにできた。あと当時はまだ問題に対する理解が浅くて、欲しいものの明確なビジョンもなかったので、添付みたいな的確なプロンプトもたぶん書けなかった。</p>\n<p>まあ、最初からChatGPTにやらせてたら惑星運動の深い理解は得られなかったし、同時にo3がどれくらいのことに使えるのかっていうのの肌感も学べた気がする。</p>\n<p><a href=\"https://gist.github.com/tai2/1194173665953923d9e06ab897c15c9c\">gist.github.com/tai2/1194&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "火星の逆行現象のやつ、o3にやらせてみたら、ちゃんとできた。しかもコードはおれが書いたやつよりよく整理されてる気がする。もちろん、自分でやるのめんどくさそうだから、何度もChatGPTにやらせようとはしたんだけど、どうにも思ったような出力を出してくれず、けっきょく自分で勉強して書いたんだよね。\n\n最初この問題に興味持ったときにはたぶんo3がまだ利用できなくて、今回o3っていうのはすごいらしいみたいのをたまたま見かけてやらせてみたら、たしかにできた。あと当時はまだ問題に対する理解が浅くて、欲しいものの明確なビジョンもなかったので、添付みたいな的確なプロンプトもたぶん書けなかった。\n\nまあ、最初からChatGPTにやらせてたら惑星運動の深い理解は得られなかったし、同時にo3がどれくらいのことに使えるのかっていうのの肌感も学べた気がする。\n\n[gist.github.com/tai2/1194...](https://gist.github.com/tai2/1194173665953923d9e06ab897c15c9c)\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/60f9af7491.png\" alt=\"\">\n",
+				"content_text": "火星の逆行現象のやつ、o3にやらせてみたら、ちゃんとできた。しかもコードはおれが書いたやつよりよく整理されてる気がする。もちろん、自分でやるのめんどくさそうだから、何度もChatGPTにやらせようとはしたんだけど、どうにも思ったような出力を出してくれず、けっきょく自分で勉強して書いたんだよね。\n\n最初この問題に興味持ったときにはたぶんo3がまだ利用できなくて、今回o3っていうのはすごいらしいみたいのをたまたま見かけてやらせてみたら、たしかにできた。あと当時はまだ問題に対する理解が浅くて、欲しいものの明確なビジョンもなかったので、添付みたいな的確なプロンプトもたぶん書けなかった。\n\nまあ、最初からChatGPTにやらせてたら惑星運動の深い理解は得られなかったし、同時にo3がどれくらいのことに使えるのかっていうのの肌感も学べた気がする。\n\n[gist.github.com/tai2/1194...](https://gist.github.com/tai2/1194173665953923d9e06ab897c15c9c)\n\n<img src=\"https://tweets.tai2.net/uploads/2025/60f9af7491.png\" alt=\"\">\n",
 				"date_published": "2025-04-27T10:44:59+09:00",
 				"url": "https://tweets.tai2.net/2025/04/27/ochatgpt-oo-chatgpto-httpsgistgithubcomtaideabccc.html"
 			},
@@ -4682,7 +4746,7 @@
 				"id": "http://tai2.micro.blog/2025/03/10/ee.html",
 				"title": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて",
 				"content_html": "<p>E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。</p>\n<p>これは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ</p>\n<p><a href=\"https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml\">github.com/tai2/Voic&hellip;</a></p>\n<p>ユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。</p>\n<!-- raw HTML omitted -->\n<p>しかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。まがりなりにもユーザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。</p>\n<p>これについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。</p>\n",
-				"content_text": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。\n\nこれは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ\n\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml)\n\nユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/9fdfff96ce.png\" alt=\"\">\n\nしかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。まがりなりにもユーザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。\n\nこれについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。\n",
+				"content_text": "E2Eテストをユーザーストーリーに沿って作成するというアイデアについて。\n\nこれは実際筋のいい考えかただと思うんだけど、あまりうまく適用できない部分がある。たとえば、これ\n\n[github.com/tai2/Voic...](https://github.com/tai2/VoicePost/blob/develop/maestro/home.yml)\n\nユーザーストーリー風に命名すると、As a user, I want to launch appみたいなタイトルになると思うんだけど、アプリを起動しただけでは、ユーザーになにも価値を提供していないので、これはユーザーストーリーとして、あまり適切ではないと思う。一方で、ホーム画面に表示されているアプリ名(画像だと「ボイスポスト」)が表示されていることも仕様の一部として確認したい。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/9fdfff96ce.png\" alt=\"\">\n\nしかし、この「アプリ名がホーム画面に表示されていること」という仕様をユーザーストーリーとして記述することに難しさを感じる。タイトルになにかが表示されているということそれだけでは、価値を含む機能として足りない感じがするので。まがりなりにもユーザーストーリーというからには、なにか価値を伴わなければならない。つまり、ユーザーストーリーという単位は、機能には含まれないけど、壊れていて欲しくはないというような、たとえばデザイン的な部分などをうまく扱えない気がする。\n\nこれについてどう処理するのがいいのかなと考えると、たぶん、理想的でないユーザーストーリーを妥協して受け入れるというのが、まあいいのかな、という気がしてる。いまのところ。\n",
 				"date_published": "2025-03-10T20:14:21+09:00",
 				"url": "https://tweets.tai2.net/2025/03/10/ee.html"
 			},
@@ -4938,7 +5002,7 @@
 				"id": "http://tai2.micro.blog/2025/02/02/123000.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p><a href=\"https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations\">developer.apple.com/documenta&hellip;</a></p>\n<p>ふーむ??</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/173347/2025/5d7317de54.png\" alt=\"\">\r\n\r\n[developer.apple.com/documenta...](https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations)\r\n\r\nふーむ??\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2025/5d7317de54.png\" alt=\"\">\r\n\r\n[developer.apple.com/documenta...](https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations)\r\n\r\nふーむ??\n",
 				"date_published": "2025-02-02T12:30:00+09:00",
 				"url": "https://tweets.tai2.net/2025/02/02/123000.html"
 			},
@@ -5010,7 +5074,7 @@
 				"id": "http://tai2.micro.blog/2025/01/28/reactnative-iospush.html",
 				
 				"content_html": "<p>ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2025/2025-01-28-19-20-38.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "ReactNative iOSアプリのビルド、一回2ドル。push毎にビルドは無理だなあ…。\n\n<img src=\"https://tweets.tai2.net/uploads/2025/2025-01-28-19-20-38.png\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2025-01-28T19:22:54+09:00",
 				"url": "https://tweets.tai2.net/2025/01/28/reactnative-iospush.html"
 			},
@@ -5546,7 +5610,7 @@
 				"id": "http://tai2.micro.blog/2024/10/31/expo-go.html",
 				
 				"content_html": "<p>Expo Go日本のコミュニティで「ぺ」って呼ばれてそう</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Expo Go日本のコミュニティで「ぺ」って呼ばれてそう\n\n<img src=\"https://tweets.tai2.net/uploads/2024/image.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-31T20:48:55+09:00",
 				"url": "https://tweets.tai2.net/2024/10/31/expo-go.html"
 			},
@@ -5914,7 +5978,7 @@
 				"id": "http://tai2.micro.blog/2024/09/10/151102.html",
 				
 				"content_html": "<p>効果音の素材を探しに、ホームセンターと百均にいってきた</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/173347/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
+				"content_text": "効果音の素材を探しに、ホームセンターと百均にいってきた\n\n<img src=\"https://tweets.tai2.net/uploads/2024/cf5583dd-c22d-4dd8-bd5f-14cbacc8cc40.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/d3903fd4-3852-48f4-8e66-50fab551e293.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/dd515336-5320-456f-bff2-fc49d067aa2d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e205db0b-deb9-47f6-878e-71e785439f00.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/e537bfd6-978f-4d33-926f-320090ac4729.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/f78cd511-5ae9-46bb-aec8-8eb1a4ba5fa0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/fb917aac-b59a-4bfb-837d-3dc67511abbf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tweets.tai2.net/uploads/2024/cba55ca7-2296-4d6f-8049-0a8dd1669c63.mp4\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-10T15:11:02+09:00",
 				"url": "https://tweets.tai2.net/2024/09/10/151102.html"
 			},
@@ -6085,7 +6149,7 @@
 				"id": "http://tai2.micro.blog/2024/08/26/133532.html",
 				
 				"content_html": "<p>大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "大根炒めるステップで時間取られて、30分かかってしまった。美味いけど、ランチには向かないかもしれない。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/af535d437d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T13:35:32+09:00",
 				"url": "https://tweets.tai2.net/2024/08/26/133532.html"
 			},
@@ -6133,7 +6197,7 @@
 				"id": "http://tai2.micro.blog/2024/08/23/124451.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/173347/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"https://tweets.tai2.net/uploads/2024/4334691f05.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-23T12:44:51+09:00",
 				"url": "https://tweets.tai2.net/2024/08/23/124451.html"
 			},
@@ -6167,7 +6231,7 @@
 				"id": "http://tai2.micro.blog/2024/08/21/qol.html",
 				
 				"content_html": "<p>自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "自炊するとちょうどいい辛さのものをいつでも食べられるからQOL上がる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/69c825941e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-21T12:31:04+09:00",
 				"url": "https://tweets.tai2.net/2024/08/21/qol.html"
 			},
@@ -6207,7 +6271,7 @@
 				"id": "http://tai2.micro.blog/2024/08/19/122612.html",
 				
 				"content_html": "<p>中華系の炒め物は13香粉ぶちまければだいたい美味くなる</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "中華系の炒め物は13香粉ぶちまければだいたい美味くなる\n\n<img src=\"https://tweets.tai2.net/uploads/2024/f46d68e6a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-19T12:26:12+09:00",
 				"url": "https://tweets.tai2.net/2024/08/19/122612.html"
 			},
@@ -6231,7 +6295,7 @@
 				"id": "http://tai2.micro.blog/2024/08/17/222234.html",
 				
 				"content_html": "<p>これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/173347/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "これ2週目終わった。会社の英語レッスンで推薦された本。はじめたの3年前くらいかな。著者は3週することを勧めてるけど、もういいや。1週目は、たしかにめちゃくちゃ効果を感じられて、英会話力上がった気がする。2週目はそれほど。まあとにかくやり切った。\n\n<img src=\"https://tweets.tai2.net/uploads/2024/610c8fed0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tweets.tai2.net/uploads/2024/ceba9226e0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-17T22:22:34+09:00",
 				"url": "https://tweets.tai2.net/2024/08/17/222234.html"
 			},
@@ -6376,7 +6440,7 @@
 				"id": "http://tai2.micro.blog/2024/08/13/130449.html",
 				
 				"content_html": "<p>ランチ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ランチ\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "ランチ\n\n<img src=\"https://tweets.tai2.net/uploads/2024/548386a1f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-13T13:04:49+09:00",
 				"url": "https://tweets.tai2.net/2024/08/13/130449.html"
 			},
@@ -6481,7 +6545,7 @@
 				"id": "http://tai2.micro.blog/2024/08/09/104518.html",
 				
 				"content_html": "<p>写真</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "写真\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "写真\n\n<img src=\"https://tweets.tai2.net/uploads/2024/c6fcbd66ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-09T10:45:18+09:00",
 				"url": "https://tweets.tai2.net/2024/08/09/104518.html"
 			},
