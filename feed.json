@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/04/22/system-reminders-how-claude-code.html",
+				
+				"content_html": "<p>System reminders - how Claude Code steers itself <a href=\"https://michaellivs.com/blog/system-reminders-steering-agents/\">michaellivs.com/blog/syst&hellip;</a></p>\n",
+				"content_text": "System reminders - how Claude Code steers itself [michaellivs.com/blog/syst...](https://michaellivs.com/blog/system-reminders-steering-agents/)\n",
+				"date_published": "2026-04-22T17:23:00+09:00",
+				"url": "https://tweets.tai2.net/2026/04/22/system-reminders-how-claude-code.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/20/inside-githubs-fake-star-economy.html",
+				
+				"content_html": "<p><a href=\"https://awesomeagents.ai/news/github-fake-stars-investigation/\">Inside GitHub&rsquo;s Fake Star Economy | Awesome Agents</a></p>\n",
+				"content_text": "[Inside GitHub's Fake Star Economy | Awesome Agents](https://awesomeagents.ai/news/github-fake-stars-investigation/)\n",
+				"date_published": "2026-04-20T19:20:49+09:00",
+				"url": "https://tweets.tai2.net/2026/04/20/inside-githubs-fake-star-economy.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/20/stop-trying-to-engineer-your.html",
+				
+				"content_html": "<p><a href=\"https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/\">Stop trying to engineer your way out of listening to people</a></p>\n",
+				"content_text": "[Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)\n",
+				"date_published": "2026-04-20T15:01:39+09:00",
+				"url": "https://tweets.tai2.net/2026/04/20/stop-trying-to-engineer-your.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/20/everything-is-a-ralph-loop.html",
+				
+				"content_html": "<p>everything is a ralph loop <a href=\"https://ghuntley.com/loop/\">ghuntley.com/loop/</a></p>\n",
+				"content_text": "everything is a ralph loop [ghuntley.com/loop/](https://ghuntley.com/loop/)\n",
+				"date_published": "2026-04-20T13:27:25+09:00",
+				"url": "https://tweets.tai2.net/2026/04/20/everything-is-a-ralph-loop.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/04/20/114935.html",
+				
+				"content_html": "<p>ハーネスエンジニアリング：エージェントファーストの世界における Codex の活用 | OpenAI <a href=\"https://openai.com/ja-JP/index/harness-engineering/\">openai.com/ja-JP/ind&hellip;</a></p>\n",
+				"content_text": "ハーネスエンジニアリング：エージェントファーストの世界における Codex の活用 | OpenAI [openai.com/ja-JP/ind...](https://openai.com/ja-JP/index/harness-engineering/)\n",
+				"date_published": "2026-04-20T11:49:35+09:00",
+				"url": "https://tweets.tai2.net/2026/04/20/114935.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/04/20/ai-httpszenndevnttdatatecharticlesaaff.html",
 				
 				"content_html": "<p>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ <a href=\"https://zenn.dev/nttdata_tech/articles/8a010aff542625\">zenn.dev/nttdata_t&hellip;</a></p>\n",
