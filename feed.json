@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/05/what-im-hearing-about-cognitive.html",
+				
+				"content_html": "<p><a href=\"https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/\">What I’m Hearing About Cognitive Debt (So Far)</a></p>\n",
+				"content_text": "[What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)\n",
+				"date_published": "2026-05-05T12:01:55+09:00",
+				"url": "https://tweets.tai2.net/2026/05/05/what-im-hearing-about-cognitive.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/04/xray-vision-firefox-source-docs.html",
+				
+				"content_html": "<p>Xray Vision — Firefox Source Docs documentation <a href=\"https://firefox-source-docs.mozilla.org/dom/scriptSecurity/xray_vision.html\">firefox-source-docs.mozilla.org/dom/scrip&hellip;</a></p>\n",
+				"content_text": "Xray Vision — Firefox Source Docs documentation [firefox-source-docs.mozilla.org/dom/scrip...](https://firefox-source-docs.mozilla.org/dom/scriptSecurity/xray_vision.html)\n",
+				"date_published": "2026-05-04T11:15:11+09:00",
+				"url": "https://tweets.tai2.net/2026/05/04/xray-vision-firefox-source-docs.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/03/googlehigh-qualitygood-designandroid.html",
+				
+				"content_html": "<p>googleがhigh qualityでgood designのコード&hellip;Androidの事を思うと眉間に皺が寄ってしまうなあ。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "googleがhigh qualityでgood designのコード...Androidの事を思うと眉間に皺が寄ってしまうなあ。\n\n<img src=\"uploads/2026/ed90aaf1f5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-03T22:23:58+09:00",
+				"url": "https://tweets.tai2.net/2026/05/03/googlehigh-qualitygood-designandroid.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/03/b.html",
 				
 				"content_html": "<p>ここまで来た。残るはB2のみ。</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +66,7 @@
 				"id": "http://tai2.micro.blog/2026/05/02/a-tactical-tornade.html",
 				
 				"content_html": "<p>a tactical tornade吹いた。あの人よ！あの人！！！</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "a tactical tornade吹いた。あの人よ！あの人！！！\n\n<img src=\"uploads/2026/84e3f614fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "a tactical tornade吹いた。あの人よ！あの人！！！\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/84e3f614fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-02T16:07:06+09:00",
 				"url": "https://tweets.tai2.net/2026/05/02/a-tactical-tornade.html"
 			},
