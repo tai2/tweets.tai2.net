@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/07/100024.html",
+				
+				"content_html": "<p>むーん、どうも昔ながらのWindowsのみで使えるe-Taxソフトと、スマホから使える便利なe-Taxアプリでは機能(提出できる書類)に差があるっぽく「個人事業の開業届出・廃業届出等手続」はe-Taxソフトじゃないとできないっぽい…この間Windows壊れてしまったのでe-Taxソフト使えんのよな…あとmacでもSafariから使えるなんかe-Taxのサービスがあるんだけど、それもなんか動かない。税務署いくしかないか…。</p>\n<p><a href=\"https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/04.htm\">www.nta.go.jp/taxes/tet&hellip;</a></p>\n",
+				"content_text": "むーん、どうも昔ながらのWindowsのみで使えるe-Taxソフトと、スマホから使える便利なe-Taxアプリでは機能(提出できる書類)に差があるっぽく「個人事業の開業届出・廃業届出等手続」はe-Taxソフトじゃないとできないっぽい…この間Windows壊れてしまったのでe-Taxソフト使えんのよな…あとmacでもSafariから使えるなんかe-Taxのサービスがあるんだけど、それもなんか動かない。税務署いくしかないか…。\n\n[www.nta.go.jp/taxes/tet...](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/04.htm)\n",
+				"date_published": "2026-05-07T10:00:24+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/100024.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/05/ai-doesnt-replace-engineering-discipline.html",
+				
+				"content_html": "<p><a href=\"https://www.linkedin.com/pulse/ai-doesnt-replace-engineering-discipline-rewards-michael-w%C3%BCrsch-vxa6e/?trackingId=oeXISV30PWkxmfwhACjUug%3D%3D\">AI Doesn&rsquo;t Replace Engineering Discipline. It Rewards It.</a></p>\n",
+				"content_text": "[AI Doesn't Replace Engineering Discipline. It Rewards It.](https://www.linkedin.com/pulse/ai-doesnt-replace-engineering-discipline-rewards-michael-w%C3%BCrsch-vxa6e/?trackingId=oeXISV30PWkxmfwhACjUug%3D%3D)\n",
+				"date_published": "2026-05-05T18:32:08+09:00",
+				"url": "https://tweets.tai2.net/2026/05/05/ai-doesnt-replace-engineering-discipline.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/05/ai-fatigue-is-real-and.html",
+				
+				"content_html": "<p><a href=\"https://siddhantkhare.com/writing/ai-fatigue-is-real\">AI fatigue is real and nobody talks about it · Siddhant Khare</a></p>\n",
+				"content_text": "[AI fatigue is real and nobody talks about it · Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)\n",
+				"date_published": "2026-05-05T12:30:14+09:00",
+				"url": "https://tweets.tai2.net/2026/05/05/ai-fatigue-is-real-and.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/05/fragments-february.html",
+				
+				"content_html": "<p><a href=\"https://martinfowler.com/fragments/2026-02-13.html\">Fragments: February 13</a></p>\n",
+				"content_text": "[Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)\n",
+				"date_published": "2026-05-05T12:03:51+09:00",
+				"url": "https://tweets.tai2.net/2026/05/05/fragments-february.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/05/what-im-hearing-about-cognitive.html",
 				
 				"content_html": "<p><a href=\"https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/\">What I’m Hearing About Cognitive Debt (So Far)</a></p>\n",
@@ -34,7 +66,7 @@
 				"id": "http://tai2.micro.blog/2026/05/03/b.html",
 				
 				"content_html": "<p>ここまで来た。残るはB2のみ。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ここまで来た。残るはB2のみ。\n\n<img src=\"uploads/2026/5a6460c907.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "ここまで来た。残るはB2のみ。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/5a6460c907.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-03T20:15:09+09:00",
 				"url": "https://tweets.tai2.net/2026/05/03/b.html"
 			},
