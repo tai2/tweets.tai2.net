@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
+				
+				"content_html": "<p><a href=\"https://bsuh.bearblog.dev/agents-need-control-flow/\">agents need control flow, not more prompts | brian’s thoughts</a></p>\n",
+				"content_text": "[agents need control flow, not more prompts | brian’s thoughts](https://bsuh.bearblog.dev/agents-need-control-flow/)\n",
+				"date_published": "2026-05-08T11:13:45+09:00",
+				"url": "https://tweets.tai2.net/2026/05/08/agents-need-control-flow-not.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/120438.html",
+				
+				"content_html": "<p>間違いなく潜在的にとんでもなく効率化の余地があると思うけど、どこから手をつけるかというか、なにが問題なのか見当もつかない。</p>\n",
+				"content_text": "間違いなく潜在的にとんでもなく効率化の余地があると思うけど、どこから手をつけるかというか、なにが問題なのか見当もつかない。\n",
+				"date_published": "2026-05-07T12:04:38+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/120438.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/115819.html",
+				
+				"content_html": "<p>ほほん。まあ言われてみればだけど、徴税側よりも納税側のほうが圧倒的に多く負担してるのね。</p>\n",
+				"content_text": "ほほん。まあ言われてみればだけど、徴税側よりも納税側のほうが圧倒的に多く負担してるのね。\n",
+				"date_published": "2026-05-07T11:58:19+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/115819.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/claude-httpsclaudeaishareffacaaeeafbc.html",
+				
+				"content_html": "<p>Claudeによる簡単な調査\n<a href=\"https://claude.ai/share/ff6a69c4-15aa-4ee9-a942-f63621941b8c\">claude.ai/share/ff6&hellip;</a></p>\n",
+				"content_text": "Claudeによる簡単な調査\n[claude.ai/share/ff6...](https://claude.ai/share/ff6a69c4-15aa-4ee9-a942-f63621941b8c)\n",
+				"date_published": "2026-05-07T11:53:02+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/claude-httpsclaudeaishareffacaaeeafbc.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/autifybpml.html",
+				
+				"content_html": "<p>税務署に来たり、納税に係る業務を行なったりすると、あきらかにとんでもなく複雑なシステムを構築して運用してることがすぐにわかる。以前、Autifyのサポート業務に関するBPMLを書いてフローを可視化したことがあったけど、あの程度の規模の事業でもとんでもなく複雑に見えた。国税はその比ではないはずなので、記述することが困難なレベルだろう。究極的には、お金の動きと種類を把握して徴税を行うというのが業務になると思うけど、それを実施するための人、物、ルールを含めたシステム全体は途方もない規模になる。究極の目的は税収なので、そのために必要な費用を「オーバーベッド」(税効率?)と考えることができる。このオーバーベッドは税収のなん%くらいなんだろう。これには、徴収する側だけではく、払う側のコストも含める必要があると思う。だから税理士の得ている収入とかも含まれる。</p>\n",
+				"content_text": "税務署に来たり、納税に係る業務を行なったりすると、あきらかにとんでもなく複雑なシステムを構築して運用してることがすぐにわかる。以前、Autifyのサポート業務に関するBPMLを書いてフローを可視化したことがあったけど、あの程度の規模の事業でもとんでもなく複雑に見えた。国税はその比ではないはずなので、記述することが困難なレベルだろう。究極的には、お金の動きと種類を把握して徴税を行うというのが業務になると思うけど、それを実施するための人、物、ルールを含めたシステム全体は途方もない規模になる。究極の目的は税収なので、そのために必要な費用を「オーバーベッド」(税効率?)と考えることができる。このオーバーベッドは税収のなん%くらいなんだろう。これには、徴収する側だけではく、払う側のコストも含める必要があると思う。だから税理士の得ている収入とかも含まれる。\n",
+				"date_published": "2026-05-07T11:45:48+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/autifybpml.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/etaxllm.html",
+				
+				"content_html": "<p>e-Taxで扱える書類の種類って何千種類もあるっぽい。一つ一つの要件が仮にそこまで複雑ではなかったとしても、それぞれが実際にどこかしら違う手続きで、それらの違いを品質保証するのだとしたら、それは大変なことだよなあ。まず、その膨大な仕様は個人が把握できるものではないので、組織として各仕様の正当性をその源泉と照らし合わせて確認して、管理する手法を確立した上で、膨大な量となる実際の動的なシステムの品質保証活動を行うと。もしLLMを使えるとして、もちろん効率化できる部分はあるにせよ、どこまでできるもんだろうか。</p>\n",
+				"content_text": "e-Taxで扱える書類の種類って何千種類もあるっぽい。一つ一つの要件が仮にそこまで複雑ではなかったとしても、それぞれが実際にどこかしら違う手続きで、それらの違いを品質保証するのだとしたら、それは大変なことだよなあ。まず、その膨大な仕様は個人が把握できるものではないので、組織として各仕様の正当性をその源泉と照らし合わせて確認して、管理する手法を確立した上で、膨大な量となる実際の動的なシステムの品質保証活動を行うと。もしLLMを使えるとして、もちろん効率化できる部分はあるにせよ、どこまでできるもんだろうか。\n",
+				"date_published": "2026-05-07T10:52:46+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/etaxllm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/07/etaxwebappapple-silicon-macos-tahoe.html",
+				
+				"content_html": "<p>たぶん、&ldquo;e-Taxソフト（WEB版）.app&quot;は、Apple Silicon macOS Tahoeでは動かないんだと思う。ということで、紙でがんばる……</p>\n",
+				"content_text": "たぶん、\"e-Taxソフト（WEB版）.app\"は、Apple Silicon macOS Tahoeでは動かないんだと思う。ということで、紙でがんばる…… \n",
+				"date_published": "2026-05-07T10:06:46+09:00",
+				"url": "https://tweets.tai2.net/2026/05/07/etaxwebappapple-silicon-macos-tahoe.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/07/100024.html",
 				
 				"content_html": "<p>むーん、どうも昔ながらのWindowsのみで使えるe-Taxソフトと、スマホから使える便利なe-Taxアプリでは機能(提出できる書類)に差があるっぽく「個人事業の開業届出・廃業届出等手続」はe-Taxソフトじゃないとできないっぽい…この間Windows壊れてしまったのでe-Taxソフト使えんのよな…あとmacでもSafariから使えるなんかe-Taxのサービスがあるんだけど、それもなんか動かない。税務署いくしかないか…。</p>\n<p><a href=\"https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/04.htm\">www.nta.go.jp/taxes/tet&hellip;</a></p>\n",
@@ -58,7 +114,7 @@
 				"id": "http://tai2.micro.blog/2026/05/03/googlehigh-qualitygood-designandroid.html",
 				
 				"content_html": "<p>googleがhigh qualityでgood designのコード&hellip;Androidの事を思うと眉間に皺が寄ってしまうなあ。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "googleがhigh qualityでgood designのコード...Androidの事を思うと眉間に皺が寄ってしまうなあ。\n\n<img src=\"uploads/2026/ed90aaf1f5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "googleがhigh qualityでgood designのコード...Androidの事を思うと眉間に皺が寄ってしまうなあ。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/ed90aaf1f5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-03T22:23:58+09:00",
 				"url": "https://tweets.tai2.net/2026/05/03/googlehigh-qualitygood-designandroid.html"
 			},
