@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/10/a-recent-experience-with-chatgpt.html",
+				
+				"content_html": "<p>A recent experience with ChatGPT 5.5 Pro | Gowers&rsquo;s Weblog <a href=\"https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/\">gowers.wordpress.com/2026/05/0&hellip;</a></p>\n",
+				"content_text": "A recent experience with ChatGPT 5.5 Pro | Gowers's Weblog [gowers.wordpress.com/2026/05/0...](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)\n",
+				"date_published": "2026-05-10T14:18:38+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/a-recent-experience-with-chatgpt.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/syllable.html",
+				
+				"content_html": "<p>ほんとだー。syllableに着目すると簡単に聞き分けられる!!</p>\n",
+				"content_text": "ほんとだー。syllableに着目すると簡単に聞き分けられる!!\n",
+				"date_published": "2026-05-09T14:00:14+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/syllable.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/135125.html",
+				
+				"content_html": "<p>なるほどおもしろい</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "なるほどおもしろい\n\n<img src=\"uploads/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-09T13:51:25+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
 				
 				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
