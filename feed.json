@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/12/071818.html",
+				
+				"content_html": "<p>家での飲酒禁止チャレンジ再開するか&hellip;</p>\n",
+				"content_text": "家での飲酒禁止チャレンジ再開するか...\n",
+				"date_published": "2026-05-12T07:18:18+09:00",
+				"url": "https://tweets.tai2.net/2026/05/12/071818.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/11/im-going-back-to-writing.html",
+				
+				"content_html": "<p><a href=\"https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\">Im going back to writing code by hand | k10s devlog</a></p>\n",
+				"content_text": "[Im going back to writing code by hand | k10s devlog](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)\n",
+				"date_published": "2026-05-11T12:15:40+09:00",
+				"url": "https://tweets.tai2.net/2026/05/11/im-going-back-to-writing.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/11/running-local-models-on-an.html",
+				
+				"content_html": "<p><a href=\"https://jola.dev/posts/running-local-models-on-m4\">Running local models on an M4 with 24GB memory | jola.dev</a></p>\n",
+				"content_text": "[Running local models on an M4 with 24GB memory | jola.dev](https://jola.dev/posts/running-local-models-on-m4)\n",
+				"date_published": "2026-05-11T12:15:18+09:00",
+				"url": "https://tweets.tai2.net/2026/05/11/running-local-models-on-an.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/11/why-modern-parents-feel-more.html",
+				
+				"content_html": "<p><a href=\"https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep\">Why modern parents feel more sleep deprived than our ancestors did</a></p>\n",
+				"content_text": "[Why modern parents feel more sleep deprived than our ancestors did](https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep)\n",
+				"date_published": "2026-05-11T07:20:38+09:00",
+				"url": "https://tweets.tai2.net/2026/05/11/why-modern-parents-feel-more.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/10/idempotency-is-easy-until-the.html",
+				
+				"content_html": "<p><a href=\"https://blog.dochia.dev/blog/idempotency/\">Idempotency Is Easy Until the Second Request Is Different | <!-- raw HTML omitted -->Dochia<!-- raw HTML omitted --> CLI Blog</a></p>\n",
+				"content_text": "[Idempotency Is Easy Until the Second Request Is Different | <span class=\"text-terminal-purple\">Dochia</span> CLI Blog](https://blog.dochia.dev/blog/idempotency/)\n",
+				"date_published": "2026-05-10T19:43:02+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/idempotency-is-easy-until-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/10/154445.html",
+				
+				"content_html": "<p>facebookとかinstagramのDOM見てわかったけど、HTMLの要素というのは、paintされないと、本質的にその意味や役割がわからないものなんだなあ。スタイルシート抜きでわかることがあっても、それは偶然。accessibility treeはaccessibility treeとしてもちろんあるんだけど、視覚的表現とはかなり異なってて、だいぶ要素が削り取られてる。本質っぽいものしか残ってなさそうな感じだった。それはまあ理解できる。あんなゴチャゴチャしたものぜんぶをaccessibility treeに詰め込んでもたぶん意味不明になるだけなんだろう。</p>\n",
+				"content_text": "facebookとかinstagramのDOM見てわかったけど、HTMLの要素というのは、paintされないと、本質的にその意味や役割がわからないものなんだなあ。スタイルシート抜きでわかることがあっても、それは偶然。accessibility treeはaccessibility treeとしてもちろんあるんだけど、視覚的表現とはかなり異なってて、だいぶ要素が削り取られてる。本質っぽいものしか残ってなさそうな感じだった。それはまあ理解できる。あんなゴチャゴチャしたものぜんぶをaccessibility treeに詰め込んでもたぶん意味不明になるだけなんだろう。\n",
+				"date_published": "2026-05-10T15:44:45+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/154445.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/10/view-transition-api-web-apis.html",
+				
+				"content_html": "<p>View Transition API - Web APIs | MDN <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API\">developer.mozilla.org/en-US/doc&hellip;</a></p>\n<p>へー、こんなのあったんだ…</p>\n",
+				"content_text": "View Transition API - Web APIs | MDN [developer.mozilla.org/en-US/doc...](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)\n\nへー、こんなのあったんだ…\n",
+				"date_published": "2026-05-10T15:36:27+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/view-transition-api-web-apis.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/10/llmtypo.html",
+				
+				"content_html": "<p>LLMがおれのtypoをちゃんと読み取って正しく訂正してくれると、なんか「すまねえな…」って気持ちになりますね</p>\n",
+				"content_text": "LLMがおれのtypoをちゃんと読み取って正しく訂正してくれると、なんか「すまねえな…」って気持ちになりますね\n",
+				"date_published": "2026-05-10T14:56:21+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/llmtypo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/10/flash-of-unstyled-content-wikipedia.html",
+				
+				"content_html": "<p>Flash of unstyled content - Wikipedia <a href=\"https://en.wikipedia.org/wiki/Flash_of_unstyled_content\">en.wikipedia.org/wiki/Flas&hellip;</a></p>\n",
+				"content_text": "Flash of unstyled content - Wikipedia [en.wikipedia.org/wiki/Flas...](https://en.wikipedia.org/wiki/Flash_of_unstyled_content)\n",
+				"date_published": "2026-05-10T14:42:55+09:00",
+				"url": "https://tweets.tai2.net/2026/05/10/flash-of-unstyled-content-wikipedia.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/10/a-recent-experience-with-chatgpt.html",
 				
 				"content_html": "<p>A recent experience with ChatGPT 5.5 Pro | Gowers&rsquo;s Weblog <a href=\"https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/\">gowers.wordpress.com/2026/05/0&hellip;</a></p>\n",
@@ -26,7 +98,7 @@
 				"id": "http://tai2.micro.blog/2026/05/09/135125.html",
 				
 				"content_html": "<p>なるほどおもしろい</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "なるほどおもしろい\n\n<img src=\"uploads/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
 			},
