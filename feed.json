@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/14/203909.html",
+				
+				"content_html": "<p>最近は「今日のニュース」っていうクエリで世間の動向を把握してる。過去いろいろニュースをまとめるためのサービスがあったけど、もうこれで、いい。</p>\n",
+				"content_text": "最近は「今日のニュース」っていうクエリで世間の動向を把握してる。過去いろいろニュースをまとめるためのサービスがあったけど、もうこれで、いい。\n",
+				"date_published": "2026-05-14T20:39:09+09:00",
+				"url": "https://tweets.tai2.net/2026/05/14/203909.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/13/how-to-make-your-text.html",
 				
 				"content_html": "<p><a href=\"https://typesetinthefuture.com/2016/02/18/futuristic/\">How To Make Your Text Look Futuristic | Typeset In The Future</a></p>\n",
@@ -109,6 +117,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
