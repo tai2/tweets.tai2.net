@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/21/yann-lecuns-ami-labs-raises.html",
+				
+				"content_html": "<p>Yann LeCun&rsquo;s AMI Labs raises $1.03B to build world models | TechCrunch <a href=\"https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/\">techcrunch.com/2026/03/0&hellip;</a></p>\n",
+				"content_text": "Yann LeCun's AMI Labs raises $1.03B to build world models | TechCrunch [techcrunch.com/2026/03/0...](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)\n",
+				"date_published": "2026-05-21T09:55:18+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/yann-lecuns-ami-labs-raises.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/20/everything-in-c-is-undefined.html",
+				
+				"content_html": "<p><a href=\"https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\">Everything in C is undefined behavior</a></p>\n",
+				"content_text": "[Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)\n",
+				"date_published": "2026-05-20T22:11:52+09:00",
+				"url": "https://tweets.tai2.net/2026/05/20/everything-in-c-is-undefined.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/20/174632.html",
+				
+				"content_html": "<p>Using logprobs <a href=\"https://developers.openai.com/cookbook/examples/using_logprobs\">developers.openai.com/cookbook/&hellip;</a></p>\n",
+				"content_text": "Using logprobs [developers.openai.com/cookbook/...](https://developers.openai.com/cookbook/examples/using_logprobs)\n",
+				"date_published": "2026-05-20T17:46:32+09:00",
+				"url": "https://tweets.tai2.net/2026/05/20/174632.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/20/deep-dive-into-llms-like.html",
+				
+				"content_html": "<p>Deep Dive into LLMs like ChatGPT - YouTube <a href=\"https://www.youtube.com/watch?v=7xTGNNLPyMI\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Deep Dive into LLMs like ChatGPT - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=7xTGNNLPyMI)\n",
+				"date_published": "2026-05-20T17:45:38+09:00",
+				"url": "https://tweets.tai2.net/2026/05/20/deep-dive-into-llms-like.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/20/large-language-models-explained-briefly.html",
+				
+				"content_html": "<p>Large Language Models explained briefly - YouTube <a href=\"https://www.youtube.com/watch?v=LPZh9BOjkQs\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Large Language Models explained briefly - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=LPZh9BOjkQs)\n",
+				"date_published": "2026-05-20T17:44:15+09:00",
+				"url": "https://tweets.tai2.net/2026/05/20/large-language-models-explained-briefly.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/20/stanford-cs-language-modeling-from.html",
+				
+				"content_html": "<p>Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 12: Evaluation - YouTube <a href=\"https://www.youtube.com/watch?v=x-R5l2HsXqM\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 12: Evaluation - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=x-R5l2HsXqM)\n",
+				"date_published": "2026-05-20T17:22:19+09:00",
+				"url": "https://tweets.tai2.net/2026/05/20/stanford-cs-language-modeling-from.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/20/the-virtual-os-museum-httpsvirtualosmuseumorg.html",
 				
 				"content_html": "<p>The Virtual OS Museum <a href=\"https://virtualosmuseum.org/\">virtualosmuseum.org</a></p>\n",
@@ -18,7 +66,7 @@
 				"id": "http://tai2.micro.blog/2026/05/17/microservices.html",
 				
 				"content_html": "<p>microservicesでもまったく同様のことが言えるし、その弊害はおそらくはるかに大きい</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "microservicesでもまったく同様のことが言えるし、その弊害はおそらくはるかに大きい\n\n<img src=\"uploads/2026/3990f18c0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "microservicesでもまったく同様のことが言えるし、その弊害はおそらくはるかに大きい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/3990f18c0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-17T14:18:42+09:00",
 				"url": "https://tweets.tai2.net/2026/05/17/microservices.html"
 			},
@@ -34,7 +82,7 @@
 				"id": "http://tai2.micro.blog/2026/05/17/two-vowel-rulealphabet-vowel-soundone.html",
 				
 				"content_html": "<p>two vowel rule(alphabet vowel sound)とone vowel rule(relative vowel sound)が機能することがよくわかる例</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "two vowel rule(alphabet vowel sound)とone vowel rule(relative vowel sound)が機能することがよくわかる例\n\n<img src=\"uploads/2026/984605aef0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "two vowel rule(alphabet vowel sound)とone vowel rule(relative vowel sound)が機能することがよくわかる例\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/984605aef0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-17T10:49:33+09:00",
 				"url": "https://tweets.tai2.net/2026/05/17/two-vowel-rulealphabet-vowel-soundone.html"
 			},
@@ -157,14 +205,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
