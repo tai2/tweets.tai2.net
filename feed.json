@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/22/the-illustrated-transformer-jay-alammar.html",
+				
+				"content_html": "<p>The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time. <a href=\"https://jalammar.github.io/illustrated-transformer/\">jalammar.github.io/illustrat&hellip;</a></p>\n",
+				"content_text": "The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time. [jalammar.github.io/illustrat...](https://jalammar.github.io/illustrated-transformer/)\n",
+				"date_published": "2026-05-22T10:35:10+09:00",
+				"url": "https://tweets.tai2.net/2026/05/22/the-illustrated-transformer-jay-alammar.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/21/the-birth-death-of-javascript.html",
+				
+				"content_html": "<p><a href=\"https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript\">The Birth &amp; Death of JavaScript</a></p>\n",
+				"content_text": "[The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)\n",
+				"date_published": "2026-05-21T21:33:18+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/the-birth-death-of-javascript.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/21/web-world-models-how-ai.html",
+				
+				"content_html": "<p>Web World Models: How AI Agents Work <a href=\"https://www.turingpost.com/p/wwm\">www.turingpost.com/p/wwm</a></p>\n",
+				"content_text": "Web World Models: How AI Agents Work [www.turingpost.com/p/wwm](https://www.turingpost.com/p/wwm)\n",
+				"date_published": "2026-05-21T16:52:29+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/web-world-models-how-ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/21/lejepa-provable-selfsupervised-learning-explained.html",
+				
+				"content_html": "<p>LeJEPA: Provable Self-Supervised Learning Explained <a href=\"https://www.turingpost.com/p/lejepa\">www.turingpost.com/p/lejepa</a></p>\n",
+				"content_text": "LeJEPA: Provable Self-Supervised Learning Explained [www.turingpost.com/p/lejepa](https://www.turingpost.com/p/lejepa)\n",
+				"date_published": "2026-05-21T16:50:42+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/lejepa-provable-selfsupervised-learning-explained.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/21/fineweb-decanting-the-web-for.html",
+				
+				"content_html": "<p>FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW <a href=\"https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1\">huggingface.co/spaces/Hu&hellip;</a></p>\n",
+				"content_text": "FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW [huggingface.co/spaces/Hu...](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)\n",
+				"date_published": "2026-05-21T16:26:58+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/fineweb-decanting-the-web-for.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/21/how-we-cut-the-rate.html",
+				
+				"content_html": "<p>How we cut the rate of GPT hallucinations from 20%+ to less than 2% | by Jason Fan | Medium <a href=\"https://jfan001.medium.com/how-we-cut-the-rate-of-gpt-hallucinations-from-20-to-less-than-2-f3bfcc10e4ec\">jfan001.medium.com/how-we-cu&hellip;</a></p>\n",
+				"content_text": "How we cut the rate of GPT hallucinations from 20%+ to less than 2% | by Jason Fan | Medium [jfan001.medium.com/how-we-cu...](https://jfan001.medium.com/how-we-cut-the-rate-of-gpt-hallucinations-from-20-to-less-than-2-f3bfcc10e4ec)\n",
+				"date_published": "2026-05-21T11:22:47+09:00",
+				"url": "https://tweets.tai2.net/2026/05/21/how-we-cut-the-rate.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/21/yann-lecuns-ami-labs-raises.html",
 				
 				"content_html": "<p>Yann LeCun&rsquo;s AMI Labs raises $1.03B to build world models | TechCrunch <a href=\"https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/\">techcrunch.com/2026/03/0&hellip;</a></p>\n",
