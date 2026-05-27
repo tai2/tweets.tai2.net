@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/28/antipatterns-in-event-modelling-passiveaggressive.html",
+				
+				"content_html": "<p><a href=\"https://event-driven.io/en/passive_aggressive_events/\">Anti-patterns in event modelling - Passive-Aggressive Events - Event-Driven.io</a></p>\n",
+				"content_text": "[Anti-patterns in event modelling - Passive-Aggressive Events - Event-Driven.io](https://event-driven.io/en/passive_aggressive_events/)\n",
+				"date_published": "2026-05-28T07:43:18+09:00",
+				"url": "https://tweets.tai2.net/2026/05/28/antipatterns-in-event-modelling-passiveaggressive.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/27/the-forgotten-art-of-the.html",
+				
+				"content_html": "<p><a href=\"https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/\">The Forgotten Art of the LAN Party</a></p>\n",
+				"content_text": "[The Forgotten Art of the LAN Party](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)\n",
+				"date_published": "2026-05-27T17:59:12+09:00",
+				"url": "https://tweets.tai2.net/2026/05/27/the-forgotten-art-of-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/27/leaderboard-httpsarenaaileaderboardtextrankbylabs.html",
+				
+				"content_html": "<p>Leaderboard\n<a href=\"https://arena.ai/leaderboard/text?rankBy=labs\">arena.ai/leaderboa&hellip;</a></p>\n",
+				"content_text": "Leaderboard\n[arena.ai/leaderboa...](https://arena.ai/leaderboard/text?rankBy=labs)\n",
+				"date_published": "2026-05-27T00:07:22+09:00",
+				"url": "https://tweets.tai2.net/2026/05/27/leaderboard-httpsarenaaileaderboardtextrankbylabs.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/26/213428.html",
+				
+				"content_html": "<p>そして同時に強化学習の限界もわかった</p>\n",
+				"content_text": "そして同時に強化学習の限界もわかった\n",
+				"date_published": "2026-05-26T21:34:28+09:00",
+				"url": "https://tweets.tai2.net/2026/05/26/213428.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/26/llm.html",
 				
 				"content_html": "<p>LLMは強化学習のパワーのおかげで人間より賢くなれたんやなあ</p>\n",
@@ -26,7 +58,7 @@
 				"id": "http://tai2.micro.blog/2026/05/25/llm.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>LLMがこのように、ずばり答を言うのではなく過程から回答するのは、トークンに渡って推論を分散するためであって、ユーザーが読み易くするためとかではない。訓練時にそういうフォーマットで回答するように学習している。</p>\n",
-				"content_text": "<img src=\"uploads/2026/da7ad4e146.png\" alt=\"\">\n\nLLMがこのように、ずばり答を言うのではなく過程から回答するのは、トークンに渡って推論を分散するためであって、ユーザーが読み易くするためとかではない。訓練時にそういうフォーマットで回答するように学習している。\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/173347/2026/da7ad4e146.png\" alt=\"\">\n\nLLMがこのように、ずばり答を言うのではなく過程から回答するのは、トークンに渡って推論を分散するためであって、ユーザーが読み易くするためとかではない。訓練時にそういうフォーマットで回答するように学習している。\n",
 				"date_published": "2026-05-25T14:21:56+09:00",
 				"url": "https://tweets.tai2.net/2026/05/25/llm.html"
 			},
