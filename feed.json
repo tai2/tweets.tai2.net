@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/29/various-llm-smells-shiv-after.html",
+				
+				"content_html": "<p><a href=\"https://shvbsle.in/various-llm-smells/\">Various LLM smells | Shiv After Dark</a></p>\n",
+				"content_text": "[Various LLM smells | Shiv After Dark](https://shvbsle.in/various-llm-smells/)\n",
+				"date_published": "2026-05-29T08:01:35+09:00",
+				"url": "https://tweets.tai2.net/2026/05/29/various-llm-smells-shiv-after.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/28/agent-safehouse-httpsagentsafehousedev.html",
+				
+				"content_html": "<p>Agent Safehouse <a href=\"https://agent-safehouse.dev/\">agent-safehouse.dev</a></p>\n",
+				"content_text": "Agent Safehouse [agent-safehouse.dev](https://agent-safehouse.dev/)\n",
+				"date_published": "2026-05-28T11:28:13+09:00",
+				"url": "https://tweets.tai2.net/2026/05/28/agent-safehouse-httpsagentsafehousedev.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/28/antipatterns-in-event-modelling-passiveaggressive.html",
 				
 				"content_html": "<p><a href=\"https://event-driven.io/en/passive_aggressive_events/\">Anti-patterns in event modelling - Passive-Aggressive Events - Event-Driven.io</a></p>\n",
@@ -357,6 +373,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
