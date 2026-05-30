@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/05/30/all-of-the-vowel-sounds.html",
+				
+				"content_html": "<blockquote>\n<p>All of the vowel sounds in English can be reduced to schwa</p>\n</blockquote>\n<blockquote>\n<p>Schwa is the most common vowel sound in English</p>\n</blockquote>\n<p>あ、そうなんだ。</p>\n",
+				"content_text": "> All of the vowel sounds in English can be reduced to schwa\n\n> Schwa is the most common vowel sound in English\n\nあ、そうなんだ。\n",
+				"date_published": "2026-05-30T11:11:37+09:00",
+				"url": "https://tweets.tai2.net/2026/05/30/all-of-the-vowel-sounds.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/29/jamie-hursts-blog-is-this.html",
+				
+				"content_html": "<p><a href=\"https://jamiehurst.co.uk/2026-05-24_ai-sustainable\">Jamie Hurst&rsquo;s Blog - Is this sustainable?</a></p>\n",
+				"content_text": "[Jamie Hurst's Blog - Is this sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)\n",
+				"date_published": "2026-05-29T21:33:10+09:00",
+				"url": "https://tweets.tai2.net/2026/05/29/jamie-hursts-blog-is-this.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/29/various-llm-smells-shiv-after.html",
 				
 				"content_html": "<p><a href=\"https://shvbsle.in/various-llm-smells/\">Various LLM smells | Shiv After Dark</a></p>\n",
@@ -373,14 +389,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
