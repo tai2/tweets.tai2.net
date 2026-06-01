@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/02/remote-work-not-ai-has.html",
+				
+				"content_html": "<blockquote>\n<p>Remote work, not AI, has sidelined younger workers, research finds</p>\n</blockquote>\n<p><a href=\"https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai\">www.npr.org/2026/06/0&hellip;</a></p>\n",
+				"content_text": "> Remote work, not AI, has sidelined younger workers, research finds \n\n[www.npr.org/2026/06/0...](https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai)\n",
+				"date_published": "2026-06-02T07:16:33+09:00",
+				"url": "https://tweets.tai2.net/2026/06/02/remote-work-not-ai-has.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/31/103308.html",
+				
+				"content_html": "<p>え！そうだったの！</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "え！そうだったの！\n\n<img src=\"uploads/2026/b1c6f1d86b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-31T10:33:08+09:00",
+				"url": "https://tweets.tai2.net/2026/05/31/103308.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/31/095812.html",
+				
+				"content_html": "<p>へー、そうなんだ</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "へー、そうなんだ\n\n<img src=\"uploads/2026/d7480cd264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-31T09:58:12+09:00",
+				"url": "https://tweets.tai2.net/2026/05/31/095812.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/30/ai-and-bots-have-officially.html",
+				
+				"content_html": "<p><a href=\"https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html\">AI and bots have officially taken over the internet, report finds</a></p>\n",
+				"content_text": "[AI and bots have officially taken over the internet, report finds](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)\n",
+				"date_published": "2026-05-30T12:46:50+09:00",
+				"url": "https://tweets.tai2.net/2026/05/30/ai-and-bots-have-officially.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/30/the-dead-economy-theory-by.html",
+				
+				"content_html": "<p><a href=\"https://www.owenmcgrann.com/p/the-dead-economy-theory\">The Dead Economy Theory - by Owen McGrann - The Palimpsest</a></p>\n",
+				"content_text": "[The Dead Economy Theory - by Owen McGrann - The Palimpsest](https://www.owenmcgrann.com/p/the-dead-economy-theory)\n",
+				"date_published": "2026-05-30T12:26:32+09:00",
+				"url": "https://tweets.tai2.net/2026/05/30/the-dead-economy-theory-by.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/30/americaaischwa.html",
+				
+				"content_html": "<p>いまさらながら、Americaの最初のAとiって発音同じ(両方Schwa)なのか。</p>\n",
+				"content_text": "いまさらながら、Americaの最初のAとiって発音同じ(両方Schwa)なのか。\n",
+				"date_published": "2026-05-30T11:17:04+09:00",
+				"url": "https://tweets.tai2.net/2026/05/30/americaaischwa.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/05/30/all-of-the-vowel-sounds.html",
 				
 				"content_html": "<blockquote>\n<p>All of the vowel sounds in English can be reduced to schwa</p>\n</blockquote>\n<blockquote>\n<p>Schwa is the most common vowel sound in English</p>\n</blockquote>\n<p>あ、そうなんだ。</p>\n",
@@ -389,6 +437,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
