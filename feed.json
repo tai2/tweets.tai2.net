@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/03/youtubellm.html",
+				
+				"content_html": "<p>YouTubeの知識系チャンネルを見るよりもLLMと会話してる方がおもしろい可能性がある</p>\n",
+				"content_text": "YouTubeの知識系チャンネルを見るよりもLLMと会話してる方がおもしろい可能性がある\n",
+				"date_published": "2026-06-03T22:25:25+09:00",
+				"url": "https://tweets.tai2.net/2026/06/03/youtubellm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/02/210025.html",
+				
+				"content_html": "<p><a href=\"https://github.com/ahegazy0/linux-basics-for-hackers-notes\">GitHub - ahegazy0/linux-basics-for-hackers-notes: A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb. · GitHub</a></p>\n",
+				"content_text": "[GitHub - ahegazy0/linux-basics-for-hackers-notes: A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb. · GitHub](https://github.com/ahegazy0/linux-basics-for-hackers-notes)\n",
+				"date_published": "2026-06-02T21:00:25+09:00",
+				"url": "https://tweets.tai2.net/2026/06/02/210025.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/02/180348.html",
+				
+				"content_html": "<p>なんかあまりよくない噂が流れてきた。潮時か&hellip;。</p>\n",
+				"content_text": "なんかあまりよくない噂が流れてきた。潮時か...。\n",
+				"date_published": "2026-06-02T18:03:48+09:00",
+				"url": "https://tweets.tai2.net/2026/06/02/180348.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/02/074607.html",
+				
+				"content_html": "<p>リモートワークによる会社にとっての不利な点として、従業員間のコミュニケーションが不十分になるというのはよく言われるし実際そうだと思うけど、若手を雇いづらくなるというのも加えてあるか。若手を雇えない会社は、従業員の獲得がしづらいし、長期的になんとなく不健全ぽい気はする。</p>\n",
+				"content_text": "リモートワークによる会社にとっての不利な点として、従業員間のコミュニケーションが不十分になるというのはよく言われるし実際そうだと思うけど、若手を雇いづらくなるというのも加えてあるか。若手を雇えない会社は、従業員の獲得がしづらいし、長期的になんとなく不健全ぽい気はする。\n",
+				"date_published": "2026-06-02T07:46:07+09:00",
+				"url": "https://tweets.tai2.net/2026/06/02/074607.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/06/02/remote-work-not-ai-has.html",
 				
 				"content_html": "<blockquote>\n<p>Remote work, not AI, has sidelined younger workers, research finds</p>\n</blockquote>\n<p><a href=\"https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai\">www.npr.org/2026/06/0&hellip;</a></p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://tai2.micro.blog/2026/05/31/103308.html",
 				
 				"content_html": "<p>え！そうだったの！</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "え！そうだったの！\n\n<img src=\"uploads/2026/b1c6f1d86b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "え！そうだったの！\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/b1c6f1d86b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-31T10:33:08+09:00",
 				"url": "https://tweets.tai2.net/2026/05/31/103308.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://tai2.micro.blog/2026/05/31/095812.html",
 				
 				"content_html": "<p>へー、そうなんだ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "へー、そうなんだ\n\n<img src=\"uploads/2026/d7480cd264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "へー、そうなんだ\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/d7480cd264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-31T09:58:12+09:00",
 				"url": "https://tweets.tai2.net/2026/05/31/095812.html"
 			},
