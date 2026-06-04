@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/05/ians-shoelace-site-ians-secure.html",
+				
+				"content_html": "<p><a href=\"https://www.fieggen.com/shoelace/secureknot.htm\">Ian&rsquo;s Shoelace Site – Ian&rsquo;s Secure Shoelace Knot</a></p>\n",
+				"content_text": "[Ian's Shoelace Site – Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)\n",
+				"date_published": "2026-06-05T04:39:32+09:00",
+				"url": "https://tweets.tai2.net/2026/06/05/ians-shoelace-site-ians-secure.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/04/093453.html",
+				
+				"content_html": "<p>たぶん、おそらく、こういうことなんだと思う。理解をあきらめることで、いくらでも複雑なものを持ち込める。</p>\n",
+				"content_text": "たぶん、おそらく、こういうことなんだと思う。理解をあきらめることで、いくらでも複雑なものを持ち込める。\n",
+				"date_published": "2026-06-04T09:34:53+09:00",
+				"url": "https://tweets.tai2.net/2026/06/04/093453.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/03/httpswwwbbccomnewsarticlescxkyno.html",
+				
+				"content_html": "<p><a href=\"https://www.bbc.com/news/articles/c93x0k194yno\">www.bbc.com/news/arti&hellip;</a></p>\n<p>みんなの愚痴がおもろい</p>\n",
+				"content_text": "[www.bbc.com/news/arti...](https://www.bbc.com/news/articles/c93x0k194yno)\n\nみんなの愚痴がおもろい\n",
+				"date_published": "2026-06-03T22:50:21+09:00",
+				"url": "https://tweets.tai2.net/2026/06/03/httpswwwbbccomnewsarticlescxkyno.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/06/03/youtubellm.html",
 				
 				"content_html": "<p>YouTubeの知識系チャンネルを見るよりもLLMと会話してる方がおもしろい可能性がある</p>\n",
@@ -469,14 +493,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
