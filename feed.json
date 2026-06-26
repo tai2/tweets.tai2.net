@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/26/httpsatuinsh-atuinctrlrs.html",
+				
+				"content_html": "<p><a href=\"https://atuin.sh/\">atuin.sh</a></p>\n<p>atuinていうの業務のほうのラップトップにだけ導入して、数ヶ月使ってみてるけど、まあ便利は便利なのかもしれないが、導入する複雑さに見合うだけの便益があるのかは微妙なとこだなあ。ときどきシェルの表示がたぶんこれのせいで壊れたりするし。言ったら素のCtrl-R/Sで十分間に合ってるんだよなあ…。</p>\n",
+				"content_text": "[atuin.sh](https://atuin.sh/)\n\natuinていうの業務のほうのラップトップにだけ導入して、数ヶ月使ってみてるけど、まあ便利は便利なのかもしれないが、導入する複雑さに見合うだけの便益があるのかは微妙なとこだなあ。ときどきシェルの表示がたぶんこれのせいで壊れたりするし。言ったら素のCtrl-R/Sで十分間に合ってるんだよなあ…。\n",
+				"date_published": "2026-06-26T09:22:48+09:00",
+				"url": "https://tweets.tai2.net/2026/06/26/httpsatuinsh-atuinctrlrs.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/25/the-map-jerrys-map.html",
+				
+				"content_html": "<p><a href=\"https://www.jerrysmap.com/the-map\">The Map — Jerry&rsquo;s Map</a></p>\n",
+				"content_text": "[The Map — Jerry's Map](https://www.jerrysmap.com/the-map)\n",
+				"date_published": "2026-06-25T19:08:03+09:00",
+				"url": "https://tweets.tai2.net/2026/06/25/the-map-jerrys-map.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/25/ask-hn-where-is-our.html",
+				
+				"content_html": "<blockquote>\n<p>Ask HN: Where is our profession (programmer) going? | Hacker News\n<a href=\"https://news.ycombinator.com/item?id=48668199&amp;openWithFirefox=true\">news.ycombinator.com/item</a></p>\n</blockquote>\n",
+				"content_text": "> Ask HN: Where is our profession (programmer) going? | Hacker News\n[news.ycombinator.com/item](https://news.ycombinator.com/item?id=48668199&openWithFirefox=true)\n",
+				"date_published": "2026-06-25T12:55:11+09:00",
+				"url": "https://tweets.tai2.net/2026/06/25/ask-hn-where-is-our.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/06/25/agent-safehouse.html",
 				
 				"content_html": "<p>なんかいちいち許可与えるのさけるためにAgent Safehouseっていうの導入してみたけど、あんまり便利じゃないかもしれない…</p>\n",
