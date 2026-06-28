@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/28/153516.html",
+				
+				"content_html": "<p>少額だけどベネズエラ向けに寄付しておいた。</p>\n",
+				"content_text": "少額だけどベネズエラ向けに寄付しておいた。\n",
+				"date_published": "2026-06-28T15:35:16+09:00",
+				"url": "https://tweets.tai2.net/2026/06/28/153516.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/26/202739.html",
+				
+				"content_html": "<p>なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことなし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。</p>\n",
+				"content_text": "なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことなし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。\n",
+				"date_published": "2026-06-26T20:27:39+09:00",
+				"url": "https://tweets.tai2.net/2026/06/26/202739.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/26/configure-auto-mode-claude-code.html",
+				
+				"content_html": "<p>Configure auto mode - Claude Code Docs <a href=\"https://code.claude.com/docs/en/auto-mode-config\">code.claude.com/docs/en/a&hellip;</a></p>\n",
+				"content_text": "Configure auto mode - Claude Code Docs [code.claude.com/docs/en/a...](https://code.claude.com/docs/en/auto-mode-config)\n",
+				"date_published": "2026-06-26T11:25:20+09:00",
+				"url": "https://tweets.tai2.net/2026/06/26/configure-auto-mode-claude-code.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/06/26/httpsatuinsh-atuinctrlrs.html",
 				
 				"content_html": "<p><a href=\"https://atuin.sh/\">atuin.sh</a></p>\n<p>atuinていうの業務のほうのラップトップにだけ導入して、数ヶ月使ってみてるけど、まあ便利は便利なのかもしれないが、導入する複雑さに見合うだけの便益があるのかは微妙なとこだなあ。ときどきシェルの表示がたぶんこれのせいで壊れたりするし。言ったら素のCtrl-R/Sで十分間に合ってるんだよなあ…。</p>\n",
