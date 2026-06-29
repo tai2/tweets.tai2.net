@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/06/30/aria-antipatterns-and-you-david.html",
+				
+				"content_html": "<p><a href=\"https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/\">ARIA, anti-patterns, and you – David Bushell – Web Dev (UK)</a></p>\n",
+				"content_text": "[ARIA, anti-patterns, and you – David Bushell – Web Dev (UK)](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)\n",
+				"date_published": "2026-06-30T08:15:02+09:00",
+				"url": "https://tweets.tai2.net/2026/06/30/aria-antipatterns-and-you-david.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/29/data-access-patterns-that-makes.html",
+				
+				"content_html": "<p><a href=\"https://blog.weineng.me/posts/slowest_add/\">Data Access Patterns That Makes Your CPU Really Angry | weineng</a></p>\n",
+				"content_text": "[Data Access Patterns That Makes Your CPU Really Angry | weineng](https://blog.weineng.me/posts/slowest_add/)\n",
+				"date_published": "2026-06-29T09:55:54+09:00",
+				"url": "https://tweets.tai2.net/2026/06/29/data-access-patterns-that-makes.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/28/200606.html",
+				
+				"content_html": "<p>イランの状況は、結局前進してるのか、してないのか、よくわからないなあ&hellip;</p>\n",
+				"content_text": "イランの状況は、結局前進してるのか、してないのか、よくわからないなあ...\n",
+				"date_published": "2026-06-28T20:06:06+09:00",
+				"url": "https://tweets.tai2.net/2026/06/28/200606.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/28/claudepromaxpro.html",
+				
+				"content_html": "<p>とりあえずひとしきり作りたいもの作って、しばらくプログラミングしないかもしれないので、ClaudeのプランはProに下げた。またなんか作りたかったらそのときはMaxなりなんなりに上げる。ただ、感覚的には、趣味プログラミングであれば、Proのままでもそこそこいけそうな感じはなくもないんだよな。</p>\n",
+				"content_text": "とりあえずひとしきり作りたいもの作って、しばらくプログラミングしないかもしれないので、ClaudeのプランはProに下げた。またなんか作りたかったらそのときはMaxなりなんなりに上げる。ただ、感覚的には、趣味プログラミングであれば、Proのままでもそこそこいけそうな感じはなくもないんだよな。\n",
+				"date_published": "2026-06-28T18:12:08+09:00",
+				"url": "https://tweets.tai2.net/2026/06/28/claudepromaxpro.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/06/28/175425.html",
+				
+				"content_html": "<p>AppiumをCLIから操作するためのツールaco (Appium Command-line Operator)を作った\n<a href=\"https://blog.tai2.net/aco-appium-command-line-operator.html\">blog.tai2.net/aco-appiu&hellip;</a></p>\n<p>ブログ書いた</p>\n",
+				"content_text": "AppiumをCLIから操作するためのツールaco (Appium Command-line Operator)を作った\n[blog.tai2.net/aco-appiu...](https://blog.tai2.net/aco-appium-command-line-operator.html)\n\nブログ書いた\n",
+				"date_published": "2026-06-28T17:54:25+09:00",
+				"url": "https://tweets.tai2.net/2026/06/28/175425.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/06/28/153516.html",
 				
 				"content_html": "<p>少額だけどベネズエラ向けに寄付しておいた。</p>\n",
@@ -17,8 +57,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/06/26/202739.html",
 				
-				"content_html": "<p>なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことなし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。</p>\n",
-				"content_text": "なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことなし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。\n",
+				"content_html": "<p>なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことないし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。</p>\n",
+				"content_text": "なんとなく、いわゆるコードを読み書きしてプログラミングをするという能力は、世のプログラマーたちからだんだん失われていく気がする。ただし完全になくなるわけではない。いまでも、システムプログラマーに必要な能力、コンパイラやカーネルを書いたりする能力は、大半のプログラマーには必要ないとはいえ、少数の誰かは持ってないといけない。それと同じように、いまのふつうのプログラミングをする能力も、一部のコーディングエージェント自体のめんどうを見る人だけがもつ能力ということにやがてはなっていって、ふつうの人は、本で読んだりして知識としては持ってるけど、実践はしたことないし、しろと言われても困るみたいな。需要はそんなにないからなるのは難しいかもしれないけど、高給取りだったりするのかもしれない。\n",
 				"date_published": "2026-06-26T20:27:39+09:00",
 				"url": "https://tweets.tai2.net/2026/06/26/202739.html"
 			},
