@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/07/07/nix.html",
+				
+				"content_html": "<p>ていうか、Nixて前職で同僚が使ってるの見るまでぜんぜん知らなかったけど、めちゃくちゃ古いんだな…。</p>\n",
+				"content_text": "ていうか、Nixて前職で同僚が使ってるの見るまでぜんぜん知らなかったけど、めちゃくちゃ古いんだな…。\n",
+				"date_published": "2026-07-07T10:52:52+09:00",
+				"url": "https://tweets.tai2.net/2026/07/07/nix.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/07/094438.html",
+				
+				"content_html": "<p>Filesystem Hierarchy Standard <a href=\"https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html\">refspecs.linuxfoundation.org/FHS_3.0/f&hellip;</a></p>\n",
+				"content_text": "Filesystem Hierarchy Standard [refspecs.linuxfoundation.org/FHS_3.0/f...](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)\n",
+				"date_published": "2026-07-07T09:44:38+09:00",
+				"url": "https://tweets.tai2.net/2026/07/07/094438.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/07/nixpythonvenv.html",
+				
+				"content_html": "<p>なるほど。もしNixでPython開発環境作ったとしたら、venvとかもはや気にする必要ないのか。</p>\n",
+				"content_text": "なるほど。もしNixでPython開発環境作ったとしたら、venvとかもはや気にする必要ないのか。\n",
+				"date_published": "2026-07-07T09:29:16+09:00",
+				"url": "https://tweets.tai2.net/2026/07/07/nixpythonvenv.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/06/214937.html",
+				
+				"content_html": "<p>Preface - Nix Pills <a href=\"https://nixos.org/guides/nix-pills/00-preface.html\">nixos.org/guides/ni&hellip;</a></p>\n",
+				"content_text": "Preface - Nix Pills [nixos.org/guides/ni...](https://nixos.org/guides/nix-pills/00-preface.html)\n",
+				"date_published": "2026-07-06T21:49:37+09:00",
+				"url": "https://tweets.tai2.net/2026/07/06/214937.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/06/when-ai-costs-more-than.html",
+				
+				"content_html": "<p><a href=\"https://tomtunguz.com/ai-spend-breakeven-2029/\">When AI Costs More Than the Engineer | Tomasz Tunguz</a></p>\n",
+				"content_text": "[When AI Costs More Than the Engineer | Tomasz Tunguz](https://tomtunguz.com/ai-spend-breakeven-2029/)\n",
+				"date_published": "2026-07-06T18:55:16+09:00",
+				"url": "https://tweets.tai2.net/2026/07/06/when-ai-costs-more-than.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/06/path.html",
+				
+				"content_html": "<p>プリミティブにpathが含まれる言語ははじめてだ</p>\n",
+				"content_text": "プリミティブにpathが含まれる言語ははじめてだ\n",
+				"date_published": "2026-07-06T14:53:22+09:00",
+				"url": "https://tweets.tai2.net/2026/07/06/path.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/06/101316.html",
 				
 				"content_html": "<p>生きていくためにだいじなことって、つきつめると心力なんよな</p>\n",
