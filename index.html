@@ -25,6 +25,42 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://tweets.tai2.net/2026/07/12/100828.html" class="u-url"><time class="dt-published" datetime="2026-07-12 10:08:28 &#43;0900">Jul 12, 2026</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://tweets.tai2.net/2026/07/10/105708.html" class="u-url"><time class="dt-published" datetime="2026-07-10 10:57:08 &#43;0900">Jul 10, 2026</time></a>
+
+		<div class="e-content">
+			 <p>長い旅路の果てにVSCodeに関するある瑣末な知識に辿りついた。VSCodeの統合ターミナルでbashを使ったときに <code>-l</code>を指定した場合、そのオプションは落とされる。これはVSCodeが統合シェルサポートのために<code>--init-file</code>を使うから。ならば<a href="https://code.visualstudio.com/docs/terminal/profiles">オフィシャルドキュメント</a>の以下の例は誤りか。そうではない。VSCodeが統合シェルを起動するやりかたは、シェルプログラムによって異なる。<code>-l</code>はzshにおいては正しいが、bashにおいては無効である。<code>-l</code>してるのにどうしても <code>shopt -q login_shell</code> が立たず迷路に迷い込んだあげくの、事の顛末がこれ。</p>
+<pre tabindex="0"><code>{
+  &quot;terminal.integrated.profiles.windows&quot;: {
+    &quot;PowerShell -NoProfile&quot;: {
+      &quot;source&quot;: &quot;PowerShell&quot;,
+      &quot;args&quot;: [&quot;-NoProfile&quot;]
+    }
+  },
+  &quot;terminal.integrated.profiles.linux&quot;: {
+    &quot;zsh (login)&quot;: {
+      &quot;path&quot;: &quot;zsh&quot;,
+      &quot;args&quot;: [&quot;-l&quot;]
+    }
+  }
+}
+</code></pre>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://tweets.tai2.net/2026/07/09/i-think-i-have-llm.html" class="u-url"><time class="dt-published" datetime="2026-07-09 13:01:04 &#43;0900">Jul 9, 2026</time></a>
 
 		<div class="e-content">

@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/07/12/100828.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/c9ea0c4a6b.png\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2026-07-12T10:08:28+09:00",
+				"url": "https://tweets.tai2.net/2026/07/12/100828.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/10/105708.html",
+				
+				"content_html": "<p>長い旅路の果てにVSCodeに関するある瑣末な知識に辿りついた。VSCodeの統合ターミナルでbashを使ったときに <code>-l</code>を指定した場合、そのオプションは落とされる。これはVSCodeが統合シェルサポートのために<code>--init-file</code>を使うから。ならば<a href=\"https://code.visualstudio.com/docs/terminal/profiles\">オフィシャルドキュメント</a>の以下の例は誤りか。そうではない。VSCodeが統合シェルを起動するやりかたは、シェルプログラムによって異なる。<code>-l</code>はzshにおいては正しいが、bashにおいては無効である。<code>-l</code>してるのにどうしても <code>shopt -q login_shell</code> が立たず迷路に迷い込んだあげくの、事の顛末がこれ。</p>\n<pre tabindex=\"0\"><code>{\n  &quot;terminal.integrated.profiles.windows&quot;: {\n    &quot;PowerShell -NoProfile&quot;: {\n      &quot;source&quot;: &quot;PowerShell&quot;,\n      &quot;args&quot;: [&quot;-NoProfile&quot;]\n    }\n  },\n  &quot;terminal.integrated.profiles.linux&quot;: {\n    &quot;zsh (login)&quot;: {\n      &quot;path&quot;: &quot;zsh&quot;,\n      &quot;args&quot;: [&quot;-l&quot;]\n    }\n  }\n}\n</code></pre>",
+				"content_text": "長い旅路の果てにVSCodeに関するある瑣末な知識に辿りついた。VSCodeの統合ターミナルでbashを使ったときに `-l`を指定した場合、そのオプションは落とされる。これはVSCodeが統合シェルサポートのために`--init-file`を使うから。ならば[オフィシャルドキュメント](https://code.visualstudio.com/docs/terminal/profiles)の以下の例は誤りか。そうではない。VSCodeが統合シェルを起動するやりかたは、シェルプログラムによって異なる。`-l`はzshにおいては正しいが、bashにおいては無効である。`-l`してるのにどうしても `shopt -q login_shell` が立たず迷路に迷い込んだあげくの、事の顛末がこれ。\n\n```\n{\n  \"terminal.integrated.profiles.windows\": {\n    \"PowerShell -NoProfile\": {\n      \"source\": \"PowerShell\",\n      \"args\": [\"-NoProfile\"]\n    }\n  },\n  \"terminal.integrated.profiles.linux\": {\n    \"zsh (login)\": {\n      \"path\": \"zsh\",\n      \"args\": [\"-l\"]\n    }\n  }\n}\n```\n",
+				"date_published": "2026-07-10T10:57:08+09:00",
+				"url": "https://tweets.tai2.net/2026/07/10/105708.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/09/i-think-i-have-llm.html",
 				
 				"content_html": "<p><a href=\"https://www.alecscollon.com/blog/llm-burnout/\">I Think I Have LLM Burnout</a></p>\n",
