@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/07/20/102808.html",
+				
+				"content_html": "<p>ログ、トレース、あるいはバックアップというのは、あまり必要性を疑われることはないけど、そのデータのほとんどは、保存はされど実際に活用されることはない。これらは、まれとは言え必要になるときの備えとしてふだんから出費している。使用頻度が低いなら無用であるという議論は、飛躍が過ぎることはあきらか。</p>\n",
+				"content_text": "ログ、トレース、あるいはバックアップというのは、あまり必要性を疑われることはないけど、そのデータのほとんどは、保存はされど実際に活用されることはない。これらは、まれとは言え必要になるときの備えとしてふだんから出費している。使用頻度が低いなら無用であるという議論は、飛躍が過ぎることはあきらか。\n",
+				"date_published": "2026-07-20T10:28:08+09:00",
+				"url": "https://tweets.tai2.net/2026/07/20/102808.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/19/134940.html",
+				
+				"content_html": "<p>イラク戦争みたいに何年もダラダラ長引くと思うとほんと憂鬱だよなあ</p>\n",
+				"content_text": "イラク戦争みたいに何年もダラダラ長引くと思うとほんと憂鬱だよなあ\n",
+				"date_published": "2026-07-19T13:49:40+09:00",
+				"url": "https://tweets.tai2.net/2026/07/19/134940.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/19/httpsyoutubelfprzpyts-java.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/LF5PrzP9YTs\">youtu.be/LF5PrzP9Y&hellip;</a>\n30年前に開発された夢のマシン「Javaリング」を復活させて！</p>\n",
+				"content_text": "[youtu.be/LF5PrzP9Y...](https://youtu.be/LF5PrzP9YTs)\n30年前に開発された夢のマシン「Javaリング」を復活させて！\n",
+				"date_published": "2026-07-19T12:38:11+09:00",
+				"url": "https://tweets.tai2.net/2026/07/19/httpsyoutubelfprzpyts-java.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/19/your-distributed-system-is-slower.html",
+				
+				"content_html": "<p><a href=\"https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop\">Your Distributed System Is Slower Than a Laptop, CodeGood</a></p>\n",
+				"content_text": "[Your Distributed System Is Slower Than a Laptop, CodeGood](https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop)\n",
+				"date_published": "2026-07-19T11:08:08+09:00",
+				"url": "https://tweets.tai2.net/2026/07/19/your-distributed-system-is-slower.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/19/110402.html",
+				
+				"content_html": "<p>決定論的な正しさの証明と、統計的な正しさの証明と、バグの洗い出しを区別すること</p>\n",
+				"content_text": "決定論的な正しさの証明と、統計的な正しさの証明と、バグの洗い出しを区別すること\n",
+				"date_published": "2026-07-19T11:04:02+09:00",
+				"url": "https://tweets.tai2.net/2026/07/19/110402.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/19/reviewing-ai-code-is-not.html",
+				
+				"content_html": "<p><a href=\"https://www.softwaremaxims.com/blog/reviewing-ai-code\">Reviewing AI Code Is Not A Viable Argument | Musings about software</a></p>\n",
+				"content_text": "[Reviewing AI Code Is Not A Viable Argument | Musings about software](https://www.softwaremaxims.com/blog/reviewing-ai-code)\n",
+				"date_published": "2026-07-19T11:03:04+09:00",
+				"url": "https://tweets.tai2.net/2026/07/19/reviewing-ai-code-is-not.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/18/goliathcom-the-zilog-z-has.html",
 				
 				"content_html": "<p><a href=\"https://goliath32.com/blog/z80.html\">goliath32.com - The Zilog Z80 has turned 50</a></p>\n",
@@ -1365,6 +1413,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
