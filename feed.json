@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/07/24/rediscovering-the-small-web-neustadtfr.html",
+				
+				"content_html": "<p>Rediscovering the Small Web - Neustadt.fr <a href=\"https://neustadt.fr/essays/the-small-web/\">neustadt.fr/essays/th&hellip;</a></p>\n",
+				"content_text": "Rediscovering the Small Web - Neustadt.fr [neustadt.fr/essays/th...](https://neustadt.fr/essays/the-small-web/)\n",
+				"date_published": "2026-07-24T10:11:16+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/rediscovering-the-small-web-neustadtfr.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/23/aiaiai.html",
+				
+				"content_html": "<p>読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。</p>\n<img src=\"uploads/2026/88ca2c9990.jpg\">\n",
+				"content_text": "読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。\n\n<img src=\"uploads/2026/88ca2c9990.jpg\">\n",
+				"date_published": "2026-07-23T16:39:30+09:00",
+				"url": "https://tweets.tai2.net/2026/07/23/aiaiai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/23/duckduckgokagi.html",
+				
+				"content_html": "<p>duckduckgoに不満があるわけではないけど、なんとなくkagiに課金してみようかなあ、どうしようかなあ</p>\n",
+				"content_text": "duckduckgoに不満があるわけではないけど、なんとなくkagiに課金してみようかなあ、どうしようかなあ\n",
+				"date_published": "2026-07-23T13:52:53+09:00",
+				"url": "https://tweets.tai2.net/2026/07/23/duckduckgokagi.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/23/ai.html",
+				
+				"content_html": "<p>AIは専門家が重要な部分に集中できるように支援するというけど、重要な部分にだけ集中するということは、能力を失っていくということなので、それだけだと持続的ではない気がする</p>\n",
+				"content_text": "AIは専門家が重要な部分に集中できるように支援するというけど、重要な部分にだけ集中するということは、能力を失っていくということなので、それだけだと持続的ではない気がする\n",
+				"date_published": "2026-07-23T11:40:57+09:00",
+				"url": "https://tweets.tai2.net/2026/07/23/ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/23/dspy-httpsdspyai.html",
+				
+				"content_html": "<blockquote>\n<p>DSPy</p>\n</blockquote>\n<p><a href=\"https://dspy.ai/\">dspy.ai</a></p>\n",
+				"content_text": "> DSPy\n\n[dspy.ai](https://dspy.ai/)\n",
+				"date_published": "2026-07-23T11:04:28+09:00",
+				"url": "https://tweets.tai2.net/2026/07/23/dspy-httpsdspyai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/23/the-small-web-is-beautiful.html",
+				
+				"content_html": "<p>The small web is beautiful <a href=\"https://benhoyt.com/writings/the-small-web-is-beautiful/\">benhoyt.com/writings/&hellip;</a></p>\n",
+				"content_text": "The small web is beautiful [benhoyt.com/writings/...](https://benhoyt.com/writings/the-small-web-is-beautiful/)\n",
+				"date_published": "2026-07-23T10:45:06+09:00",
+				"url": "https://tweets.tai2.net/2026/07/23/the-small-web-is-beautiful.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/22/164609.html",
 				
 				"content_html": "<p>「業務委託とかでしたらぜんぜんやりますよ」って言葉が出かけたけど、留まった。あっぶねー。自分で仕事増やしてどうすんのバカ。</p>\n",
@@ -1461,6 +1509,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
