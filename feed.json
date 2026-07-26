@@ -7,6 +7,166 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/07/26/github-copilotcopilotcopilotvs-codelsp.html",
+				
+				"content_html": "<p>GitHub Copilotのコード補完て、かなりいい感じに補完してくれて手書きするときに好きなプロダクトではあるんだけど、それだけのためにCopilot課金するかというと……手書きする量のすくなさを考えれば、まあなくてもなんとかなるかな。Copilot拡張アンインストールするかー。だとしたら、おれが<a href=\"https://blog.tai2.net/vscode-vim-and-me.html\">VS Code使いはじめた理由</a>も、あまりなくなってしまうな。まあ、LSPがものすごく快適に動くので、それだけでも価値あるとは思うけども。</p>\n",
+				"content_text": "GitHub Copilotのコード補完て、かなりいい感じに補完してくれて手書きするときに好きなプロダクトではあるんだけど、それだけのためにCopilot課金するかというと……手書きする量のすくなさを考えれば、まあなくてもなんとかなるかな。Copilot拡張アンインストールするかー。だとしたら、おれが[VS Code使いはじめた理由](https://blog.tai2.net/vscode-vim-and-me.html)も、あまりなくなってしまうな。まあ、LSPがものすごく快適に動くので、それだけでも価値あるとは思うけども。\n",
+				"date_published": "2026-07-26T09:59:57+09:00",
+				"url": "https://tweets.tai2.net/2026/07/26/github-copilotcopilotcopilotvs-codelsp.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/232911.html",
+				
+				"content_html": "<img src=\"uploads/2026/072c2682be.png\" alt=\"\">\n<p>この(右の)世界がいい</p>\n",
+				"content_text": "<img src=\"uploads/2026/072c2682be.png\" alt=\"\">\n\nこの(右の)世界がいい\n",
+				"date_published": "2026-07-24T23:29:11+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/232911.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/websaas.html",
+				
+				"content_html": "<p>個人的にWebの広告嫌いで、便利なSaaSを運営してもらっている見返りにみんなが少額課金するという世界がいいなあと思っている。</p>\n",
+				"content_text": "個人的にWebの広告嫌いで、便利なSaaSを運営してもらっている見返りにみんなが少額課金するという世界がいいなあと思っている。\n",
+				"date_published": "2026-07-24T23:22:07+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/websaas.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/month-kagi.html",
+				
+				"content_html": "<p>思想に共感しまくったので$5/month Kagiに課金した</p>\n",
+				"content_text": "思想に共感しまくったので$5/month Kagiに課金した\n",
+				"date_published": "2026-07-24T23:19:25+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/month-kagi.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/google.html",
+				
+				"content_html": "<p>Googleってもう、ユーザーにとってほんとうに有益な検索結果を提供しようとか、それに向かって改善してこうっていう気は、もうないよな。たぶんおそらくメイビー</p>\n",
+				"content_text": "Googleってもう、ユーザーにとってほんとうに有益な検索結果を提供しようとか、それに向かって改善してこうっていう気は、もうないよな。たぶんおそらくメイビー\n",
+				"date_published": "2026-07-24T23:02:26+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/google.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/kagi-blog-the-age-of.html",
+				
+				"content_html": "<p>Kagi Blog - The Age of PageRank is Over <a href=\"https://blog.kagi.com/age-pagerank-over\">blog.kagi.com/age-pager&hellip;</a></p>\n",
+				"content_text": "Kagi Blog - The Age of PageRank is Over [blog.kagi.com/age-pager...](https://blog.kagi.com/age-pagerank-over)\n",
+				"date_published": "2026-07-24T22:48:10+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/kagi-blog-the-age-of.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/ailinux.html",
+				
+				"content_html": "<p>オープンソースの現状を今の視点から見ると、けっきょく、目玉の数が十分になることはないということなんだろうな。AIで多数の脆弱性が発見されてることを思うと、Linuxカーネルにおいてさえも十分ではなかったんだろう。</p>\n",
+				"content_text": "オープンソースの現状を今の視点から見ると、けっきょく、目玉の数が十分になることはないということなんだろうな。AIで多数の脆弱性が発見されてることを思うと、Linuxカーネルにおいてさえも十分ではなかったんだろう。\n",
+				"date_published": "2026-07-24T13:23:59+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/ailinux.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/120513.html",
+				
+				"content_html": "<p>Appropriate Uses For SQLite <a href=\"https://sqlite.org/whentouse.html\">sqlite.org/whentouse&hellip;</a></p>\n",
+				"content_text": "Appropriate Uses For SQLite [sqlite.org/whentouse...](https://sqlite.org/whentouse.html)\n",
+				"date_published": "2026-07-24T12:05:13+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/120513.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/mlawsmlgcpgpumlpythongcptsaws.html",
+				
+				"content_html": "<p>まーじでコンウェイなんだけど、前職でML関連の機能は別サーバーにまとめられてて(しかも全般的にAWSなとこで、ML関連だけGCP…まあGPUコストの問題とか当時いろいろあったわけだけど)、なぜかと言えば、基本的にはMLエンジニアとアプリエンジニアで別チームに別れて仕事してたから。けっきょくそれらは、後々コスト的に無駄だし、アプリエンジニアにとっても取り回しが悪すぎるということで、Python(GCP)からTS(AWS)に移植されましたとさ。</p>\n<p>実際チームが分かれてなければ、ただの関数呼び出しで済んだ話。無駄無駄無駄無駄。</p>\n",
+				"content_text": "まーじでコンウェイなんだけど、前職でML関連の機能は別サーバーにまとめられてて(しかも全般的にAWSなとこで、ML関連だけGCP…まあGPUコストの問題とか当時いろいろあったわけだけど)、なぜかと言えば、基本的にはMLエンジニアとアプリエンジニアで別チームに別れて仕事してたから。けっきょくそれらは、後々コスト的に無駄だし、アプリエンジニアにとっても取り回しが悪すぎるということで、Python(GCP)からTS(AWS)に移植されましたとさ。\n\n実際チームが分かれてなければ、ただの関数呼び出しで済んだ話。無駄無駄無駄無駄。\n",
+				"date_published": "2026-07-24T11:57:54+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/mlawsmlgcpgpumlpythongcptsaws.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/microservices-solve-a-people-problem.html",
+				
+				"content_html": "<blockquote>\n<p>microservices solve a people problem, not a technical one</p>\n</blockquote>\n",
+				"content_text": ">microservices solve a people problem, not a technical one\n",
+				"date_published": "2026-07-24T11:50:59+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/microservices-solve-a-people-problem.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/google-admits-kubernetes-container-tech.html",
+				
+				"content_html": "<p>Google admits Kubernetes container tech is so complex, it&rsquo;s had to roll out an Autopilot feature to do it all for you <a href=\"https://www.theregister.com/off-prem/2021/02/25/google-admits-kubernetes-container-tech-is-so-complex-its-had-to-roll-out-an-autopilot-feature-to-do-it-all-for-you/1291981\">www.theregister.com/off-prem/&hellip;</a></p>\n",
+				"content_text": "Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you [www.theregister.com/off-prem/...](https://www.theregister.com/off-prem/2021/02/25/google-admits-kubernetes-container-tech-is-so-complex-its-had-to-roll-out-an-autopilot-feature-to-do-it-all-for-you/1291981)\n",
+				"date_published": "2026-07-24T11:48:43+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/google-admits-kubernetes-container-tech.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/google-analytics-stop-feeding-the.html",
+				
+				"content_html": "<p>Google Analytics: Stop feeding the beast | Caspar von Wrede <a href=\"https://casparwre.de/blog/stop-using-google-analytics/\">casparwre.de/blog/stop&hellip;</a></p>\n",
+				"content_text": "Google Analytics: Stop feeding the beast | Caspar von Wrede [casparwre.de/blog/stop...](https://casparwre.de/blog/stop-using-google-analytics/)\n",
+				"date_published": "2026-07-24T11:41:16+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/google-analytics-stop-feeding-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/main-pageja-indieweb-httpsindieweborgmainpageja.html",
+				
+				"content_html": "<p>Main Page-ja - IndieWeb <a href=\"https://indieweb.org/Main_Page-ja\">indieweb.org/Main_Page&hellip;</a></p>\n<p>ナカーマ</p>\n",
+				"content_text": "Main Page-ja - IndieWeb [indieweb.org/Main_Page...](https://indieweb.org/Main_Page-ja)\n\nナカーマ\n",
+				"date_published": "2026-07-24T11:11:15+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/main-pageja-indieweb-httpsindieweborgmainpageja.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/110349.html",
+				
+				"content_html": "<p>そう、ソフトウェア製造はこれまで手工業だったんだけど、これからは大量生産なのかもしれない</p>\n",
+				"content_text": "そう、ソフトウェア製造はこれまで手工業だったんだけど、これからは大量生産なのかもしれない\n",
+				"date_published": "2026-07-24T11:03:49+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/110349.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/110249.html",
+				
+				"content_html": "<p>インスタのリカバリそういえば昨日来たなあ</p>\n",
+				"content_text": "インスタのリカバリそういえば昨日来たなあ\n",
+				"date_published": "2026-07-24T11:02:49+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/110249.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/110211.html",
+				
+				"content_html": "<p>あるいはクラフトビールよりナショナルブランド、手工業より大量生産の時代。</p>\n",
+				"content_text": "あるいはクラフトビールよりナショナルブランド、手工業より大量生産の時代。\n",
+				"date_published": "2026-07-24T11:02:11+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/110211.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/quantity-over-quality.html",
+				
+				"content_html": "<p>低品質ソフトウェアの時代は、quantity over qualityの時代と言ってもいい</p>\n",
+				"content_text": "低品質ソフトウェアの時代は、quantity over qualityの時代と言ってもいい\n",
+				"date_published": "2026-07-24T11:00:15+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/quantity-over-quality.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/a-plea-for-lean-software.html",
+				
+				"content_html": "<p>A plea for lean software - Computer - wirth.pdf <a href=\"https://cr.yp.to/bib/1995/wirth.pdf\">cr.yp.to/bib/1995/&hellip;</a></p>\n",
+				"content_text": "A plea for lean software - Computer - wirth.pdf [cr.yp.to/bib/1995/...](https://cr.yp.to/bib/1995/wirth.pdf)\n",
+				"date_published": "2026-07-24T10:24:03+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/a-plea-for-lean-software.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/researchrsc-our-software-dependency-problem.html",
+				
+				"content_html": "<p>research!rsc: Our Software Dependency Problem <a href=\"https://research.swtch.com/deps\">research.swtch.com/deps</a></p>\n",
+				"content_text": "research!rsc: Our Software Dependency Problem [research.swtch.com/deps](https://research.swtch.com/deps)\n",
+				"date_published": "2026-07-24T10:22:41+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/researchrsc-our-software-dependency-problem.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/24/what-is-the-small-web.html",
+				
+				"content_html": "<p>What is the Small Web? – Aral Balkan <a href=\"https://ar.al/2020/08/07/what-is-the-small-web/\">ar.al/2020/08/0&hellip;</a></p>\n",
+				"content_text": "What is the Small Web? – Aral Balkan [ar.al/2020/08/0...](https://ar.al/2020/08/07/what-is-the-small-web/)\n",
+				"date_published": "2026-07-24T10:12:25+09:00",
+				"url": "https://tweets.tai2.net/2026/07/24/what-is-the-small-web.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/24/rediscovering-the-small-web-neustadtfr.html",
 				
 				"content_html": "<p>Rediscovering the Small Web - Neustadt.fr <a href=\"https://neustadt.fr/essays/the-small-web/\">neustadt.fr/essays/th&hellip;</a></p>\n",
@@ -17,8 +177,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/07/23/aiaiai.html",
 				
-				"content_html": "<p>読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。</p>\n<img src=\"uploads/2026/88ca2c9990.jpg\">\n",
-				"content_text": "読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。\n\n<img src=\"uploads/2026/88ca2c9990.jpg\">\n",
+				"content_html": "<p>読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。</p>\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/88ca2c9990.jpg\">\n",
+				"content_text": "読んだ。ものすごく深い洞察に満ちた本というわけではないし、AIエージェントというよりはシステム設計・運用一般の話じゃないかという部分もたくさんあったけど、結果的にいまの自分に合った、AIエージェントまわりの手引きになってくれる「ちょうどいい」本だった。今後はどこの組織に行っても多かれ少なかれAIエージェントを作ったり運用する仕事が求められると踏んでるので、みんな勉強しといたほうがいいと思う。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/88ca2c9990.jpg\">\n",
 				"date_published": "2026-07-23T16:39:30+09:00",
 				"url": "https://tweets.tai2.net/2026/07/23/aiaiai.html"
 			},
