@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/08/02/174134.html",
+				
+				"content_html": "<p>うひゃー、明日から仕事がはじまってしまうーーー</p>\n",
+				"content_text": "うひゃー、明日から仕事がはじまってしまうーーー\n",
+				"date_published": "2026-08-02T17:41:34+09:00",
+				"url": "https://tweets.tai2.net/2026/08/02/174134.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/31/rfc-the-internet-is-for.html",
+				
+				"content_html": "<p><a href=\"https://mnot.net/blog/2020/for_the_users\">RFC 8890 - The Internet is for End Users</a></p>\n",
+				"content_text": "[RFC 8890 - The Internet is for End Users](https://mnot.net/blog/2020/for_the_users)\n",
+				"date_published": "2026-07-31T20:57:26+09:00",
+				"url": "https://tweets.tai2.net/2026/07/31/rfc-the-internet-is-for.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/07/31/llmllmllmai.html",
+				
+				"content_html": "<p>機械の真の威力は、昔から、無尽蔵に反復できることだった。それはLLMの時代になっても変わらない。LLMの恩恵はインターネットの全知識や、特定の種類のタスクへの(コーディングや数学問題など)のポストトレーニングだけと思っている人は、LLMの真の能力を引き出す方法を理解していないと思われる。AIエージェントの真価は、無尽蔵の試行錯誤による解の自動探索にあるので、適切な実行・評価環境を構築できるかが鍵になる。</p>\n",
+				"content_text": "機械の真の威力は、昔から、無尽蔵に反復できることだった。それはLLMの時代になっても変わらない。LLMの恩恵はインターネットの全知識や、特定の種類のタスクへの(コーディングや数学問題など)のポストトレーニングだけと思っている人は、LLMの真の能力を引き出す方法を理解していないと思われる。AIエージェントの真価は、無尽蔵の試行錯誤による解の自動探索にあるので、適切な実行・評価環境を構築できるかが鍵になる。\n",
+				"date_published": "2026-07-31T20:05:55+09:00",
+				"url": "https://tweets.tai2.net/2026/07/31/llmllmllmai.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/07/31/stronger-with-every-update-how.html",
 				
 				"content_html": "<p><a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">Stronger with every update: How we’re making Chrome and the web safer in the AI Era</a></p>\n",
