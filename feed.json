@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/08/12/080952.html",
+				
+				"content_html": "<p>言うてフリーランス受託開発が、働き方としては原則一番気楽だな。前職はたぶん例外的だった。</p>\n",
+				"content_text": "言うてフリーランス受託開発が、働き方としては原則一番気楽だな。前職はたぶん例外的だった。\n",
+				"date_published": "2026-08-12T08:09:52+09:00",
+				"url": "https://tweets.tai2.net/2026/08/12/080952.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/08/10/docker-sandboxes-sandboxes-for-coding.html",
 				
 				"content_html": "<p><a href=\"https://www.docker.com/products/docker-sandboxes/\">Docker Sandboxes | Sandboxes for Coding Agents | Docker</a></p>\n",
