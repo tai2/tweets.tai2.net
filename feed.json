@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/08/19/webnextjs.html",
+				
+				"content_html": "<p>これまで数あるWebフレームワークを見てきたけど、Next.jsが一番すごいフレームワークな気がする</p>\n",
+				"content_text": "これまで数あるWebフレームワークを見てきたけど、Next.jsが一番すごいフレームワークな気がする\n",
+				"date_published": "2026-08-19T17:52:26+09:00",
+				"url": "https://tweets.tai2.net/2026/08/19/webnextjs.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/18/keychron.html",
+				
+				"content_html": "<p>Keychronっていいキーボードだよねえ。一番気にいってるのは…「値段だ」</p>\n",
+				"content_text": "Keychronっていいキーボードだよねえ。一番気にいってるのは…「値段だ」\n",
+				"date_published": "2026-08-18T20:48:57+09:00",
+				"url": "https://tweets.tai2.net/2026/08/18/keychron.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/18/183537.html",
+				
+				"content_html": "<p>いやー、Next.jsすごい世界観だなあ。あともう最近のReactは実質Next.jsと結合してるような気さえするなあ。Next以外にまともにServer Componentと統合されてるフレームワークってあるのかな。ていうか、フレームワーク介さずにServer Component使うって実際現実的なの?</p>\n",
+				"content_text": "いやー、Next.jsすごい世界観だなあ。あともう最近のReactは実質Next.jsと結合してるような気さえするなあ。Next以外にまともにServer Componentと統合されてるフレームワークってあるのかな。ていうか、フレームワーク介さずにServer Component使うって実際現実的なの?\n",
+				"date_published": "2026-08-18T18:35:37+09:00",
+				"url": "https://tweets.tai2.net/2026/08/18/183537.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/18/reacthooks.html",
+				
+				"content_html": "<p>Reactの設計(とくにhooksあたりのやつ)は、個人的にシンプルで好きなんだけど、正しく扱えてるプログラマは体感10%以下なので、難しすぎるのかもしれない…</p>\n",
+				"content_text": "Reactの設計(とくにhooksあたりのやつ)は、個人的にシンプルで好きなんだけど、正しく扱えてるプログラマは体感10%以下なので、難しすぎるのかもしれない…\n",
+				"date_published": "2026-08-18T08:50:12+09:00",
+				"url": "https://tweets.tai2.net/2026/08/18/reacthooks.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/17/reactweb-vitals.html",
+				
+				"content_html": "<p>救いがあるかも知れないのは、最近のReactの複雑性のある程度の部分は、いかにWeb Vitalsでいいスコアを出すかという問題のためのもので、デスクトップやモバイルのようなあらかじめパッケージダウンロードを期待できるタイプのアプリでは、無用な部分もあることか。</p>\n",
+				"content_text": "救いがあるかも知れないのは、最近のReactの複雑性のある程度の部分は、いかにWeb Vitalsでいいスコアを出すかという問題のためのもので、デスクトップやモバイルのようなあらかじめパッケージダウンロードを期待できるタイプのアプリでは、無用な部分もあることか。\n",
+				"date_published": "2026-08-17T22:44:33+09:00",
+				"url": "https://tweets.tai2.net/2026/08/17/reactweb-vitals.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/08/17/reactsuspensereactgui.html",
 				
 				"content_html": "<p>ReactのSuspenseようやくキャッチアップしたけど、いやあかくも複雑なところまで到達したものだよなあ。Reactは、実際のユースケースに応じて進化してきてるので、複雑であること自体に異論はないし、これらがないころはけっきょく各自で似たようなことを実装してたわけだから、標準化されたのはいいころとではあるのだけど、GUIって複雑なんだよなあやっぱりという感想が湧いてくる。</p>\n",
