@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/08/20/dont-paste-the-ai.html",
+				
+				"content_html": "<p><a href=\"https://dontpastetheai.com/\">Don&rsquo;t paste the AI.</a></p>\n",
+				"content_text": "[Don't paste the AI.](https://dontpastetheai.com/)\n",
+				"date_published": "2026-08-20T23:18:48+09:00",
+				"url": "https://tweets.tai2.net/2026/08/20/dont-paste-the-ai.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/19/reactsimplereactsimple.html",
+				
+				"content_html": "<p>ここまで来たらもうReactはsimpleとは言えないです…Reactはsimpleじゃないです!</p>\n",
+				"content_text": "ここまで来たらもうReactはsimpleとは言えないです…Reactはsimpleじゃないです!\n",
+				"date_published": "2026-08-19T22:12:39+09:00",
+				"url": "https://tweets.tai2.net/2026/08/19/reactsimplereactsimple.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/19/215155.html",
+				
+				"content_html": "<p>Server Functions – React <a href=\"https://react.dev/reference/rsc/server-functions\">react.dev/reference&hellip;</a></p>\n",
+				"content_text": "Server Functions – React [react.dev/reference...](https://react.dev/reference/rsc/server-functions)\n",
+				"date_published": "2026-08-19T21:51:55+09:00",
+				"url": "https://tweets.tai2.net/2026/08/19/215155.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/19/reactcache-httpsreactdevreferencereactcache.html",
+				
+				"content_html": "<p>React.cache! そんなものまで!\n<a href=\"https://react.dev/reference/react/cache\">react.dev/reference&hellip;</a></p>\n",
+				"content_text": "React.cache! そんなものまで!\n[react.dev/reference...](https://react.dev/reference/react/cache)\n",
+				"date_published": "2026-08-19T21:31:26+09:00",
+				"url": "https://tweets.tai2.net/2026/08/19/reactcache-httpsreactdevreferencereactcache.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/08/19/webnextjs.html",
 				
 				"content_html": "<p>これまで数あるWebフレームワークを見てきたけど、Next.jsが一番すごいフレームワークな気がする</p>\n",
@@ -2165,6 +2197,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
