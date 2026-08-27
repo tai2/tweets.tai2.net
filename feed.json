@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/08/27/203941.html",
+				
+				"content_html": "<p>ソフトウェアエンジニアとしてやっていくことというのは、我慢よくあることであるというエッセイがたぶん書けそうだけど、今書くと角が立つので書けないから、いつか書こう。</p>\n<p>実際、多くのソフトウェアエンジニアは、よく知らない奴が、ビジネスサイドからのプレッシャーに晒されつつ作ったコードに対して機能を足すところから入っているので、これは絶大な共感が得られると思われる</p>\n",
+				"content_text": "ソフトウェアエンジニアとしてやっていくことというのは、我慢よくあることであるというエッセイがたぶん書けそうだけど、今書くと角が立つので書けないから、いつか書こう。\n\n実際、多くのソフトウェアエンジニアは、よく知らない奴が、ビジネスサイドからのプレッシャーに晒されつつ作ったコードに対して機能を足すところから入っているので、これは絶大な共感が得られると思われる\n",
+				"date_published": "2026-08-27T20:39:41+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/203941.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/27/swift-uicoolswiftswift-ui.html",
+				
+				"content_html": "<p>Swift UIってけっこうcoolだと思うんだけど、SwiftってSwift UIのような応用を念頭に置いて設計されたのかな</p>\n",
+				"content_text": "Swift UIってけっこうcoolだと思うんだけど、SwiftってSwift UIのような応用を念頭に置いて設計されたのかな\n",
+				"date_published": "2026-08-27T16:07:13+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/swift-uicoolswiftswift-ui.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/27/golang.html",
+				
+				"content_html": "<p>言うてプログラミング言語への愛着ってやっぱり大事な気がして、Golangは読みやすい言語だと思うけど、読んで気分が良くなる言語ではないんだよなあ。</p>\n",
+				"content_text": "言うてプログラミング言語への愛着ってやっぱり大事な気がして、Golangは読みやすい言語だと思うけど、読んで気分が良くなる言語ではないんだよなあ。\n",
+				"date_published": "2026-08-27T14:22:33+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/golang.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/27/parallel-case-httpsparallelcasenet.html",
+				
+				"content_html": "<p>PARALLEL CASE: 2434 <a href=\"https://parallelcase-2434.net/\">parallelcase-2434.net</a></p>\n",
+				"content_text": "PARALLEL CASE: 2434 [parallelcase-2434.net](https://parallelcase-2434.net/)\n",
+				"date_published": "2026-08-27T13:40:11+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/parallel-case-httpsparallelcasenet.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/27/tim-curry-who-defined-the.html",
+				
+				"content_html": "<p><a href=\"https://www.npr.org/2026/08/26/nx-s1-5477607/tim-curry-dead?unified=true&amp;renderPlatform=nprone_ios\">Tim Curry, who defined &lsquo;The Rocky Horror Picture Show,&rsquo; has died</a></p>\n",
+				"content_text": "[Tim Curry, who defined 'The Rocky Horror Picture Show,' has died](https://www.npr.org/2026/08/26/nx-s1-5477607/tim-curry-dead?unified=true&renderPlatform=nprone_ios)\n",
+				"date_published": "2026-08-27T12:37:55+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/tim-curry-who-defined-the.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/27/083231.html",
+				
+				"content_html": "<p>あいやーめずらしい</p>\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/06d1bc06e7.png\" alt=\"\">\n<p>ていうかメールでの認証ができないから長びくといろいろめんどうだぞ</p>\n",
+				"content_text": "あいやーめずらしい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/06d1bc06e7.png\" alt=\"\">\n\nていうかメールでの認証ができないから長びくといろいろめんどうだぞ\n",
+				"date_published": "2026-08-27T08:32:31+09:00",
+				"url": "https://tweets.tai2.net/2026/08/27/083231.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/26/200942.html",
+				
+				"content_html": "<p>翻訳はあと、完璧に一対一で写すこともできないから、どう妥協するかも重要そうだなあ。</p>\n",
+				"content_text": "翻訳はあと、完璧に一対一で写すこともできないから、どう妥協するかも重要そうだなあ。\n",
+				"date_published": "2026-08-26T20:09:42+09:00",
+				"url": "https://tweets.tai2.net/2026/08/26/200942.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/26/phpruby.html",
+				
+				"content_html": "<p>さすがにもう今後PHPを書くことはないだろうなあ。できればRubyも。</p>\n",
+				"content_text": "さすがにもう今後PHPを書くことはないだろうなあ。できればRubyも。\n",
+				"date_published": "2026-08-26T18:30:11+09:00",
+				"url": "https://tweets.tai2.net/2026/08/26/phpruby.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/08/26/build-an-ios-app-with.html",
+				
+				"content_html": "<p>Build an iOS app with SwiftUI | Swift.org <a href=\"https://www.swift.org/getting-started/swiftui/\">www.swift.org/getting-s&hellip;</a></p>\n",
+				"content_text": "Build an iOS app with SwiftUI | Swift.org [www.swift.org/getting-s...](https://www.swift.org/getting-started/swiftui/)\n",
+				"date_published": "2026-08-26T18:13:41+09:00",
+				"url": "https://tweets.tai2.net/2026/08/26/build-an-ios-app-with.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/08/26/native-iosswift.html",
 				
 				"content_html": "<p>経済的自立を確立するために、まず、モダンなNative iOS開発手法を習得する。その第一歩として、Swiftを覚えていく。</p>\n",
@@ -25,8 +97,8 @@
 			{
 				"id": "http://tai2.micro.blog/2026/08/25/205340.html",
 				
-				"content_html": "<p>この本読んでるんだけど、翻訳という行為は、ただしい読解ができるかどうかが8割以上という気がするな。それができれば、あとは語順の処理とかある程度機械的な処理で済みそう。</p>\n<img src=\"uploads/2026/f6f248bba3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "この本読んでるんだけど、翻訳という行為は、ただしい読解ができるかどうかが8割以上という気がするな。それができれば、あとは語順の処理とかある程度機械的な処理で済みそう。\n\n<img src=\"uploads/2026/f6f248bba3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>この本読んでるんだけど、翻訳という行為は、ただしい読解ができるかどうかが8割以上という気がするな。それができれば、あとは語順の処理とかある程度機械的な処理で済みそう。</p>\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/f6f248bba3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "この本読んでるんだけど、翻訳という行為は、ただしい読解ができるかどうかが8割以上という気がするな。それができれば、あとは語順の処理とかある程度機械的な処理で済みそう。\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/f6f248bba3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-25T20:53:40+09:00",
 				"url": "https://tweets.tai2.net/2026/08/25/205340.html"
 			},
