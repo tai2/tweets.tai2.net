@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/02/how-accurate-have-ed-zitrons.html",
+				
+				"content_html": "<p><a href=\"https://danluu.com/zitron/\">How accurate have Ed Zitron&rsquo;s AI skeptic predictions been?</a></p>\n",
+				"content_text": "[How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)\n",
+				"date_published": "2026-09-02T22:06:42+09:00",
+				"url": "https://tweets.tai2.net/2026/09/02/how-accurate-have-ed-zitrons.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/02/line-developers-httpsdeveloperslinebizen.html",
+				
+				"content_html": "<p>LINE Developers <a href=\"https://developers.line.biz/en/\">developers.line.biz/en/</a></p>\n",
+				"content_text": "LINE Developers [developers.line.biz/en/](https://developers.line.biz/en/)\n",
+				"date_published": "2026-09-02T13:53:02+09:00",
+				"url": "https://tweets.tai2.net/2026/09/02/line-developers-httpsdeveloperslinebizen.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/02/llmllmllmllm.html",
+				
+				"content_html": "<p>ソフトウェアエンジニアリングにおいて、LLMはもう人間より圧倒的に賢いので、エンジニアの主な責務は、LLMがより良い経験を積めるように環境を整備して手伝うことになった。LLMを育てる、あるいはLLMの良い助手になる。そういったこと。</p>\n",
+				"content_text": "ソフトウェアエンジニアリングにおいて、LLMはもう人間より圧倒的に賢いので、エンジニアの主な責務は、LLMがより良い経験を積めるように環境を整備して手伝うことになった。LLMを育てる、あるいはLLMの良い助手になる。そういったこと。\n",
+				"date_published": "2026-09-02T09:35:08+09:00",
+				"url": "https://tweets.tai2.net/2026/09/02/llmllmllmllm.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/01/211604.html",
+				
+				"content_html": "<p>しかし、実利的な意味で、人間がコードを手書きする意味がなくなってしまった今、もし人間が手書きをするのであれば、必要以上に技巧的・技芸的・芸術的な書き方を追い求めるようになるのかもしれない。それがプログラミングのたのしみとなるのかもしれない。</p>\n",
+				"content_text": "しかし、実利的な意味で、人間がコードを手書きする意味がなくなってしまった今、もし人間が手書きをするのであれば、必要以上に技巧的・技芸的・芸術的な書き方を追い求めるようになるのかもしれない。それがプログラミングのたのしみとなるのかもしれない。\n",
+				"date_published": "2026-09-01T21:16:04+09:00",
+				"url": "https://tweets.tai2.net/2026/09/01/211604.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/01/let-mynumber-intpossiblenumber-here-mynumber.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>let myNumber = Int(possibleNumber)\n// Here, myNumber is an optional integer\nif let myNumber = myNumber {\n    // Here, myNumber is a non-optional integer\n    print(&quot;My number is \\(myNumber)&quot;)\n}\n</code></pre><p>変数のシャドウイングって、いまいち御利益が腑に落ちないというか、単に可読性を落とすだけの仕組みなんじゃないかという気がしているんだけど、ここまで来ると、まあ存在意義がわからなくもないかなという気もする。</p>\n<pre tabindex=\"0\"><code>if let myNumber {\n    print(&quot;My number is \\(myNumber)&quot;)\n}\n</code></pre><p>しかし、これ見てパッと見、「ああ、optionalは例外的に真偽値への暗黙の型変換を許す設計なのかなと思ってたけど、まさかただのショートハンドだとは。</p>\n",
+				"content_text": "```\nlet myNumber = Int(possibleNumber)\n// Here, myNumber is an optional integer\nif let myNumber = myNumber {\n    // Here, myNumber is a non-optional integer\n    print(\"My number is \\(myNumber)\")\n}\n```\n\n\n変数のシャドウイングって、いまいち御利益が腑に落ちないというか、単に可読性を落とすだけの仕組みなんじゃないかという気がしているんだけど、ここまで来ると、まあ存在意義がわからなくもないかなという気もする。\n\n```\nif let myNumber {\n    print(\"My number is \\(myNumber)\")\n}\n```\n\nしかし、これ見てパッと見、「ああ、optionalは例外的に真偽値への暗黙の型変換を許す設計なのかなと思ってたけど、まさかただのショートハンドだとは。\n\n",
+				"date_published": "2026-09-01T21:07:25+09:00",
+				"url": "https://tweets.tai2.net/2026/09/01/let-mynumber-intpossiblenumber-here-mynumber.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/01/typescriptswift.html",
 				
-				"content_html": "<p>いやー、主としてTypeScriptを書いてる実からすると、Swiftはとってもクリーンな言語だねえー</p>\n",
-				"content_text": "いやー、主としてTypeScriptを書いてる実からすると、Swiftはとってもクリーンな言語だねえー\n",
+				"content_html": "<p>いやー、主としてTypeScriptを書いてる身からすると、Swiftはとってもクリーンな言語だねえー</p>\n",
+				"content_text": "いやー、主としてTypeScriptを書いてる身からすると、Swiftはとってもクリーンな言語だねえー\n",
 				"date_published": "2026-09-01T17:11:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/01/typescriptswift.html"
 			},
@@ -2445,14 +2485,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
