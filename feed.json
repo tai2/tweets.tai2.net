@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/06/xsmall-webwatch.html",
+				
+				"content_html": "<p>みんなXに文句は言うけど、けっきょく止めないよな(ネットワーク外部性ってやつのせいで)。まあ実際おれも同人声優活動では必須だから止められてないんだけど…。個人的にはSmall Web的なものの動きをwatchしていきたい。</p>\n",
+				"content_text": "みんなXに文句は言うけど、けっきょく止めないよな(ネットワーク外部性ってやつのせいで)。まあ実際おれも同人声優活動では必須だから止められてないんだけど…。個人的にはSmall Web的なものの動きをwatchしていきたい。\n",
+				"date_published": "2026-09-06T10:27:52+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/xsmall-webwatch.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/100023.html",
+				
+				"content_html": "<p><a href=\"https://claude.ai/share/c08d4bc2-48f0-4e93-9d54-b8a5d9afa43b\">https://claude.ai/share/c08d4bc2-48f0-4e93-9d54-b8a5d9afa43b</a></p>\n<p>あー、Swiftのランタイム構成おもしろいな。Obj-C/Cocoaと互換性を保つように設計されつつ、ランタイムは別(<code>libswiftCore</code>) 同時に、Appleプラットフォームでは、Obj-Cレイヤー (<code>libobjc</code>) にもアクセスできる。</p>\n",
+				"content_text": "https://claude.ai/share/c08d4bc2-48f0-4e93-9d54-b8a5d9afa43b\n\nあー、Swiftのランタイム構成おもしろいな。Obj-C/Cocoaと互換性を保つように設計されつつ、ランタイムは別(`libswiftCore`) 同時に、Appleプラットフォームでは、Obj-Cレイヤー (`libobjc`) にもアクセスできる。\n",
+				"date_published": "2026-09-06T10:00:23+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/100023.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/swiftobjcgckotlinswiftobjc.html",
+				
+				"content_html": "<p>ていうかそうだよな。SwiftはObj-Cの進化形だから、GCじゃなくて参照カウントなんだよな。それだけで応用範囲Kotlinより広がりそう。(SwiftとObj-Cのランタイムの関係はよくわかってないが)</p>\n",
+				"content_text": "ていうかそうだよな。SwiftはObj-Cの進化形だから、GCじゃなくて参照カウントなんだよな。それだけで応用範囲Kotlinより広がりそう。(SwiftとObj-Cのランタイムの関係はよくわかってないが)\n",
+				"date_published": "2026-09-06T09:48:58+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/swiftobjcgckotlinswiftobjc.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/httpsclaudeaishareaddaeebcfcabb.html",
+				
+				"content_html": "<p><a href=\"https://claude.ai/share/5148ad9d-2a53-43e4-85e2-b5c6f8cab51b\">claude.ai/share/514&hellip;</a></p>\n<p>あー、アクセスが自動的に再入可能になるから、いくつかのチェックを省略できるのと、参照カウントを省略できるケースがあると。</p>\n",
+				"content_text": "[claude.ai/share/514...](https://claude.ai/share/5148ad9d-2a53-43e4-85e2-b5c6f8cab51b)\n\nあー、アクセスが自動的に再入可能になるから、いくつかのチェックを省略できるのと、参照カウントを省略できるケースがあると。\n",
+				"date_published": "2026-09-06T09:46:16+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/httpsclaudeaishareaddaeebcfcabb.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/its-good-practice-to-create.html",
+				
+				"content_html": "<blockquote>\n<p>It’s good practice to create immutable collections in all cases where the collection doesn’t need to change. Doing so makes it easier for you to reason about your code and enables the Swift compiler to optimize the performance of the collections you create.</p>\n</blockquote>\n<p>とか書いてあるけど、これ将来的に最適化される余地を残すために推奨(ありがち)とかじゃなくて、実際に何らかの最適化がされるのかな。</p>\n",
+				"content_text": ">It’s good practice to create immutable collections in all cases where the collection doesn’t need to change. Doing so makes it easier for you to reason about your code and enables the Swift compiler to optimize the performance of the collections you create.\n\nとか書いてあるけど、これ将来的に最適化される余地を残すために推奨(ありがち)とかじゃなくて、実際に何らかの最適化がされるのかな。\n",
+				"date_published": "2026-09-06T09:39:22+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/its-good-practice-to-create.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/swiftcontant.html",
+				
+				"content_html": "<p>Swift、contantにコレクションを入れると勝手にイミュータブルオブジェクトになるのか。これは大胆、だけどみんながずっと欲してたもの。</p>\n",
+				"content_text": "Swift、contantにコレクションを入れると勝手にイミュータブルオブジェクトになるのか。これは大胆、だけどみんながずっと欲してたもの。\n",
+				"date_published": "2026-09-06T09:37:35+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/swiftcontant.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/rustc.html",
+				
+				"content_html": "<p>トレーディングシステムのためにロックフリーなコードを書くのであれば、Rustの安全性が邪魔になるので、C++のほうがいいと。</p>\n",
+				"content_text": "トレーディングシステムのためにロックフリーなコードを書くのであれば、Rustの安全性が邪魔になるので、C++のほうがいいと。\n",
+				"date_published": "2026-09-06T09:15:36+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/rustc.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/why-rust-cant-replace-c.html",
+				
+				"content_html": "<p>(1) Why Rust Can&rsquo;t Replace C++ - YouTube <a href=\"https://www.youtube.com/watch?v=QNPwKMOQIKM\">www.youtube.com/watch</a></p>\n",
+				"content_text": "(1) Why Rust Can't Replace C++ - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=QNPwKMOQIKM)\n",
+				"date_published": "2026-09-06T09:11:50+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/why-rust-cant-replace-c.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/05/intelligence-per-watt-measuring-intelligence.html",
+				
+				"content_html": "<p><a href=\"https://arxiv.org/abs/2511.07885\">[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI</a></p>\n",
+				"content_text": "[[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)\n",
+				"date_published": "2026-09-05T20:54:18+09:00",
+				"url": "https://tweets.tai2.net/2026/09/05/intelligence-per-watt-measuring-intelligence.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/05/swiftstl.html",
+				
+				"content_html": "<p>SwiftのコレクションはすこしSTLのにおいがする</p>\n",
+				"content_text": "SwiftのコレクションはすこしSTLのにおいがする\n",
+				"date_published": "2026-09-05T10:53:14+09:00",
+				"url": "https://tweets.tai2.net/2026/09/05/swiftstl.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/05/swiftstringunicode.html",
 				
 				"content_html": "<p>SwiftのStringは、さすがにUnicodeが前提になってから設計されただけあって、洗練されてるな</p>\n",
