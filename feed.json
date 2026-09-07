@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/07/debrainrot-vacations.html",
+				
+				"content_html": "<p><a href=\"https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/\">De-Brainrot Vacations</a></p>\n",
+				"content_text": "[De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)\n",
+				"date_published": "2026-09-07T22:58:16+09:00",
+				"url": "https://tweets.tai2.net/2026/09/07/debrainrot-vacations.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/cloud-in-a-bottle-making.html",
+				
+				"content_html": "<p><a href=\"https://cloudinabottle.org/blog/launch-post\">Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle</a></p>\n",
+				"content_text": "[Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle](https://cloudinabottle.org/blog/launch-post)\n",
+				"date_published": "2026-09-06T11:52:37+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/cloud-in-a-bottle-making.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/your-executable-is-a-sqlite.html",
+				
+				"content_html": "<p>Your executable is a SQLite database | Farid Zakaria’s Blog <a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">fzakaria.com/2026/08/2&hellip;</a></p>\n",
+				"content_text": "Your executable is a SQLite database | Farid Zakaria’s Blog [fzakaria.com/2026/08/2...](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)\n",
+				"date_published": "2026-09-06T10:47:27+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/your-executable-is-a-sqlite.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/06/103722.html",
+				
+				"content_html": "<p>ハーネスエンジニアリング：エージェントファーストの世界における Codex の活用 | OpenAI <a href=\"https://openai.com/ja-JP/index/harness-engineering/\">openai.com/ja-JP/ind&hellip;</a></p>\n<p>再度確認する</p>\n",
+				"content_text": "ハーネスエンジニアリング：エージェントファーストの世界における Codex の活用 | OpenAI [openai.com/ja-JP/ind...](https://openai.com/ja-JP/index/harness-engineering/)\n\n再度確認する\n",
+				"date_published": "2026-09-06T10:37:22+09:00",
+				"url": "https://tweets.tai2.net/2026/09/06/103722.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/06/xsmall-webwatch.html",
 				
 				"content_html": "<p>みんなXに文句は言うけど、けっきょく止めないよな(ネットワーク外部性ってやつのせいで)。まあ実際おれも同人声優活動では必須だから止められてないんだけど…。個人的にはSmall Web的なものの動きをwatchしていきたい。</p>\n",
