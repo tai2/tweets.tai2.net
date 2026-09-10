@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/10/for-case-let-x-in.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>for case (let x, 0) in points {\n    print(&quot;Found a point on the x-axis at \\(x)&quot;)\n}\n</code></pre><p><code>for</code>の要素に対してパターンマッチングできる。スマートやなあ。</p>\n",
+				"content_text": "```\nfor case (let x, 0) in points {\n    print(\"Found a point on the x-axis at \\(x)\")\n}\n```\n\n`for`の要素に対してパターンマッチングできる。スマートやなあ。\n",
+				"date_published": "2026-09-10T17:01:39+09:00",
+				"url": "https://tweets.tai2.net/2026/09/10/for-case-let-x-in.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/10/the-devastating-decline-of-a.html",
+				
+				"content_html": "<p><a href=\"https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/\">The Devastating Decline of a Brilliant Young Coder | WIRED</a></p>\n",
+				"content_text": "[The Devastating Decline of a Brilliant Young Coder | WIRED](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/)\n",
+				"date_published": "2026-09-10T07:06:02+09:00",
+				"url": "https://tweets.tai2.net/2026/09/10/the-devastating-decline-of-a.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/09/203805.html",
+				
+				"content_html": "<p>もし人間がやる必要のある仕事がどんどん減って失業率が高まるなら、すくなくとも再分配について、これまでとは違う前提で再設計が必要になるんじゃないのかな。働かなくてもいまと同じくらしができる世の中はよ。そしたら好き勝手生きてしあわせに暮らします。</p>\n",
+				"content_text": "もし人間がやる必要のある仕事がどんどん減って失業率が高まるなら、すくなくとも再分配について、これまでとは違う前提で再設計が必要になるんじゃないのかな。働かなくてもいまと同じくらしができる世の中はよ。そしたら好き勝手生きてしあわせに暮らします。\n",
+				"date_published": "2026-09-09T20:38:05+09:00",
+				"url": "https://tweets.tai2.net/2026/09/09/203805.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/09/182957.html",
+				
+				"content_html": "<p><a href=\"https://docs.swift.org/latest/documentation/the-swift-programming-language/controlflow/#While\">docs.swift.org/latest/do&hellip;</a></p>\n<p>なんかwhileの説明で唐突に実践的(?)な例が出てきた。たいていの言語はwhileとかめちゃくちゃサラッと流すんだけど、妙に凝ってる。</p>\n",
+				"content_text": "[docs.swift.org/latest/do...](https://docs.swift.org/latest/documentation/the-swift-programming-language/controlflow/#While)\n\nなんかwhileの説明で唐突に実践的(?)な例が出てきた。たいていの言語はwhileとかめちゃくちゃサラッと流すんだけど、妙に凝ってる。\n",
+				"date_published": "2026-09-09T18:29:57+09:00",
+				"url": "https://tweets.tai2.net/2026/09/09/182957.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/09/llmok.html",
 				
-				"content_html": "<p>他人の生成させたLLM文書を読むのは不快(自分のはOK)なので、仕事をしていて毎日じんわり不快になるという問題が最近ある。</p>\n",
-				"content_text": "他人の生成させたLLM文書を読むのは不快(自分のはOK)なので、仕事をしていて毎日じんわり不快になるという問題が最近ある。\n",
+				"content_html": "<p>他人の生成させたLLM文書を読むのは不快(自分が書かせたのを自分で読むのは、まあOKというかしゃーない)なので、仕事をしていて毎日じんわり不快になるという問題が最近ある。</p>\n",
+				"content_text": "他人の生成させたLLM文書を読むのは不快(自分が書かせたのを自分で読むのは、まあOKというかしゃーない)なので、仕事をしていて毎日じんわり不快になるという問題が最近ある。\n",
 				"date_published": "2026-09-09T10:56:41+09:00",
 				"url": "https://tweets.tai2.net/2026/09/09/llmok.html"
 			},
