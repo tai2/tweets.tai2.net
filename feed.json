@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/24/e-httpsafebbaformkintoneappcompublicestore.html",
+				
+				"content_html": "<p>Eストアーの情報漏洩該当してるらしいんだけど、どのショップなのか不明らしくてなにも対処のしようがない。</p>\n<p><a href=\"https://af8eb6ba.form.kintoneapp.com/public/estore\">af8eb6ba.form.kintoneapp.com/public/es&hellip;</a></p>\n",
+				"content_text": "Eストアーの情報漏洩該当してるらしいんだけど、どのショップなのか不明らしくてなにも対処のしようがない。\n\n[af8eb6ba.form.kintoneapp.com/public/es...](https://af8eb6ba.form.kintoneapp.com/public/estore)\n",
+				"date_published": "2026-09-24T17:29:16+09:00",
+				"url": "https://tweets.tai2.net/2026/09/24/e-httpsafebbaformkintoneappcompublicestore.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/swiftgo.html",
+				
+				"content_html": "<p>Swift作者は、相当旧来言語の例外が嫌いみたいだな。実質Goとほぼ変わらんと思う。</p>\n",
+				"content_text": "Swift作者は、相当旧来言語の例外が嫌いみたいだな。実質Goとほぼ変わらんと思う。\n",
+				"date_published": "2026-09-23T17:07:36+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/swiftgo.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/httpsclaudeaichataeffebedebb-swiftthrowshttp.html",
+				
+				"content_html": "<p><a href=\"https://claude.ai/chat/23993a7e-ff15-4eb6-9e89-696de7344bb9\">claude.ai/chat/2399&hellip;</a></p>\n<p>えーー、Swiftの例外、実質もう例外じゃないようなもんじゃん。ほとんどローカルにしか作用できない(さもなくば、あちこちthrowsだらけになる)。ウェブフレームワークでよくあるような、ルーターの根っこで例外キャッチしてHTTPエラーに変換するような処理もしづらいのでは。</p>\n",
+				"content_text": "[claude.ai/chat/2399...](https://claude.ai/chat/23993a7e-ff15-4eb6-9e89-696de7344bb9)\n\nえーー、Swiftの例外、実質もう例外じゃないようなもんじゃん。ほとんどローカルにしか作用できない(さもなくば、あちこちthrowsだらけになる)。ウェブフレームワークでよくあるような、ルーターの根っこで例外キャッチしてHTTPエラーに変換するような処理もしづらいのでは。\n",
+				"date_published": "2026-09-23T16:52:47+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/httpsclaudeaichataeffebedebb-swiftthrowshttp.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/unlike-exception-handling-in-many.html",
+				
+				"content_html": "<blockquote>\n<p>Unlike exception handling in many languages — including Objective-C — error handling in Swift doesn’t involve unwinding the call stack, a process that can be computationally expensive. As such, the performance characteristics of a throw statement are comparable to those of a return statement.</p>\n</blockquote>\n<p>ほう?どういうこと?</p>\n",
+				"content_text": ">Unlike exception handling in many languages — including Objective-C — error handling in Swift doesn’t involve unwinding the call stack, a process that can be computationally expensive. As such, the performance characteristics of a throw statement are comparable to those of a return statement.\n\nほう?どういうこと?\n",
+				"date_published": "2026-09-23T16:45:28+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/unlike-exception-handling-in-many.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/bending-machinevending-machinevend.html",
+				
+				"content_html": "<p>自販機のこと英語でbending machineだといまのいままで誤解してた…なにを曲げるのか不思議だったけど、vending machineだった…vend(売る)。ああ…</p>\n",
+				"content_text": "自販機のこと英語でbending machineだといまのいままで誤解してた…なにを曲げるのか不思議だったけど、vending machineだった…vend(売る)。ああ…\n",
+				"date_published": "2026-09-23T16:40:23+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/bending-machinevending-machinevend.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/cocoa-design-patterns-apple-developer.html",
+				
+				"content_html": "<p>Cocoa Design Patterns | Apple Developer Documentation <a href=\"https://developer.apple.com/documentation/swift/cocoa-design-patterns\">developer.apple.com/documenta&hellip;</a></p>\n",
+				"content_text": "Cocoa Design Patterns | Apple Developer Documentation [developer.apple.com/documenta...](https://developer.apple.com/documentation/swift/cocoa-design-patterns)\n",
+				"date_published": "2026-09-23T15:53:01+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/cocoa-design-patterns-apple-developer.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/23/httpsyoutubecomwatchvgcilupeybusiwtskhwxyifbll.html",
+				
+				"content_html": "<p>いまはちょうどヘーゲルが死んだ後のような時代なのかもしれない</p>\n<p><a href=\"https://youtube.com/watch?v=gcIL0UPEybU&amp;si=Wts1K8hwxy5IfBll\">youtube.com/watch</a></p>\n",
+				"content_text": "いまはちょうどヘーゲルが死んだ後のような時代なのかもしれない\n\n[youtube.com/watch](https://youtube.com/watch?v=gcIL0UPEybU&si=Wts1K8hwxy5IfBll)\n",
+				"date_published": "2026-09-23T09:10:27+09:00",
+				"url": "https://tweets.tai2.net/2026/09/23/httpsyoutubecomwatchvgcilupeybusiwtskhwxyifbll.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/22/attention-is-all-you-have.html",
 				
 				"content_html": "<p><a href=\"https://alicegg.tech/2026/09/21/attention\">Attention is all you have</a></p>\n",
@@ -597,14 +653,6 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
-				
-				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
-				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
-				"date_published": "2026-09-03T18:29:54+09:00",
-				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -3101,14 +3149,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
