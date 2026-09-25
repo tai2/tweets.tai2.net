@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/09/25/dawocommunity.html",
+				
+				"content_html": "<p><a href=\"https://www.dawo.community/en/\">DAWO.community</a></p>\n",
+				"content_text": "[DAWO.community](https://www.dawo.community/en/)\n",
+				"date_published": "2026-09-25T18:37:01+09:00",
+				"url": "https://tweets.tai2.net/2026/09/25/dawocommunity.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/25/070203.html",
+				
+				"content_html": "<p><a href=\"https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/\">matduggan.com/you-know-&hellip;</a></p>\n<blockquote>\n<p>You Know GDPR Is Good Based on Who Hates It</p>\n</blockquote>\n",
+				"content_text": "[matduggan.com/you-know-...](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)\n\n> You Know GDPR Is Good Based on Who Hates It\n\n\n",
+				"date_published": "2026-09-25T07:02:03+09:00",
+				"url": "https://tweets.tai2.net/2026/09/25/070203.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/25/065717.html",
+				
+				"content_html": "<p>スタートレック・ディスカバリー見始めた。ふつうにおもしろい海外ドラマだけど、スタートレックとして見ると「これじゃない」感は拭えない。スタートレックと言えば、船員同士のウィットに富んだ会話なんだよなあ。</p>\n",
+				"content_text": "スタートレック・ディスカバリー見始めた。ふつうにおもしろい海外ドラマだけど、スタートレックとして見ると「これじゃない」感は拭えない。スタートレックと言えば、船員同士のウィットに富んだ会話なんだよなあ。\n",
+				"date_published": "2026-09-25T06:57:17+09:00",
+				"url": "https://tweets.tai2.net/2026/09/25/065717.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/24/swift-standard-library-apple-developer.html",
+				
+				"content_html": "<p>Swift Standard Library | Apple Developer Documentation <a href=\"https://developer.apple.com/documentation/swift/swift-standard-library\">developer.apple.com/documenta&hellip;</a></p>\n<p>このSwift Standard Libraryの下に、めちゃくちゃいろいろ書いてある。</p>\n",
+				"content_text": "Swift Standard Library | Apple Developer Documentation [developer.apple.com/documenta...](https://developer.apple.com/documentation/swift/swift-standard-library)\n\nこのSwift Standard Libraryの下に、めちゃくちゃいろいろ書いてある。\n",
+				"date_published": "2026-09-24T22:44:56+09:00",
+				"url": "https://tweets.tai2.net/2026/09/24/swift-standard-library-apple-developer.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/24/preserving-the-results-of-a.html",
+				
+				"content_html": "<p>Preserving the Results of a Throwing Expression | Apple Developer Documentation <a href=\"https://developer.apple.com/documentation/swift/preserving-the-results-of-a-throwing-expression\">developer.apple.com/documenta&hellip;</a></p>\n",
+				"content_text": "Preserving the Results of a Throwing Expression | Apple Developer Documentation [developer.apple.com/documenta...](https://developer.apple.com/documentation/swift/preserving-the-results-of-a-throwing-expression)\n",
+				"date_published": "2026-09-24T22:38:15+09:00",
+				"url": "https://tweets.tai2.net/2026/09/24/preserving-the-results-of-a.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/24/ideas-on-modernizing-the-opensource.html",
+				
+				"content_html": "<p><a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">Ideas on modernizing the open-source desktop [LWN.net]</a></p>\n",
+				"content_text": "[Ideas on modernizing the open-source desktop [LWN.net]](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)\n",
+				"date_published": "2026-09-24T18:37:01+09:00",
+				"url": "https://tweets.tai2.net/2026/09/24/ideas-on-modernizing-the-opensource.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/09/24/e-httpsafebbaformkintoneappcompublicestore.html",
 				
 				"content_html": "<p>Eストアーの情報漏洩該当してるらしいんだけど、どのショップなのか不明らしくてなにも対処のしようがない。</p>\n<p><a href=\"https://af8eb6ba.form.kintoneapp.com/public/estore\">af8eb6ba.form.kintoneapp.com/public/es&hellip;</a></p>\n",
@@ -653,6 +701,14 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
+				
+				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
+				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
+				"date_published": "2026-09-03T18:29:54+09:00",
+				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -3149,6 +3205,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
