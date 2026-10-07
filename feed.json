@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/10/07/hlsvideo-encoding-requirements-for-maximum.html",
+				
+				"content_html": "<p>HLSの&quot;Video encoding requirements&quot;</p>\n<blockquote>\n<p>For maximum compatibility, some H.264 variants SHOULD be less than or equal to High Profile, Level 4.1.</p>\n</blockquote>\n<p>そうなのね!!! (まあそうよね)</p>\n",
+				"content_text": "HLSの\"Video encoding requirements\"\n\n\n>For maximum compatibility, some H.264 variants SHOULD be less than or equal to High Profile, Level 4.1.\n\nそうなのね!!! (まあそうよね)\n",
+				"date_published": "2026-10-07T13:53:40+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/hlsvideo-encoding-requirements-for-maximum.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/appleh.html",
+				
+				"content_html": "<p>Appleは自社イベントの配信にh265使ってるのかな</p>\n",
+				"content_text": "Appleは自社イベントの配信にh265使ってるのかな\n",
+				"date_published": "2026-10-07T10:00:42+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/appleh.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/hevchuniversally-availableh.html",
+				
+				"content_html": "<p>HEVC(h265)は、言うてまだuniversally availableとは言えないんだなあ。泣く泣くいまだにH264使うしかない。使えれば、配信費用半分になるのに…。</p>\n",
+				"content_text": "HEVC(h265)は、言うてまだuniversally availableとは言えないんだなあ。泣く泣くいまだにH264使うしかない。使えれば、配信費用半分になるのに…。\n",
+				"date_published": "2026-10-07T09:56:54+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/hevchuniversally-availableh.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/06/test.html",
+				
+				"content_html": "<p>test</p>\n",
+				"content_text": "test\n",
+				"date_published": "2026-10-06T16:07:56+09:00",
+				"url": "https://tweets.tai2.net/2026/10/06/test.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/06/httpsstaticfigmacomuploadsfabcbfcfbac.html",
+				
+				"content_html": "<p><a href=\"https://static.figma.com/uploads/7fa412b959c1800b05786502f5cf94b718ac6069\">AI時代の\n日本の開発者向け\nガイドブック</a> (Figma)</p>\n",
+				"content_text": "[AI時代の\n日本の開発者向け\nガイドブック](https://static.figma.com/uploads/7fa412b959c1800b05786502f5cf94b718ac6069) (Figma)\n",
+				"date_published": "2026-10-06T14:08:12+09:00",
+				"url": "https://tweets.tai2.net/2026/10/06/httpsstaticfigmacomuploadsfabcbfcfbac.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/10/04/httpsclaudeaishareededeccfeccd.html",
 				
 				"content_html": "<p><a href=\"https://claude.ai/share/2e7d6e6d-5e43-4c4c-87fe-c05335c4d716\">Swift&rsquo;s Objective-C compatibility design</a></p>\n",
@@ -885,6 +925,14 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
+				
+				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
+				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
+				"date_published": "2026-09-03T18:29:54+09:00",
+				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -3381,6 +3429,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
