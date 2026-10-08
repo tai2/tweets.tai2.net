@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/10/08/195848.html",
+				
+				"content_html": "<p>いろんな人がおもしろいって言ってたので銀と金読んでみたけど、さほどおもしろくはないなあ。アニメはおもしろい作品が多いけど、漫画って基本イマイチなんだよなあ。</p>\n",
+				"content_text": "いろんな人がおもしろいって言ってたので銀と金読んでみたけど、さほどおもしろくはないなあ。アニメはおもしろい作品が多いけど、漫画って基本イマイチなんだよなあ。\n",
+				"date_published": "2026-10-08T19:58:48+09:00",
+				"url": "https://tweets.tai2.net/2026/10/08/195848.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/you-should-provide-at-least.html",
+				
+				"content_html": "<blockquote>\n<p>8.12. * You SHOULD provide at least 15 minutes of content in a live (linear) playlist.</p>\n</blockquote>\n<p>ほう? なんで?l</p>\n",
+				"content_text": ">8.12. * You SHOULD provide at least 15 minutes of content in a live (linear) playlist.\n\nほう? なんで?l\n",
+				"date_published": "2026-10-07T17:12:05+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/you-should-provide-at-least.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/you-must-provide-at-least.html",
+				
+				"content_html": "<blockquote>\n<p>8.11. You MUST provide at least six segments in a live (linear) playlist.</p>\n</blockquote>\n<p>ほほう</p>\n",
+				"content_text": ">8.11. You MUST provide at least six segments in a live (linear) playlist.\n\n\nほほう\n",
+				"date_published": "2026-10-07T17:11:31+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/you-must-provide-at-least.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/media-segmentation-target-durations-should.html",
+				
+				"content_html": "<p>Media Segmentationについて</p>\n<blockquote>\n<p>Target durations SHOULD be 6 seconds.</p>\n</blockquote>\n<p>ほほん</p>\n",
+				"content_text": "Media Segmentationについて\n\n>Target durations SHOULD be 6 seconds.\n\nほほん\n",
+				"date_published": "2026-10-07T17:02:57+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/media-segmentation-target-durations-should.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/media-data-should-not-be.html",
+				
+				"content_html": "<blockquote>\n<p>Media data SHOULD NOT be delivered to the application through a local server.</p>\n</blockquote>\n<p>なんで?</p>\n",
+				"content_text": ">Media data SHOULD NOT be delivered to the application through a local server.\n\nなんで?\n",
+				"date_published": "2026-10-07T16:43:18+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/media-data-should-not-be.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/if-multiple-video-streams-are.html",
+				
+				"content_html": "<blockquote>\n<p>If multiple video streams are provided (H.264, HEVC, HDR), each stream SHOULD provide all anticipated bandwidths. Clients SHOULD NOT be required to switch codecs.</p>\n</blockquote>\n<p>あー、はいはい</p>\n",
+				"content_text": ">If multiple video streams are provided (H.264, HEVC, HDR), each stream SHOULD provide all anticipated bandwidths. Clients SHOULD NOT be required to switch codecs.\n\nあー、はいはい\n",
+				"date_published": "2026-10-07T14:55:57+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/if-multiple-video-streams-are.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/frame-rates-above-fps-shall.html",
+				
+				"content_html": "<blockquote>\n<p>Frame rates above 60 fps SHALL NOT be used.</p>\n</blockquote>\n<p>ほうほう</p>\n",
+				"content_text": ">Frame rates above 60 fps SHALL NOT be used.\n\nほうほう\n",
+				"date_published": "2026-10-07T14:51:31+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/frame-rates-above-fps-shall.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/key-frames-idrs-should-be.html",
+				
+				"content_html": "<blockquote>\n<p>Key frames (IDRs) SHOULD be present every two seconds.</p>\n</blockquote>\n<p>これもおもしろいな。なるほど。</p>\n",
+				"content_text": ">Key frames (IDRs) SHOULD be present every two seconds.\n\nこれもおもしろいな。なるほど。\n",
+				"date_published": "2026-10-07T14:42:49+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/key-frames-idrs-should-be.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/for-backward-compatibility-some-video.html",
+				
+				"content_html": "<blockquote>\n<p>For backward compatibility, some video content SHOULD be encoded with H.264.</p>\n</blockquote>\n<p>あ、でもやっぱり</p>\n",
+				"content_text": ">For backward compatibility, some video content SHOULD be encoded with H.264.\n\nあ、でもやっぱり\n\n",
+				"date_published": "2026-10-07T14:40:09+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/for-backward-compatibility-some-video.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/07/143518.html",
+				
+				"content_html": "<p>ああ。読み違えてた。</p>\n",
+				"content_text": "ああ。読み違えてた。\n",
+				"date_published": "2026-10-07T14:35:18+09:00",
+				"url": "https://tweets.tai2.net/2026/10/07/143518.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/10/07/hlsvideo-encoding-requirements-for-maximum.html",
 				
 				"content_html": "<p>HLSの&quot;Video encoding requirements&quot;</p>\n<blockquote>\n<p>For maximum compatibility, some H.264 variants SHOULD be less than or equal to High Profile, Level 4.1.</p>\n</blockquote>\n<p>そうなのね!!! (まあそうよね)</p>\n",
@@ -925,14 +1005,6 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
-				
-				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
-				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
-				"date_published": "2026-09-03T18:29:54+09:00",
-				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -3429,14 +3501,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
