@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/10/15/opaque-and-boxed-protocol-types.html",
+				
+				"content_html": "<p><a href=\"https://docs.swift.org/latest/documentation/the-swift-programming-language/opaquetypes/\">Opaque and Boxed Protocol Types</a></p>\n<p>うわー、なんか汚なーーーい</p>\n",
+				"content_text": "[Opaque and Boxed Protocol Types](https://docs.swift.org/latest/documentation/the-swift-programming-language/opaquetypes/\n)\n\nうわー、なんか汚なーーーい\n",
+				"date_published": "2026-10-15T22:19:41+09:00",
+				"url": "https://tweets.tai2.net/2026/10/15/opaque-and-boxed-protocol-types.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/15/things-to-know-if-you.html",
+				
+				"content_html": "<p><a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">Things to know if you get cancer (2026 Edition) · JJ Maxwell</a></p>\n",
+				"content_text": "[Things to know if you get cancer (2026 Edition) · JJ Maxwell](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)\n",
+				"date_published": "2026-10-15T11:43:11+09:00",
+				"url": "https://tweets.tai2.net/2026/10/15/things-to-know-if-you.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/14/introducing-claude-tag-anthropic.html",
+				
+				"content_html": "<blockquote>\n<p>Introducing Claude Tag \\ Anthropic\n<a href=\"https://www.anthropic.com/news/introducing-claude-tag\">www.anthropic.com/news/intr&hellip;</a></p>\n</blockquote>\n<p>これ便利そうだけど、チームじゃないと使えないかな</p>\n",
+				"content_text": "> Introducing Claude Tag \\ Anthropic\n[www.anthropic.com/news/intr...](https://www.anthropic.com/news/introducing-claude-tag)\n\nこれ便利そうだけど、チームじゃないと使えないかな\n\n",
+				"date_published": "2026-10-14T18:36:28+09:00",
+				"url": "https://tweets.tai2.net/2026/10/14/introducing-claude-tag-anthropic.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/14/redesigning-source-control-at-anthropic.html",
+				
+				"content_html": "<p><a href=\"https://www.anthropic.com/engineering/redesigning-source-control\">Redesigning source control at Anthropic \\ Anthropic</a></p>\n",
+				"content_text": "[Redesigning source control at Anthropic \\ Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)\n",
+				"date_published": "2026-10-14T17:21:48+09:00",
+				"url": "https://tweets.tai2.net/2026/10/14/redesigning-source-control-at-anthropic.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/10/14/httpstabelogcomtokyoaa.html",
 				
 				"content_html": "<p>ドイツビアホール ホフブロイ トウキョウ 新宿店のご予約 - 西武新宿/ビアホール | 食べログ <a href=\"https://tabelog.com/tokyo/A1304/A130401/13319626/\">tabelog.com/tokyo/A13&hellip;</a></p>\n",
@@ -1109,6 +1141,14 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
+				
+				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
+				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
+				"date_published": "2026-09-03T18:29:54+09:00",
+				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -3605,6 +3645,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
