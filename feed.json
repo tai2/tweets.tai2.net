@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/10/25/no-signs-of-ai-payoff.html",
+				
+				"content_html": "<p><a href=\"https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\">No Signs of AI Payoff Outside the Tech Sector | The Daily Spark</a></p>\n",
+				"content_text": "[No Signs of AI Payoff Outside the Tech Sector | The Daily Spark](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)\n",
+				"date_published": "2026-10-25T09:23:42+09:00",
+				"url": "https://tweets.tai2.net/2026/10/25/no-signs-of-ai-payoff.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/21/the-future-of-css-josh.html",
+				
+				"content_html": "<p><a href=\"https://www.joshwcomeau.com/css/interop-2027/\">The Future of CSS ✨ • Josh W. Comeau</a></p>\n",
+				"content_text": "[The Future of CSS ✨ • Josh W. Comeau](https://www.joshwcomeau.com/css/interop-2027/)\n",
+				"date_published": "2026-10-21T17:15:36+09:00",
+				"url": "https://tweets.tai2.net/2026/10/21/the-future-of-css-josh.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/21/150000.html",
+				
+				"content_html": "<p>Using Monorepos <a href=\"https://vercel.com/docs/monorepos#requirements\">vercel.com/docs/mono&hellip;</a></p>\n",
+				"content_text": "Using Monorepos [vercel.com/docs/mono...](https://vercel.com/docs/monorepos#requirements)\n",
+				"date_published": "2026-10-21T15:00:00+09:00",
+				"url": "https://tweets.tai2.net/2026/10/21/150000.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/10/21/claude-code-github-actions-claude.html",
 				
 				"content_html": "<p>Claude Code GitHub Actions - Claude Code Docs <a href=\"https://code.claude.com/docs/en/github-actions\">code.claude.com/docs/en/g&hellip;</a></p>\n",
