@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/10/29/httpsdatastackexchangecomstackoverflowquerygrapht.html",
+				
+				"content_html": "<p><a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\">data.stackexchange.com/stackover&hellip;</a></p>\n<p>こういうのはエモさを感じてしまう</p>\n",
+				"content_text": "[data.stackexchange.com/stackover...](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)\n\nこういうのはエモさを感じてしまう\n",
+				"date_published": "2026-10-29T20:47:58+09:00",
+				"url": "https://tweets.tai2.net/2026/10/29/httpsdatastackexchangecomstackoverflowquerygrapht.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/10/26/microblog-html.html",
+				
+				"content_html": "<p>この micro.blog を日記として使ってるけど、やっぱりなんか味気ない(?)気もする。やっぱり日記は手書きHTMLに限るか。</p>\n",
+				"content_text": "この micro.blog を日記として使ってるけど、やっぱりなんか味気ない(?)気もする。やっぱり日記は手書きHTMLに限るか。\n",
+				"date_published": "2026-10-26T20:10:13+09:00",
+				"url": "https://tweets.tai2.net/2026/10/26/microblog-html.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/10/26/hammberspoon-httpsgithubcomhammerspoonhammerspoon.html",
 				
 				"content_html": "<p>Hammberspoonクッソ便利やんけ。もっと早く気付くべきだった…\n<a href=\"https://github.com/hammerspoon/hammerspoon\">github.com/hammerspo&hellip;</a></p>\n",
