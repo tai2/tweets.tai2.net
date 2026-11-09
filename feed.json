@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/11/09/github-actions-is-slowly-killing.html",
+				
+				"content_html": "<p>GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan <a href=\"https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/\">www.iankduncan.com/engineeri&hellip;</a></p>\n",
+				"content_text": "GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan [www.iankduncan.com/engineeri...](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)\n",
+				"date_published": "2026-11-09T16:38:48+09:00",
+				"url": "https://tweets.tai2.net/2026/11/09/github-actions-is-slowly-killing.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/08/alan-kay-on-linux-youtube.html",
+				
+				"content_html": "<p>Alan Kay on Linux - YouTube <a href=\"https://www.youtube.com/watch?v=rmsIZUuBoQs\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Alan Kay on Linux - YouTube [www.youtube.com/watch](https://www.youtube.com/watch?v=rmsIZUuBoQs)\n",
+				"date_published": "2026-11-08T12:49:15+09:00",
+				"url": "https://tweets.tai2.net/2026/11/08/alan-kay-on-linux-youtube.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/11/08/introduction-ee-httpseecomdocs.html",
 				
 				"content_html": "<p>introduction | e2e <a href=\"https://e2e.com/docs\">e2e.com/docs</a></p>\n",
