@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/11/10/172307.html",
+				
+				"content_html": "<p>あ、そうなんだ!</p>\n<img src=\"uploads/2026/09ebea6f02.png\" alt=\"\">\n",
+				"content_text": "あ、そうなんだ!\n\n<img src=\"uploads/2026/09ebea6f02.png\" alt=\"\">\n",
+				"date_published": "2026-11-10T17:23:07+09:00",
+				"url": "https://tweets.tai2.net/2026/11/10/172307.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/10/161442.html",
+				
+				"content_html": "<p>anthropics/claude-code-security-review: An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. <a href=\"https://github.com/anthropics/claude-code-security-review\">github.com/anthropic&hellip;</a></p>\n",
+				"content_text": "anthropics/claude-code-security-review: An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. [github.com/anthropic...](https://github.com/anthropics/claude-code-security-review)\n",
+				"date_published": "2026-11-10T16:14:42+09:00",
+				"url": "https://tweets.tai2.net/2026/11/10/161442.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/09/develop-in-swift-tutorialsapp-desgindiscoveryapple.html",
+				
+				"content_html": "<p>Develop in Swift Tutorialsはじめたけど、最初のチャプターがApp desginで、DiscoveryフェイズからはじまってるのAppleだなあ。まずはユーザー候補にインタビューするところから。王道だけど、なんとも贅沢なプロセスである。</p>\n",
+				"content_text": "Develop in Swift Tutorialsはじめたけど、最初のチャプターがApp desginで、DiscoveryフェイズからはじまってるのAppleだなあ。まずはユーザー候補にインタビューするところから。王道だけど、なんとも贅沢なプロセスである。\n",
+				"date_published": "2026-11-09T20:39:55+09:00",
+				"url": "https://tweets.tai2.net/2026/11/09/develop-in-swift-tutorialsapp-desgindiscoveryapple.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/09/httpswwwsmrjgojpkyosaiskyosainewsqsktgpfdshtml.html",
+				
+				"content_html": "<p>令和8年「小規模企業共済掛金控除証明書」について | 共済制度 | 独立行政法人 中小企業基盤整備機構 <a href=\"https://www.smrj.go.jp/kyosai/skyosai/news/2026/qsktgp000000fds1.html\">www.smrj.go.jp/kyosai/sk&hellip;</a></p>\n",
+				"content_text": "令和8年「小規模企業共済掛金控除証明書」について | 共済制度 | 独立行政法人 中小企業基盤整備機構 [www.smrj.go.jp/kyosai/sk...](https://www.smrj.go.jp/kyosai/skyosai/news/2026/qsktgp000000fds1.html)\n",
+				"date_published": "2026-11-09T17:10:34+09:00",
+				"url": "https://tweets.tai2.net/2026/11/09/httpswwwsmrjgojpkyosaiskyosainewsqsktgpfdshtml.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/11/09/github-actions-is-slowly-killing.html",
 				
 				"content_html": "<p>GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan <a href=\"https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/\">www.iankduncan.com/engineeri&hellip;</a></p>\n",
@@ -1581,6 +1613,14 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
+				
+				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
+				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
+				"date_published": "2026-09-03T18:29:54+09:00",
+				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -4077,6 +4117,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
