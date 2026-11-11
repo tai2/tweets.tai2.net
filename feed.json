@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/11/11/a-great-oldtimey-gameprogramming-hack.html",
+				
+				"content_html": "<p><a href=\"https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\">A Great Old-Timey Game-Programming Hack - Tom Moertel’s Blog</a></p>\n",
+				"content_text": "[A Great Old-Timey Game-Programming Hack - Tom Moertel’s Blog](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)\n",
+				"date_published": "2026-11-11T18:15:26+09:00",
+				"url": "https://tweets.tai2.net/2026/11/11/a-great-oldtimey-gameprogramming-hack.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/10/172614.html",
+				
+				"content_html": "<p>デザインフェイズ…なんとも贅沢なフェイズだ</p>\n",
+				"content_text": "デザインフェイズ…なんとも贅沢なフェイズだ\n",
+				"date_published": "2026-11-10T17:26:14+09:00",
+				"url": "https://tweets.tai2.net/2026/11/10/172614.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/11/10/172307.html",
 				
 				"content_html": "<p>あ、そうなんだ!</p>\n<img src=\"uploads/2026/09ebea6f02.png\" alt=\"\">\n",
@@ -1613,14 +1629,6 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
-				
-				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
-				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
-				"date_published": "2026-09-03T18:29:54+09:00",
-				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -4117,14 +4125,6 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
-			},
-			{
-				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
-				
-				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
-				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
-				"date_published": "2026-05-09T13:15:17+09:00",
-				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
