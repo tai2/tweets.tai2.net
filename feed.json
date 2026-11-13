@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://tai2.micro.blog/2026/11/13/how-the-claude-code-team.html",
+				
+				"content_html": "<p>How the Claude Code team does code review / claude.dev Blog <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">claude.dev/blog/solv&hellip;</a></p>\n",
+				"content_text": "How the Claude Code team does code review / claude.dev Blog [claude.dev/blog/solv...](https://claude.dev/blog/solving-code-review-at-anthropic/)\n",
+				"date_published": "2026-11-13T13:14:29+09:00",
+				"url": "https://tweets.tai2.net/2026/11/13/how-the-claude-code-team.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/11/11/open-source-says-no.html",
+				
+				"content_html": "<p><a href=\"https://osssaysno.com/\">Open Source Says No</a></p>\n",
+				"content_text": "[Open Source Says No](https://osssaysno.com/)\n",
+				"date_published": "2026-11-11T18:15:57+09:00",
+				"url": "https://tweets.tai2.net/2026/11/11/open-source-says-no.html"
+			},
+			{
 				"id": "http://tai2.micro.blog/2026/11/11/a-great-oldtimey-gameprogramming-hack.html",
 				
 				"content_html": "<p><a href=\"https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\">A Great Old-Timey Game-Programming Hack - Tom Moertel’s Blog</a></p>\n",
@@ -1629,6 +1645,14 @@
 				"content_text": "もう人生で、これから新しく覚えるプログラミング言語も、数えるほどしかないかもしれない。いま覚えているSwiftはおれにとって最後から2番目か3番目の言語になるのかもれいない。\n",
 				"date_published": "2026-09-03T18:46:16+09:00",
 				"url": "https://tweets.tai2.net/2026/09/03/swift.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/09/03/swiftifelse.html",
+				
+				"content_html": "<p>Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。</p>\n",
+				"content_text": "Swiftはなんで三項演算子入れたんだろう。if/elseが式的に振る舞える以上、べつに要らなかったよな。\n",
+				"date_published": "2026-09-03T18:29:54+09:00",
+				"url": "https://tweets.tai2.net/2026/09/03/swiftifelse.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/09/03/i-wanna-live-an-npc.html",
@@ -4125,6 +4149,14 @@
 				"content_text": "なるほどおもしろい\n\n<img src=\"https://cdn.uploads.micro.blog/173347/2026/1c2c85b4e3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-09T13:51:25+09:00",
 				"url": "https://tweets.tai2.net/2026/05/09/135125.html"
+			},
+			{
+				"id": "http://tai2.micro.blog/2026/05/09/openais-webrtc-problem-media-over.html",
+				
+				"content_html": "<p><a href=\"https://moq.dev/blog/webrtc-is-the-problem/\">OpenAI&rsquo;s WebRTC Problem - Media over QUIC</a></p>\n",
+				"content_text": "[OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/)\n",
+				"date_published": "2026-05-09T13:15:17+09:00",
+				"url": "https://tweets.tai2.net/2026/05/09/openais-webrtc-problem-media-over.html"
 			},
 			{
 				"id": "http://tai2.micro.blog/2026/05/08/agents-need-control-flow-not.html",
